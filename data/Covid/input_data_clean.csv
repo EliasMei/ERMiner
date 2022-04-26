@@ -1,0 +1,2501 @@
+sex,country,province,infection_case,confirmed_date,city,state
+male,Korea,Gangwon-do,contact with patient,2020-04-06,Cheorwon-gun,released
+female,Korea,Busan,contact with patient,2020-03-05,Yeonje-gu,released
+male,Korea,Seoul,Shincheonji Church,2020-02-21,Seocho-gu,released
+male,Korea,Seoul,etc,2020-03-05,Gangnam-gu,released
+male,Korea,Busan,overseas inflow,2020-04-07,Haeundae-gu,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-08,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-04-01,Seocho-gu,released
+female,Korea,Seoul,etc,2020-03-02,Gangnam-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-12,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-19,Gyeongju-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+male,Korea,Seoul,overseas inflow,2020-03-20,Yeongdeungpo-gu,released
+male,Korea,Busan,etc,2020-02-28,Busanjin-gu,deceased
+female,Korea,Seoul,etc,2020-03-30,Gwanak-gu,released
+male,Korea,Chungcheongbuk-do,contact with patient,2020-03-05,Cheongju-si,released
+male,Korea,Seoul,etc,2020-03-25,Geumcheon-gu,released
+male,Korea,Busan,etc,2020-02-25,Dongnae-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-24,Bucheon-si,isolated
+male,Korea,Ulsan,contact with patient,2020-05-11,Jung-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-26,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-29,Uiwang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-31,Uijeongbu-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-05,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Gunpo-si,isolated
+female,Korea,Busan,overseas inflow,2020-03-17,Saha-gu,released
+male,Korea,Busan,etc,2020-02-23,Saha-gu,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Yeonsu-gu,released
+female,Korea,Seoul,contact with patient,2020-03-15,Nowon-gu,released
+female,Korea,Busan,overseas inflow,2020-03-24,Buk-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-30,Suwon-si,isolated
+female,Korea,Jeollabuk-do,etc,2020-02-26,etc,released
+male,Korea,Incheon,overseas inflow,2020-03-28,Bupyeong-gu,released
+female,Korea,Daejeon,etc,2020-06-18,Yuseong-gu,isolated
+female,Korea,Incheon,overseas inflow,2020-03-25,Jung-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-23,Seongnam-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-05,Seongbuk-gu,released
+female,Korea,Gyeongsangnam-do,overseas inflow,2020-03-31,Gimhae-si,released
+female,Korea,Seoul,overseas inflow,2020-03-29,Gangnam-gu,released
+male,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-23,Hapcheon-gun,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-06,Gyeongju-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-24,Buyeo-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-21,Hanam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-22,Hanam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-01,Yecheon-gun,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-25,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-30,Yeongyang-gun,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-24,Buyeo-gun,released
+male,Korea,Seoul,contact with patient,2020-03-06,Gangbuk-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-06-14,Geoje-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-02,Gimpo-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-31,Gwanak-gu,released
+male,Korea,Daejeon,contact with patient,2020-06-24,Yuseong-gu,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-09,Yongin-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-14,Gimpo-si,isolated
+male,Korea,Ulsan,etc,2020-03-01,Dong-gu,released
+female,Korea,Daejeon,contact with patient,2020-06-16,Seo-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-13,Goyang-si,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-03-01,Changwon-si,released
+female,Korea,Gyeonggi-do,etc,2020-03-21,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gimcheon-si,released
+female,Korea,Seoul,contact with patient,2020-03-27,Jungnang-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-04-08,Geoje-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Mapo-gu,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-17,Pocheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-31,etc,deceased
+male,Indonesia,Ulsan,overseas inflow,2020-06-06,Buk-gu,isolated
+male,Korea,Seoul,contact with patient,2020-02-24,Songpa-gu,released
+male,Korea,Seoul,contact with patient,2020-03-16,Gangseo-gu,released
+female,Korea,Daegu,contact with patient,2020-06-20,Suseong-gu,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-05,Bonghwa-gun,isolated
+female,Korea,Daejeon,overseas inflow,2020-03-30,Seo-gu,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-09,Yangcheon-gu,released
+male,Korea,Seoul,contact with patient,2020-03-20,Nowon-gu,released
+female,Korea,Chungcheongnam-do,etc,2020-02-29,Cheonan-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-17,Gyeryong-si,isolated
+male,Korea,Daejeon,Orange Town,2020-06-17,Yuseong-gu,isolated
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Yuseong-gu,isolated
+female,Korea,Busan,Onchun Church,2020-02-23,Seo-gu,released
+male,Korea,Seoul,contact with patient,2020-03-30,Jung-gu,released
+male,Korea,Seoul,contact with patient,2020-03-07,Yangcheon-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-10,Seosan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-02,Goyang-si,isolated
+male,Korea,Daejeon,Orange Town,2020-06-19,Jung-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-29,Gyeongsan-si,released
+female,Korea,Seoul,etc,2020-03-28,Dongjak-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Chungcheongbuk-do,Itaewon Clubs,2020-05-14,Cheongju-si,released
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-28,Gwangmyeong-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-02,Jungnang-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Uijeongbu-si,isolated
+male,Korea,Seoul,etc,2020-03-20,Gangdong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Pyeongtaek-si,isolated
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+male,Korea,Seoul,Itaewon Clubs,2020-05-18,Yangcheon-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,deceased
+male,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-05-23,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-01,Gyeongsan-si,released
+male,Korea,Seoul,Itaewon Clubs,2020-05-25,Seongdong-gu,released
+male,Korea,Seoul,contact with patient,2020-03-12,Seongbuk-gu,released
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-11,Yongin-si,isolated
+male,Korea,Busan,overseas inflow,2020-06-23,etc,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-11,Guro-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+male,Korea,Daegu,overseas inflow,2020-06-22,Dalseo-gu,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-29,Yongin-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-15,Guro-gu,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+male,Korea,Jeollanam-do,Shincheonji Church,2020-02-29,Yeosu-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Goyang-si,isolated
+female,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+male,Korea,Seoul,contact with patient,2020-03-27,etc,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-25,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-13,Yecheon-gun,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-15,Eunpyeong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-29,Cheonan-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-30,Yongin-si,isolated
+female,Korea,Seoul,SMR Newly Planted Churches Group,2020-06-02,etc,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-18,Gyeongju-si,released
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-10,Yecheon-gun,isolated
+female,Korea,Ulsan,overseas inflow,2020-04-19,Buk-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-21,Gyeongju-si,released
+female,Korea,Incheon,contact with patient,2020-04-01,Yeonsu-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-24,Yongin-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-18,Dongjak-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-25,Paju-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-17,Osan-si,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-25,Changwon-si,released
+female,Korea,Incheon,contact with patient,2020-03-31,Yeonsu-gu,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Michuhol-gu,released
+female,Korea,Seoul,Coupang Logistics Center,2020-05-27,Yangcheon-gu,released
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-24,Hapcheon-gun,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-08,Anyang-si,isolated
+female,Korea,Gangwon-do,contact with patient,2020-04-14,Cheorwon-gun,isolated
+female,Korea,Sejong,etc,2020-03-22,Sejong,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-25,Gunpo-si,isolated
+male,Korea,Seoul,overseas inflow,2020-04-04,Gangnam-gu,released
+female,China,Seoul,overseas inflow,2020-02-06,Seodaemun-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-19,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-09,Siheung-si,released
+male,Korea,Gangwon-do,etc,2020-06-19,Wonju-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-26,Yongin-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-18,Seongnam-si,isolated
+male,Korea,Jeju-do,etc,2020-02-20,Jeju-do,released
+male,Korea,Gyeongsangnam-do,etc,2020-06-08,Yangsan-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-25,Cheonan-si,released
+male,Korea,Busan,etc,2020-02-29,Haeundae-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-18,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-12,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-27,Seongju-gun,released
+female,Korea,Seoul,Richway,2020-06-27,Mapo-gu,isolated
+female,Korea,Seoul,etc,2020-02-26,Nowon-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Gumi-si,released
+female,Vietnam,Busan,overseas inflow,2020-04-14,Nam-gu,isolated
+male,Korea,Ulsan,etc,2020-02-27,Dong-gu,released
+male,Korea,Seoul,contact with patient,2020-02-19,Jongno-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,etc,2020-03-07,Seongnam-si,isolated
+male,Korea,Seoul,overseas inflow,2020-04-02,Gangdong-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-04,Suwon-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-06,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-31,Gunpo-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-22,Geumjeong-gu,released
+female,Korea,Daejeon,contact with patient,2020-06-24,Seo-gu,isolated
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-27,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+male,Korea,Sejong,overseas inflow,2020-03-24,Sejong,released
+male,Korea,Jeollabuk-do,contact with patient,2020-02-26,etc,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yangcheon-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Bucheon-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-06-13,Asan-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Suwon-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-21,Jungnang-gu,released
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-19,Gunpo-si,isolated
+female,Korea,Seoul,contact with patient,2020-04-02,Gangnam-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-23,Gangnam-gu,released
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-16,Bucheon-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Guro-gu,released
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-12,Bucheon-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gimcheon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-25,Gumi-si,released
+male,Korea,Busan,overseas inflow,2020-03-10,Haeundae-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-23,Andong-si,released
+female,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-02-05,Guri-si,released
+female,Korea,Sejong,contact with patient,2020-06-19,Sejong,isolated
+female,Korea,Incheon,Guro-gu Call Center,2020-03-11,Bupyeong-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-05,Seongnam-si,isolated
+male,Korea,Busan,contact with patient,2020-05-12,Buk-gu,isolated
+male,Korea,Gyeonggi-do,etc,2020-02-27,Yongin-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-12,Songpa-gu,released
+male,Korea,Ulsan,contact with patient,2020-03-03,Buk-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-27,Bucheon-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-31,Gwanak-gu,released
+female,Korea,Incheon,overseas inflow,2020-03-26,Yeonsu-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-22,Yangsan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-23,Bucheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-02-22,Guro-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Daejeon,contact with patient,2020-06-28,Dong-gu,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-08,Nowon-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-04-21,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-08,Gunpo-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-05-24,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-24,Andong-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-07,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-09,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-11,Gumi-si,released
+female,Korea,Busan,overseas inflow,2020-03-18,Busanjin-gu,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-27,Geochang-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-26,Gimcheon-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-13,Bucheon-si,isolated
+female,Korea,Seoul,etc,2020-04-03,Eunpyeong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-27,Gunpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Bucheon-si,isolated
+female,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Gunpo-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-26,Sangju-si,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-11,Bonghwa-gun,deceased
+female,Korea,Gyeonggi-do,contact with patient,2020-04-17,Gunpo-si,isolated
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-14,Eumseong-gun,released
+female,Korea,Jeju-do,etc,2020-02-22,Jeju-do,released
+male,Korea,Daejeon,contact with patient,2020-03-25,Yuseong-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-13,Gumi-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-22,Bucheon-si,isolated
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Bupyeong-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Dongjak-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-28,Seongju-gun,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+male,Korea,Seoul,Itaewon Clubs,2020-05-25,Seongdong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-13,Uijeongbu-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-19,Dongjak-gu,released
+female,Korea,Seoul,contact with patient,2020-02-05,Seongbuk-gu,released
+male,Korea,Jeollabuk-do,etc,2020-03-18,Jeonju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-24,Yecheon-gun,released
+male,Korea,Jeollabuk-do,overseas inflow,2020-03-17,Gunsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Yongin-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-05,Yongsan-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-12,Yecheon-gun,released
+male,Korea,Seoul,etc,2020-02-22,Songpa-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-20,Gunpo-si,isolated
+female,Korea,Seoul,Seongdong-gu APT,2020-02-27,Nowon-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-28,Songpa-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-09,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Osan-si,isolated
+male,Korea,Busan,overseas inflow,2020-05-27,Geumjeong-gu,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-25,Uijeongbu-si,isolated
+male,Korea,Sejong,contact with patient,2020-03-10,Sejong,released
+female,Korea,Seoul,overseas inflow,2020-03-26,Seongbuk-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-24,Yeongju-si,released
+female,Korea,Daejeon,contact with patient,2020-06-17,Yuseong-gu,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-04,Yecheon-gun,released
+male,Korea,Seoul,etc,2020-03-16,Seodaemun-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yangcheon-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-01-26,Goyang-si,released
+male,Korea,Busan,contact with patient,2020-05-11,Saha-gu,isolated
+male,Korea,Chungcheongnam-do,overseas inflow,2020-03-28,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Gwangju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-11,Bucheon-si,isolated
+female,Korea,Gyeongsangnam-do,etc,2020-03-04,Geochang-gun,released
+female,Korea,Gyeongsangnam-do,etc,2020-03-31,Jinju-si,released
+female,Korea,Busan,overseas inflow,2020-04-22,Suyeong-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Gwangju-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,etc,released
+male,Korea,Seoul,contact with patient,2020-04-02,Yangcheon-gu,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-28,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-06-16,Suwon-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-15,Yecheon-gun,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-31,Gwangmyeong-si,isolated
+male,Korea,Gangwon-do,overseas inflow,2020-03-27,Chuncheon-si,released
+male,Korea,Ulsan,overseas inflow,2020-04-13,Nam-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Suwon-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Bucheon-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-19,Nowon-gu,released
+female,Korea,Chungcheongbuk-do,overseas inflow,2020-03-25,Jeungpyeong-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Yeongju-si,released
+male,Korea,Seoul,overseas inflow,2020-04-04,Songpa-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-23,Jongno-gu,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-06-23,Gyeongju-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gimcheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-10,Yangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-07,Ansan-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-17,Pocheon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-01,etc,released
+male,Korea,Chungcheongbuk-do,contact with patient,2020-03-26,Cheongju-si,released
+female,Korea,Sejong,contact with patient,2020-03-10,Sejong,released
+male,Korea,Seoul,etc,2020-03-14,Yeongdeungpo-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-24,Hwaseong-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-31,Yeongdeungpo-gu,released
+male,Korea,Daejeon,contact with patient,2020-02-26,Seo-gu,released
+female,Korea,Ulsan,overseas inflow,2020-03-17,Nam-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-02-24,Suwon-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-10,Yecheon-gun,isolated
+female,Korea,Jeollabuk-do,contact with patient,2020-06-28,etc,isolated
+female,Korea,Seoul,overseas inflow,2020-03-31,Songpa-gu,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-27,Eunpyeong-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Yeongcheon-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-06,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-06,Gwangmyeong-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-05,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-21,Cheongdo-gun,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-24,Gyeongju-si,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Geochang-gun,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-28,Yongin-si,isolated
+female,Korea,Daejeon,overseas inflow,2020-05-06,Yuseong-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Daegu,overseas inflow,2020-06-23,Suseong-gu,isolated
+male,Korea,Seoul,overseas inflow,2020-03-21,Yeongdeungpo-gu,released
+female,Korea,Ulsan,contact with patient,2020-02-27,Nam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-02,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-02-28,Icheon-si,released
+female,Korea,Daejeon,Orange Town,2020-06-17,Jung-gu,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-05,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Suwon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Goyang-si,isolated
+female,Korea,Seoul,etc,2020-03-01,Dongdaemun-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-07,Andong-si,released
+male,Korea,Busan,contact with patient,2020-03-11,etc,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Gimhae-si,released
+female,Korea,Seoul,contact with patient,2020-03-19,Yeongdeungpo-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-28,Seocho-gu,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-11,Gangseo-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-29,Seocho-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Anyang-si,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-23,Goseong-gun,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-03-29,Gimhae-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-18,Gyeongju-si,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-04,Bonghwa-gun,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-07,Pyeongtaek-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-04,Seodaemun-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-07,Suwon-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-01,Siheung-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-28,Gwangmyeong-si,isolated
+female,Korea,Daejeon,Orange Town,2020-06-19,Jung-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-21,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Suwon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-25,Seocho-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-27,Paju-si,isolated
+male,Korea,Daejeon,etc,2020-06-27,Dong-gu,isolated
+female,Korea,Sejong,contact with patient,2020-03-12,Sejong,released
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-03-02,Geochang-gun,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+female,Korea,Seoul,etc,2020-02-28,Seongdong-gu,released
+female,Korea,Gyeongsangnam-do,etc,2020-03-21,Changwon-si,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-05-11,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-02,Paju-si,isolated
+male,Korea,Ulsan,overseas inflow,2020-05-12,Dong-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-19,Songpa-gu,released
+female,Korea,Chungcheongbuk-do,etc,2020-03-07,Goesan-gun,released
+female,Korea,Busan,contact with patient,2020-02-28,Haeundae-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-15,Goyang-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-09,Yecheon-gun,isolated
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Sejong,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-25,Gwangju-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-15,Gyeongsan-si,released
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-24,Hapcheon-gun,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-14,Goyang-si,isolated
+male,Korea,Gyeonggi-do,Shincheonji Church,2020-02-25,Anyang-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Uijeongbu-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-01,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-26,Sangju-si,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-22,Changwon-si,released
+male,Korea,Gyeonggi-do,etc,2020-02-24,Suwon-si,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-05,Bonghwa-gun,isolated
+female,Korea,Seoul,overseas inflow,2020-04-02,Yongsan-gu,released
+male,Korea,Seoul,etc,2020-03-09,etc,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-21,Gyeongju-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-03,Icheon-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-30,Pyeongtaek-si,isolated
+male,Korea,Daegu,Shincheonji Church,2020-02-18,Jung-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-29,Gyeongsan-si,deceased
+female,Korea,Gyeongsangnam-do,etc,2020-03-31,Sancheong-gun,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-04-22,Sejong,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-13,Gyeongsan-si,released
+female,Korea,Seoul,etc,2020-03-31,Dongjak-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-07,Namyangju-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Ulsan,contact with patient,2020-04-11,Nam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-01,Uijeongbu-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-20,Gunpo-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-02,Gangnam-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-16,Gumi-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-08,Cheonan-si,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-25,Geoje-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Gimcheon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-19,Yeongcheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Namyangju-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-14,Gangnam-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-27,Bucheon-si,isolated
+male,Korea,Gyeongsangnam-do,contact with patient,2020-03-04,Geochang-gun,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-20,Bonghwa-gun,isolated
+female,Korea,Gyeonggi-do,Shincheonji Church,2020-02-24,Anyang-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-01,etc,released
+male,Korea,Seoul,overseas inflow,2020-04-03,Dongjak-gu,released
+male,Korea,Gyeonggi-do,Shincheonji Church,2020-02-27,Gwacheon-si,released
+male,Korea,Gyeonggi-do,etc,2020-02-23,Pyeongtaek-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-07,Yangcheon-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-28,Changnyeong-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-04,Pyeongtaek-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-19,Gangseo-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-20,Seongnam-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-03,Gangdong-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-09,Pohang-si,released
+male,Korea,Ulsan,overseas inflow,2020-05-18,Ulju-gun,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-26,Seongju-gun,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-04-01,Gwangjin-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-23,Pohang-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-06-25,Gyeongju-si,isolated
+female,Korea,Seoul,etc,2020-03-28,Guro-gu,released
+male,Korea,Ulsan,Shincheonji Church,2020-02-25,Jung-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-09,Yecheon-gun,isolated
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-11,Uijeongbu-si,isolated
+male,Korea,Seoul,Seongdong-gu APT,2020-02-19,Seongdong-gu,released
+male,Korea,Busan,overseas inflow,2020-05-28,Dongnae-gu,isolated
+male,Korea,Seoul,contact with patient,2020-04-01,Seocho-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-26,Yeongcheon-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Namyangju-si,isolated
+female,Korea,Daejeon,etc,2020-06-30,Seo-gu,isolated
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-17,Sejong,released
+female,Korea,Seoul,overseas inflow,2020-04-01,Songpa-gu,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-20,Cheongdo-gun,released
+male,Korea,Gyeonggi-do,etc,2020-05-25,Yongin-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-11,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-04,Goryeong-gun,released
+male,Korea,Gyeongsangnam-do,etc,2020-03-31,Jinju-si,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-14,Namdong-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-01,Gumi-si,released
+male,Korea,Seoul,overseas inflow,2020-03-12,Yongsan-gu,released
+male,Korea,Daejeon,contact with patient,2020-02-28,Yuseong-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-05,Gyeongju-si,released
+male,Korea,Busan,contact with patient,2020-03-03,Dongnae-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-11,Yecheon-gun,isolated
+female,Korea,Incheon,overseas inflow,2020-03-30,Namdong-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-10,Bonghwa-gun,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-05,Bonghwa-gun,isolated
+male,Korea,Busan,contact with patient,2020-02-24,Saha-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-31,Gangnam-gu,released
+male,Korea,Gyeonggi-do,etc,2020-03-24,Ansan-si,isolated
+male,Korea,Seoul,etc,2020-03-29,Guro-gu,released
+female,Korea,Chungcheongbuk-do,etc,2020-02-25,Cheongju-si,released
+male,Korea,Seoul,Itaewon Clubs,2020-05-18,Yangcheon-gu,released
+male,Korea,Gyeonggi-do,etc,2020-02-25,Icheon-si,released
+female,Korea,Seoul,contact with patient,2020-03-24,Eunpyeong-gu,released
+male,Korea,Seoul,contact with patient,2020-03-13,Dongjak-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-19,Gyeongju-si,released
+male,Korea,Seoul,overseas inflow,2020-03-25,Dongjak-gu,released
+female,Korea,Chungcheongnam-do,Richway,2020-06-05,Asan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-18,Gyeongju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-21,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-23,Yeongcheon-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Guro-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-18,Gyeongju-si,released
+male,Korea,Busan,overseas inflow,2020-06-19,Nam-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-04-07,Gyeongsan-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-27,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-29,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-03,Suwon-si,released
+male,Korea,Seoul,overseas inflow,2020-04-05,etc,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-13,Pocheon-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-04-16,Changwon-si,released
+male,Korea,Gyeonggi-do,etc,2020-04-02,Anyang-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+male,Korea,Jeollanam-do,overseas inflow,2020-03-21,Muan-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-08,Pocheon-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yeongdeungpo-gu,released
+female,Korea,Seoul,Dongan Church,2020-03-08,Dongdaemun-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-06,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-01,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-07,Gyeongsan-si,released
+male,Korea,Daejeon,overseas inflow,2020-04-21,Jung-gu,released
+male,Korea,Seoul,Biblical Language study meeting,2020-05-20,Yangcheon-gu,released
+male,Korea,Gyeonggi-do,etc,2020-04-28,Goyang-si,isolated
+female,Korea,Chungcheongnam-do,etc,2020-03-10,Cheonan-si,released
+female,Korea,Gyeonggi-do,gym facility in Cheonan,2020-03-06,Pyeongtaek-si,isolated
+female,Korea,Ulsan,Shincheonji Church,2020-02-24,Jung-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-22,Gangseo-gu,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-21,Cheongdo-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gangwon-do,overseas inflow,2020-03-29,Sokcho-si,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-14,Sejong,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-02,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-19,Seongnam-si,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-04-01,Gimhae-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-04,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-22,Gyeongju-si,deceased
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gimcheon-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Paju-si,isolated
+female,Korea,Chungcheongbuk-do,etc,2020-05-17,Cheongju-si,released
+male,Korea,Incheon,Guro-gu Call Center,2020-03-12,Namdong-gu,released
+male,Korea,Busan,overseas inflow,2020-05-07,etc,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Jung-gu,released
+male,Korea,Seoul,contact with patient,2020-02-29,Gangnam-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-31,Gyeongsan-si,released
+female,Korea,Busan,contact with patient,2020-02-23,Seo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-18,Suwon-si,released
+female,Korea,Daejeon,Dunsan Electronics Town,2020-06-23,Jung-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-19,Ansan-si,isolated
+male,Korea,Busan,Onchun Church,2020-03-02,Suyeong-gu,released
+female,Korea,Daejeon,etc,2020-06-20,Seo-gu,isolated
+female,Korea,Chungcheongnam-do,etc,2020-04-01,Buyeo-gun,released
+female,Korea,Busan,etc,2020-03-06,Sasang-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-22,Yongin-si,isolated
+female,Korea,Busan,overseas inflow,2020-04-07,Haeundae-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-18,Gangnam-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-31,Buyeo-gun,released
+male,Korea,Seoul,overseas inflow,2020-03-26,Seocho-gu,released
+male,Korea,Busan,contact with patient,2020-03-22,Saha-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-13,Sejong,released
+male,Korea,Seoul,contact with patient,2020-04-04,Seongbuk-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-27,Gunpo-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-04-04,Goyang-si,isolated
+female,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-21,Cheongdo-gun,released
+male,Korea,Seoul,contact with patient,2020-03-07,Gangnam-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-26,Gunpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-06,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Goyang-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-10,Asan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-12,Suwon-si,isolated
+male,Korea,Seoul,Dongan Church,2020-03-06,Seongbuk-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-05-25,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Busan,contact with patient,2020-03-12,etc,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+male,Korea,Ulsan,Shincheonji Church,2020-02-27,Buk-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-02-24,Pocheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-19,Goryeong-gun,released
+male,Korea,Busan,Onchun Church,2020-02-26,Haeundae-gu,released
+male,Korea,Gyeonggi-do,etc,2020-02-25,Gimpo-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-11,Seongbuk-gu,released
+male,Korea,Incheon,etc,2020-03-17,Gyeyang-gu,released
+female,Korea,Seoul,etc,2020-03-28,Dongjak-gu,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-23,Jongno-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-11,Seongnam-si,isolated
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-06-21,Eumseong-gun,isolated
+male,Korea,Seoul,overseas inflow,2020-04-01,etc,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-04-24,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-13,Bucheon-si,isolated
+female,Korea,Daejeon,etc,2020-02-21,Dong-gu,released
+male,Korea,Gyeonggi-do,etc,2020-02-28,Goyang-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-05,Yongin-si,isolated
+female,Korea,Incheon,overseas inflow,2020-04-09,Namdong-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-06,Yecheon-gun,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-24,Buyeo-gun,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Gunpo-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-03,Namyangju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-24,Uijeongbu-si,isolated
+female,Korea,Busan,contact with patient,2020-03-22,Saha-gu,released
+male,Korea,Daejeon,contact with patient,2020-02-27,Seo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-18,Seongnam-si,isolated
+male,Korea,Seoul,Itaewon Clubs,2020-05-10,Yangcheon-gu,released
+female,Korea,Busan,contact with patient,2020-02-26,Haeundae-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-17,Yongin-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-10,Dongdaemun-gu,released
+female,Korea,Daejeon,contact with patient,2020-06-17,Sejong,isolated
+female,Korea,Gyeonggi-do,etc,2020-04-08,Bucheon-si,isolated
+female,Korea,Incheon,Ministry of Oceans and Fisheries,2020-03-14,Namdong-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-10,Yecheon-gun,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-26,Asan-si,released
+female,Korea,Incheon,overseas inflow,2020-04-18,Namdong-gu,released
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-03-29,Eumseong-gun,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-12,Yangju-si,isolated
+female,Korea,Daejeon,Orange Town,2020-06-17,Seo-gu,isolated
+female,Korea,Daejeon,overseas inflow,2020-04-05,Daedeok-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-20,Gwanak-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+male,Korea,Seoul,etc,2020-02-25,etc,released
+female,Korea,Seoul,overseas inflow,2020-03-29,Gwangjin-gu,released
+male,Korea,Gangwon-do,contact with patient,2020-04-04,Cheorwon-gun,released
+female,Korea,Gangwon-do,Shincheonji Church,2020-02-22,Chuncheon-si,released
+male,Korea,Busan,Onchun Church,2020-02-23,Geumjeong-gu,released
+male,Korea,Busan,contact with patient,2020-02-27,Dongnae-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-20,Guro-gu,released
+male,Korea,Seoul,etc,2020-03-30,Guro-gu,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-22,Dong-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Anyang-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-22,Dongnae-gu,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Yuseong-gu,isolated
+male,United States,Chungcheongnam-do,overseas inflow,2020-04-03,Asan-si,released
+female,Korea,Daejeon,contact with patient,2020-06-24,Seo-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-06,Dongducheon-si,isolated
+female,Korea,Gangwon-do,overseas inflow,2020-04-04,Gangneung-si,released
+male,Korea,Seoul,overseas inflow,2020-04-04,Songpa-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Namyangju-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-04-14,Gyeongsan-si,released
+female,Korea,Busan,Onchun Church,2020-03-07,Dongnae-gu,released
+female,Korea,Daejeon,etc,2020-06-18,Yuseong-gu,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+female,Korea,Chungcheongnam-do,etc,2020-03-09,Cheonan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+male,Korea,Seoul,overseas inflow,2020-04-03,Songpa-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-25,Yeongcheon-si,released
+male,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-09,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Suwon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-25,Seocho-gu,released
+female,Korea,Gangwon-do,etc,2020-06-09,Chuncheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-07,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Pocheon-si,isolated
+male,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-26,Gimhae-si,released
+male,Korea,Seoul,Itaewon Clubs,2020-05-11,Yangcheon-gu,isolated
+female,Korea,Jeollanam-do,etc,2020-02-28,Suncheon-si,released
+male,Korea,Jeollanam-do,etc,2020-03-24,Mokpo-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Seongnam-si,isolated
+male,Germany,Busan,overseas inflow,2020-03-27,Geumjeong-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-28,Gangnam-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Andong-si,released
+female,Korea,Seoul,etc,2020-02-27,Gangnam-gu,released
+female,Korea,Gangwon-do,etc,2020-03-01,Gangneung-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-27,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-25,Andong-si,released
+male,Korea,Seoul,Dongan Church,2020-03-13,Dongdaemun-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-19,Yecheon-gun,isolated
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Geochang-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-01,Yeongcheon-si,released
+male,Korea,Sejong,overseas inflow,2020-03-28,Sejong,released
+female,Korea,Seoul,contact with patient,2020-03-28,Dongjak-gu,released
+female,Korea,Daejeon,contact with patient,2020-03-12,Yuseong-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-06-20,Gimhae-si,isolated
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-26,Cheonan-si,released
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-06-06,Cheongju-si,released
+female,Korea,Seoul,etc,2020-03-30,etc,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-22,Cheongdo-gun,deceased
+male,Korea,Ulsan,overseas inflow,2020-03-26,Ulju-gun,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-19,Gunpo-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-02,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Seoul,etc,2020-04-01,Yangcheon-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Seoul,etc,2020-03-30,Gwanak-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Asan-si,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Seo-gu,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-29,Yongin-si,isolated
+male,Korea,Gyeongsangnam-do,Itaewon Clubs,2020-05-12,Geoje-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-28,Seongju-gun,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-12,Guri-si,isolated
+female,Korea,Incheon,overseas inflow,2020-03-26,Namdong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-19,Gwangju-si,released
+male,Korea,Seoul,etc,2020-03-23,Yeongdeungpo-gu,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Seo-gu,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-30,Sangju-si,released
+male,Korea,Gyeongsangnam-do,Itaewon Clubs,2020-05-21,Jinju-si,released
+male,Korea,Gangwon-do,contact with patient,2020-04-14,Cheorwon-gun,released
+female,Korea,Chungcheongbuk-do,etc,2020-03-20,Chungju-si,released
+male,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-20,Hapcheon-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-25,Siheung-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Seoul,contact with patient,2020-04-03,Songpa-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-22,Icheon-si,released
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Daejeon,contact with patient,2020-06-24,Yuseong-gu,isolated
+male,Korea,Seoul,Seoul City Hall Station safety worker,2020-06-19,Yeongdeungpo-gu,isolated
+male,Korea,Seoul,overseas inflow,2020-03-31,Gangnam-gu,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-27,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-20,Seongdong-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-09,Gangdong-gu,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-20,Cheongdo-gun,released
+male,Korea,Gyeonggi-do,Shincheonji Church,2020-02-29,Icheon-si,released
+female,Korea,Seoul,overseas inflow,2020-04-03,Seocho-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Bucheon-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-09,Guro-gu,released
+female,Korea,Daejeon,etc,2020-05-16,Yuseong-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-17,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-30,Hwaseong-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-11,Gangseo-gu,released
+male,Korea,Seoul,etc,2020-02-26,Nowon-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-23,Changwon-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-10,Seosan-si,released
+female,Korea,Gyeonggi-do,etc,2020-03-19,Gunpo-si,isolated
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-20,Cheongdo-gun,deceased
+female,Korea,Gyeongsangnam-do,etc,2020-03-04,Changnyeong-gun,released
+female,Korea,Incheon,overseas inflow,2020-04-16,Seo-gu,released
+female,Korea,Seoul,contact with patient,2020-01-31,Seongbuk-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-10,Gyeongsan-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-27,Buyeo-gun,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Pohang-si,released
+female,Korea,Jeollanam-do,etc,2020-03-24,Mokpo-si,released
+male,Korea,Daejeon,overseas inflow,2020-03-25,Dong-gu,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+male,Korea,Seoul,contact with patient,2020-03-28,Geumcheon-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-05,Pohang-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+male,Korea,Seoul,etc,2020-03-15,Gangseo-gu,released
+female,Korea,Jeollanam-do,etc,2020-03-30,Muan-gun,released
+male,Korea,Seoul,overseas inflow,2020-03-25,etc,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-19,Siheung-si,isolated
+female,Korea,Chungcheongbuk-do,etc,2020-05-16,Cheongju-si,released
+female,Korea,Daejeon,contact with patient,2020-06-22,Jung-gu,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-25,Suwon-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+male,Korea,Seoul,etc,2020-04-02,Guro-gu,released
+female,Korea,Seoul,contact with patient,2020-03-13,Seocho-gu,released
+male,Korea,Busan,etc,2020-02-23,Dongnae-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-25,Yongin-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-03-31,Jinju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-21,Namyangju-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-29,Gyeongsan-si,released
+male,Korea,Busan,Suyeong-gu Kindergarten,2020-02-29,Suyeong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-20,Nonsan-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-09,Uijeongbu-si,isolated
+female,Korea,Busan,contact with patient,2020-03-13,Haeundae-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-04,Yongin-si,released
+female,Korea,Daejeon,etc,2020-06-24,Seo-gu,isolated
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-10,Sejong,released
+male,Korea,Jeollabuk-do,overseas inflow,2020-05-07,Gunsan-si,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-04-07,Gumi-si,released
+female,Korea,Chungcheongbuk-do,overseas inflow,2020-05-07,Chungju-si,released
+female,Korea,Gyeongsangnam-do,etc,2020-03-31,Jinju-si,released
+male,Korea,Daejeon,overseas inflow,2020-05-11,Yuseong-gu,released
+male,Korea,Gyeonggi-do,etc,2020-02-29,Suwon-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-25,Gwangju-si,released
+female,Korea,Gyeonggi-do,etc,2020-04-07,Yongin-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-02-25,Changwon-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-08,Goyang-si,isolated
+female,Korea,Busan,Onchun Church,2020-02-25,Haeundae-gu,released
+female,Korea,Incheon,Shincheonji Church,2020-02-22,Bupyeong-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-03,Gangnam-gu,released
+female,Korea,Seoul,contact with patient,2020-03-19,Yongsan-gu,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-04-04,Andong-si,released
+female,Korea,Ulsan,overseas inflow,2020-03-24,Nam-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-24,Andong-si,released
+male,Korea,Incheon,contact with patient,2020-03-19,Gyeyang-gu,released
+female,Korea,Gyeongsangnam-do,etc,2020-02-26,Changnyeong-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-08,Gwangju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-30,Yongin-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-02-24,Bucheon-si,isolated
+female,Korea,Daejeon,etc,2020-02-22,Yuseong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-15,Asan-si,isolated
+male,Korea,Gangwon-do,contact with patient,2020-03-03,Wonju-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Guro-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-21,Mungyeong-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-28,Gimpo-si,isolated
+female,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gimcheon-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gangseo-gu,released
+female,United Kingdom,Gangwon-do,overseas inflow,2020-05-23,Wonju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-23,Bucheon-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-05,Gyeongsan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-25,Gangnam-gu,released
+male,Korea,Chungcheongbuk-do,contact with patient,2020-02-22,Cheongju-si,released
+male,Korea,Seoul,overseas inflow,2020-04-01,etc,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-29,Sangju-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-03,Yeongcheon-si,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-20,Cheongdo-gun,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-21,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-27,Bucheon-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-27,Jungnang-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-04,Yecheon-gun,released
+female,Korea,Gyeonggi-do,etc,2020-03-11,Goyang-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-14,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-29,Gwangmyeong-si,isolated
+female,Korea,Incheon,Shincheonji Church,2020-03-03,Bupyeong-gu,released
+female,Korea,Seoul,overseas inflow,2020-02-25,Gwanak-gu,released
+female,Korea,Gangwon-do,contact with patient,2020-03-01,Wonju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-26,Goyang-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-21,Gyeongju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-10,Goyang-si,isolated
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-24,Hapcheon-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-08,Anseong-si,released
+male,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-28,Eunpyeong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-05,Cheonan-si,released
+male,Korea,Gyeonggi-do,Shincheonji Church,2020-02-22,Gimpo-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-29,Gwanak-gu,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Bupyeong-gu,released
+female,Korea,Ulsan,Shincheonji Church,2020-02-22,Ulju-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-09,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-09,Gumi-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-23,Yongin-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-03,Namyangju-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-23,Sangju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-29,Gyeongsan-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-30,Songpa-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-01,Mapo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-28,Icheon-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-07,Andong-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-03,Gumi-si,released
+female,Korea,Ulsan,contact with patient,2020-02-28,Nam-gu,released
+male,Foreign,Busan,overseas inflow,2020-05-01,Sasang-gu,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-26,Sangju-si,released
+female,Korea,Daejeon,etc,2020-02-28,Seo-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-09,Anyang-si,isolated
+male,Korea,Seoul,contact with patient,2020-01-31,Jongno-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-15,Yecheon-gun,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-14,Seongju-gun,released
+female,Korea,Seoul,contact with patient,2020-03-08,Dongdaemun-gu,released
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Gimpo-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-05-22,Gumi-si,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Changwon-si,released
+male,Korea,Busan,etc,2020-04-18,Buk-gu,isolated
+male,Korea,Gyeonggi-do,etc,2020-02-26,Anyang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Uijeongbu-si,isolated
+male,Korea,Seoul,etc,2020-03-28,Guro-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Seongnam-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-12,Nowon-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-11,Gumi-si,released
+male,Korea,Seoul,etc,2020-02-20,etc,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-28,Eunpyeong-gu,released
+female,Korea,Ulsan,overseas inflow,2020-03-18,Jung-gu,released
+male,Korea,Chungcheongbuk-do,contact with patient,2020-02-20,Jeungpyeong-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-26,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-01,Gyeongsan-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Seoul,etc,2020-03-28,Guro-gu,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-27,Changwon-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-06-05,Gumi-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-16,Yongsan-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-04,Gyeongju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-09,Uijeongbu-si,isolated
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-05-06,Cheongju-si,isolated
+female,Korea,Gangwon-do,overseas inflow,2020-03-23,Wonju-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Gangseo-gu,released
+male,Korea,Seoul,contact with patient,2020-03-06,etc,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-06,Pyeongtaek-si,isolated
+female,Korea,Ulsan,contact with patient,2020-03-14,Nam-gu,released
+male,Bangladesh,Gyeongsangbuk-do,overseas inflow,2020-06-19,Goryeong-gun,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Suwon-si,isolated
+male,Korea,Seoul,overseas inflow,2020-01-30,Jungnang-gu,released
+male,Korea,Seoul,contact with patient,2020-03-27,Yeongdeungpo-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-03,Songpa-gu,released
+female,Korea,Busan,contact with patient,2020-02-22,Yeonje-gu,isolated
+female,Korea,Sejong,gym facility in Cheonan,2020-04-07,Sejong,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-06,Yongin-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-31,Mapo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-11,Gwangju-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+male,Korea,Busan,overseas inflow,2020-04-06,Dong-gu,isolated
+female,Korea,Jeju-do,overseas inflow,2020-03-29,Jeju-do,released
+female,Korea,Busan,overseas inflow,2020-04-21,Nam-gu,isolated
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Geochang-gun,released
+male,Korea,Daejeon,etc,2020-03-04,Yuseong-gu,released
+female,Korea,Ulsan,contact with patient,2020-02-25,Dong-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-26,Pyeongtaek-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gumi-si,released
+male,Korea,Busan,overseas inflow,2020-04-23,Sasang-gu,isolated
+female,Korea,Gyeongsangnam-do,etc,2020-03-04,Changwon-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+female,Korea,Gangwon-do,contact with patient,2020-04-02,Cheorwon-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,Pilgrimage to Israel,2020-02-21,Yecheon-gun,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+male,Korea,Chungcheongbuk-do,etc,2020-02-27,Cheongju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-25,Bucheon-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gyeongsan-si,released
+male,Korea,Gangwon-do,Shincheonji Church,2020-02-29,Wonju-si,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-27,Eunpyeong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-28,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-05-23,Gimpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-06,Dongducheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-02-20,Jongno-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-19,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+female,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-13,Hwaseong-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Mapo-gu,released
+female,Korea,Gyeonggi-do,etc,2020-02-28,Pyeongtaek-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-13,Pyeongtaek-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-21,Seodaemun-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,released
+female,Korea,Busan,etc,2020-02-25,Sasang-gu,released
+male,Korea,Seoul,etc,2020-03-16,Gwanak-gu,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-03-06,Geochang-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-23,Seongnam-si,isolated
+female,Korea,Chungcheongnam-do,etc,2020-03-05,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-04-01,Dongdaemun-gu,released
+male,Korea,Gyeongsangnam-do,etc,2020-02-28,Gimhae-si,released
+female,Korea,Busan,contact with patient,2020-02-23,Suyeong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-24,Uiwang-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-24,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-05-21,Gumi-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-19,Anyang-si,isolated
+male,Korea,Seoul,KB Life Insurance,2020-06-02,Gangseo-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-20,Guri-si,isolated
+female,Korea,Ulsan,overseas inflow,2020-03-18,Jung-gu,released
+male,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-26,Eunpyeong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-29,Hwaseong-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-11,Goyang-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-02-22,Bucheon-si,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Changwon-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-01,Gyeongju-si,released
+female,Korea,Busan,contact with patient,2020-04-21,Buk-gu,isolated
+male,Korea,Gyeonggi-do,etc,2020-05-22,Gimpo-si,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-03-03,Geoje-si,released
+male,Korea,Seoul,contact with patient,2020-03-12,Dongdaemun-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-03-07,Geochang-gun,released
+female,Korea,Seoul,overseas inflow,2020-04-04,Gwanak-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-05,Pyeongtaek-si,isolated
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-20,Yeongcheon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-08,Gimcheon-si,released
+male,Korea,Incheon,overseas inflow,2020-04-07,Seo-gu,released
+male,Korea,Busan,overseas inflow,2020-04-09,etc,isolated
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+male,Korea,Gyeonggi-do,etc,2020-02-28,Icheon-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-10,Hwaseong-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-13,Bucheon-si,isolated
+male,Korea,Seoul,SMR Newly Planted Churches Group,2020-06-01,Gangseo-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-16,Yecheon-gun,isolated
+female,Korea,Busan,contact with patient,2020-02-22,Haeundae-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-16,Gumi-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-18,Seongnam-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-19,Mapo-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-15,Yongin-si,isolated
+male,Korea,Seoul,etc,2020-02-25,Gangdong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Gangwon-do,Shincheonji Church,2020-03-01,Gangneung-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Incheon,contact with patient,2020-03-03,Michuhol-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-03-04,Miryang-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-07,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-26,Sangju-si,released
+female,Korea,Seoul,etc,2020-03-11,Eunpyeong-gu,released
+male,Korea,Seoul,etc,2020-03-02,Seocho-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-13,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-21,Andong-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-23,Siheung-si,isolated
+female,Korea,Incheon,contact with patient,2020-03-26,Bupyeong-gu,released
+female,Korea,Daegu,overseas inflow,2020-06-17,Icheon-dong,isolated
+female,Korea,Sejong,gym facility in Sejong,2020-03-08,Sejong,released
+female,Korea,Gyeonggi-do,Shincheonji Church,2020-02-25,Gwacheon-si,isolated
+male,Korea,Gangwon-do,overseas inflow,2020-03-29,Chuncheon-si,released
+male,Korea,Seoul,contact with patient,2020-04-05,Gwanak-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-21,Gangseo-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-18,Yeongcheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-05,Gunpo-si,isolated
+female,Korea,Sejong,etc,2020-06-18,Sejong,isolated
+male,Korea,Gyeongsangnam-do,contact with patient,2020-04-06,Sacheon-si,released
+female,Korea,Jeju-do,overseas inflow,2020-05-30,Jeju-do,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Yeongcheon-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Goyang-si,isolated
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-23,Seo-gu,isolated
+female,Korea,Seoul,contact with patient,2020-03-09,Dongjak-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-02,etc,released
+female,Korea,Gyeonggi-do,etc,2020-03-25,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+male,Mongolia,Gyeonggi-do,etc,2020-02-25,Namyangju-si,deceased
+female,Korea,Busan,Onchun Church,2020-02-23,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-09,Anyang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Gunpo-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-03,Pyeongtaek-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Gwangmyeong-si,isolated
+male,Korea,Seoul,Itaewon Clubs,2020-05-24,Seongdong-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-27,Yecheon-gun,isolated
+male,Korea,Daejeon,etc,2020-06-27,Seo-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-02-22,Anyang-si,isolated
+female,Korea,Ulsan,contact with patient,2020-03-03,Buk-gu,released
+male,Korea,Chungcheongbuk-do,contact with patient,2020-03-17,Chungju-si,released
+female,Korea,Daejeon,etc,2020-06-24,Seo-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-23,Bucheon-si,isolated
+male,Korea,Ulsan,contact with patient,2020-03-18,Jung-gu,released
+male,Korea,Daejeon,etc,2020-06-15,Seo-gu,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Andong-si,released
+male,Korea,Daejeon,contact with patient,2020-06-29,Dong-gu,isolated
+male,Korea,Busan,etc,2020-02-29,Seo-gu,released
+male,Korea,Chungcheongnam-do,overseas inflow,2020-04-07,Cheonan-si,released
+male,Korea,Incheon,etc,2020-04-03,Seo-gu,released
+male,Korea,Seoul,overseas inflow,2020-02-07,etc,released
+female,Korea,Jeollabuk-do,overseas inflow,2020-01-30,Gunsan-si,released
+male,Korea,Gyeongsangnam-do,Geochang Church,2020-02-28,Geochang-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Paju-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Pohang-si,released
+male,Korea,Seoul,overseas inflow,2020-03-20,Eunpyeong-gu,released
+male,Korea,Jeju-do,etc,2020-03-04,Jeju-do,released
+female,Korea,Seoul,overseas inflow,2020-03-30,Seocho-gu,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-04-13,Sejong,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-10,Bonghwa-gun,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Dongjak-gu,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Chungcheongnam-do,overseas inflow,2020-03-17,Hongseong-gun,released
+male,Korea,Seoul,overseas inflow,2020-03-12,Gwanak-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-02,Gwanak-gu,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-21,Yeongcheon-si,deceased
+female,Korea,Gyeonggi-do,overseas inflow,2020-05-28,Suwon-si,isolated
+female,Korea,Seoul,contact with patient,2020-02-20,Jongno-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-18,Seongnam-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-10,Nowon-gu,released
+male,Korea,Busan,contact with patient,2020-02-27,Suyeong-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gimcheon-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Yongin-si,isolated
+female,Korea,Seoul,etc,2020-02-26,Eunpyeong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-25,Hwaseong-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-28,Hwaseong-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-25,Gyeongju-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-25,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-04,Bonghwa-gun,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Bucheon-si,isolated
+male,Korea,Daejeon,contact with patient,2020-06-17,Seo-gu,isolated
+female,Korea,Busan,Shincheonji Church,2020-02-29,Saha-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-27,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Gimcheon-si,released
+male,Korea,Ulsan,overseas inflow,2020-05-21,Dong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-19,Seongnam-si,isolated
+female,Korea,Seoul,etc,2020-03-29,Gwanak-gu,released
+male,Korea,Jeollabuk-do,overseas inflow,2020-04-02,Jeonju-si,released
+female,Korea,Seoul,etc,2020-03-16,Seodaemun-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-20,Bucheon-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Yeongcheon-si,released
+male,Switzerland,Busan,overseas inflow,2020-03-18,Dongnae-gu,released
+male,Korea,Seoul,etc,2020-03-20,Dongjak-gu,released
+female,Korea,Seoul,contact with patient,2020-03-08,Dongdaemun-gu,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-22,Chungju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Daejeon,contact with patient,2020-02-26,Seo-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Yongin-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-27,Gangnam-gu,released
+female,Korea,Busan,contact with patient,2020-02-28,Yeonje-gu,released
+male,Korea,Jeollabuk-do,etc,2020-03-31,Jeonju-si,released
+female,Korea,Incheon,overseas inflow,2020-03-28,Namdong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-27,Ansan-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-26,Gangnam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-19,Anyang-si,isolated
+male,Korea,Jeollanam-do,contact with patient,2020-06-27,etc,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-03-16,Changwon-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-16,Yecheon-gun,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Yeongcheon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-06,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Pyeongtaek-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-31,Gangnam-gu,released
+male,Korea,Ulsan,overseas inflow,2020-05-29,Jung-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Yeongcheon-si,released
+female,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Sejong,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-10,Seosan-si,released
+male,Korea,Seoul,Seongdong-gu APT,2020-03-01,Gwangjin-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-16,Sangju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Chungcheongnam-do,overseas inflow,2020-03-17,Hongseong-gun,released
+female,Korea,Sejong,gym facility in Sejong,2020-03-08,Sejong,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Yeongcheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-09,Namyangju-si,isolated
+male,Korea,Daejeon,overseas inflow,2020-05-05,Yuseong-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-30,Yongsan-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gangseo-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-28,Yongin-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-15,Yeongdeungpo-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-05,Bonghwa-gun,isolated
+female,Korea,Ulsan,contact with patient,2020-03-01,Dong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-15,Pocheon-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-12,Yecheon-gun,isolated
+male,Korea,Seoul,contact with patient,2020-03-10,Dongdaemun-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-23,Bucheon-si,isolated
+male,Korea,Incheon,overseas inflow,2020-04-02,Seo-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Andong-si,released
+male,Korea,Busan,Shincheonji Church,2020-03-04,Suyeong-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-21,Mungyeong-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+female,Korea,Seoul,etc,2020-03-09,Eunpyeong-gu,released
+female,Korea,Seoul,SMR Newly Planted Churches Group,2020-06-01,Gangseo-gu,released
+male,Korea,Gyeonggi-do,Shincheonji Church,2020-03-01,Gwacheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-26,Icheon-si,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-03-06,Changnyeong-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-20,Andong-si,released
+male,Korea,Seoul,overseas inflow,2020-03-24,Yongsan-gu,released
+male,Korea,Incheon,contact with patient,2020-03-25,Yeonsu-gu,released
+male,Korea,Ulsan,overseas inflow,2020-04-01,Dong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-27,Bucheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-30,Seocho-gu,released
+male,Korea,Incheon,etc,2020-03-23,Bupyeong-gu,released
+female,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-14,Gwangmyeong-si,isolated
+male,Korea,Seoul,overseas inflow,2020-04-04,Seodaemun-gu,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-26,Cheonan-si,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Dong-gu,isolated
+male,Korea,Seoul,contact with patient,2020-02-26,Dongjak-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Gwangju-si,isolated
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-06-21,Gyeongsan-si,isolated
+female,Korea,Seoul,contact with patient,2020-02-29,Gwanak-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-22,Yeongju-si,released
+male,Korea,Seoul,overseas inflow,2020-03-17,Mapo-gu,released
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-24,Chilgok-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-10,Suwon-si,isolated
+female,Korea,Seoul,etc,2020-03-31,etc,released
+female,Korea,Seoul,contact with patient,2020-04-03,Dongjak-gu,released
+male,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-25,Yeongcheon-si,released
+male,Korea,Jeollabuk-do,overseas inflow,2020-06-23,etc,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Gimpo-si,isolated
+male,Korea,Seoul,Dongan Church,2020-03-17,Dongdaemun-gu,released
+female,Korea,Seoul,etc,2020-03-13,Seocho-gu,released
+male,Korea,Chungcheongnam-do,overseas inflow,2020-03-27,Buyeo-gun,released
+female,Korea,Gangwon-do,contact with patient,2020-03-07,Wonju-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-18,Yongin-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-19,Nowon-gu,released
+female,Korea,Gyeonggi-do,etc,2020-02-22,Suwon-si,isolated
+female,Korea,Daegu,Shincheonji Church,2020-02-18,Nam-gu,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-29,Gyeongju-si,released
+female,Korea,Seoul,contact with patient,2020-04-03,Gangnam-gu,released
+female,Korea,Incheon,contact with patient,2020-03-30,Jung-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-13,Uijeongbu-si,isolated
+male,Korea,Gangwon-do,contact with patient,2020-06-22,Cheorwon-gun,isolated
+female,Korea,Incheon,contact with patient,2020-03-31,Seo-gu,released
+female,Korea,Incheon,contact with patient,2020-04-07,Seo-gu,released
+male,Korea,Gyeonggi-do,etc,2020-03-22,Bucheon-si,isolated
+male,Korea,Seoul,etc,2020-03-18,Gangnam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-18,Gwangju-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-15,Guro-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-05,Yeongcheon-si,released
+male,Korea,Gangwon-do,Richway,2020-06-05,Chuncheon-si,isolated
+female,Korea,Jeju-do,overseas inflow,2020-03-25,Jeju-do,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+male,Korea,Seoul,contact with patient,2020-02-23,Seocho-gu,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-20,Cheongdo-gun,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-26,Asan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-23,Pohang-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-10,Bucheon-si,isolated
+male,Korea,Daejeon,contact with patient,2020-02-23,Yuseong-gu,released
+female,Korea,Jeollanam-do,overseas inflow,2020-05-29,etc,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-09,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-29,Suwon-si,isolated
+female,Korea,Jeollanam-do,overseas inflow,2020-03-31,Yeosu-si,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-09,Chungju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+female,Korea,Seoul,contact with patient,2020-03-20,Seongbuk-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-15,Bonghwa-gun,isolated
+male,Korea,Seoul,contact with patient,2020-04-01,Yangcheon-gu,released
+female,Korea,Incheon,Eunpyeong St. Mary's Hospital,2020-04-01,Yeonsu-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-09,Gimpo-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-02,Gwangju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-28,Yangpyeong-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Anyang-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-26,Yeongyang-gun,released
+male,Korea,Gyeonggi-do,etc,2020-03-28,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-04,Yongin-si,isolated
+female,Korea,Daejeon,contact with patient,2020-06-16,Yuseong-gu,isolated
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-27,Cheonan-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-04-05,Buyeo-gun,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-15,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-23,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-13,Suwon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-03,Gangnam-gu,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-19,Cheongdo-gun,deceased
+male,Korea,Seoul,overseas inflow,2020-03-28,etc,released
+male,Korea,Seoul,Seongdong-gu APT,2020-02-25,Nowon-gu,released
+male,Korea,Seoul,contact with patient,2020-03-16,Guro-gu,released
+female,Korea,Gyeonggi-do,etc,2020-05-15,Goyang-si,isolated
+female,Korea,Seoul,Dongan Church,2020-03-14,Jungnang-gu,released
+male,Korea,Busan,contact with patient,2020-05-12,Nam-gu,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-12,Gimpo-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-22,Pyeongtaek-si,isolated
+male,Korea,Sejong,overseas inflow,2020-03-28,Sejong,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-06,Yeongcheon-si,deceased
+male,Korea,Incheon,overseas inflow,2020-03-27,Bupyeong-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-29,Pohang-si,released
+male,Korea,Jeollabuk-do,etc,2020-05-19,Iksan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-27,Jung-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-03,Gyeongju-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-14,Yecheon-gun,isolated
+female,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Sejong,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-21,Andong-si,released
+male,Korea,Seoul,contact with patient,2020-03-06,etc,released
+female,Korea,Seoul,etc,2020-03-01,Gangnam-gu,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+female,Korea,Seoul,overseas inflow,2020-03-31,Gwangjin-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-06,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-02-29,Suwon-si,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-21,Seongju-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-28,Gimpo-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-08,Anyang-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-22,Gimcheon-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-04-15,Cheonan-si,released
+male,Korea,Busan,contact with patient,2020-02-25,Saha-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-25,Dongnae-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-10,Asan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-26,Yongin-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-24,etc,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-21,Nonsan-si,isolated
+male,Korea,Jeollanam-do,overseas inflow,2020-03-28,Mokpo-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+female,Korea,Seoul,contact with patient,2020-03-20,Gangseo-gu,released
+female,Korea,Daegu,Shincheonji Church,2020-02-19,Dalseo-gu,isolated
+female,Korea,Seoul,contact with patient,2020-03-10,Dongdaemun-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-24,Hanam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-04,Pyeongtaek-si,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-05-11,Geoje-si,released
+female,Korea,Seoul,contact with patient,2020-03-29,Gwanak-gu,released
+male,Korea,Seoul,contact with patient,2020-04-03,Seodaemun-gu,released
+female,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Yuseong-gu,isolated
+male,Korea,Seoul,overseas inflow,2020-03-24,Seocho-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-19,Songpa-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-24,Paju-si,isolated
+female,Korea,Daejeon,etc,2020-06-18,Jung-gu,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-08,Pyeongtaek-si,isolated
+male,Korea,Jeollanam-do,overseas inflow,2020-04-02,Mokpo-si,released
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-05-13,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Osan-si,isolated
+female,Korea,Chungcheongnam-do,overseas inflow,2020-04-17,Cheonan-si,released
+male,Korea,Gyeonggi-do,etc,2020-03-05,Yongin-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-11,Namyangju-si,isolated
+male,Korea,Chungcheongbuk-do,contact with patient,2020-02-29,Cheongju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,released
+male,Korea,Seoul,etc,2020-03-16,Gwanak-gu,released
+male,Korea,Incheon,contact with patient,2020-04-09,Bupyeong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-26,Seongnam-si,isolated
+female,Korea,Chungcheongbuk-do,etc,2020-03-22,Jincheon-gun,released
+female,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-19,Anyang-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-29,Gwangju-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-28,Pyeongtaek-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-05,Cheonan-si,released
+male,Korea,Gyeongsangnam-do,Geochang Church,2020-02-27,Geochang-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-05,Gyeongsan-si,released
+male,Korea,Gyeongsangnam-do,etc,2020-04-05,Changwon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-11,Goryeong-gun,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-09,Gwangju-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-05,Gyeongju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Seongju-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-09,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-11,Yongin-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-26,Jungnang-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-05-23,Seongju-gun,isolated
+male,Korea,Busan,contact with patient,2020-02-24,Haeundae-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+male,Korea,Ulsan,contact with patient,2020-03-12,Nam-gu,released
+male,Korea,Seoul,etc,2020-02-25,etc,released
+male,Korea,Busan,overseas inflow,2020-03-26,Dongnae-gu,isolated
+female,Korea,Gyeongsangnam-do,overseas inflow,2020-03-28,Gimhae-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-29,Suwon-si,isolated
+female,France,Seoul,overseas inflow,2020-03-27,Gwanak-gu,released
+female,Korea,Seoul,Seongdong-gu APT,2020-03-04,Yongsan-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-25,Gumi-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-06,Pyeongtaek-si,isolated
+male,Korea,Daejeon,contact with patient,2020-06-27,Daedeok-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-06,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-22,Goyang-si,isolated
+male,Korea,Chungcheongbuk-do,contact with patient,2020-03-14,Eumseong-gun,released
+female,Korea,Seoul,overseas inflow,2020-03-30,Yongsan-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-08,Bucheon-si,isolated
+male,Korea,Seoul,etc,2020-02-28,Seodaemun-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-05,Yongin-si,isolated
+female,Korea,Jeju-do,Itaewon Clubs,2020-05-09,Jeju-do,released
+female,Korea,Chungcheongbuk-do,etc,2020-03-13,Eumseong-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-23,Andong-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-04-02,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-09,Suwon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-02-26,Gwangmyeong-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-13,Pyeongtaek-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-03,Seocho-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-25,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-18,Yongin-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-17,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-26,Guri-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-26,Guri-si,isolated
+male,Korea,Seoul,etc,2020-02-27,etc,released
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,isolated
+female,Korea,Seoul,contact with patient,2020-02-25,Songpa-gu,released
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-24,Hapcheon-gun,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-26,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-05,Bonghwa-gun,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-23,Seongnam-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-09,Yangcheon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-29,Suwon-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-19,Gumi-si,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-08,Goesan-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gumi-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-07,Yongin-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-08,Dongducheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-30,Gimcheon-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-04,Hwaseong-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Guro-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-19,Yongin-si,isolated
+female,China,Gyeonggi-do,contact with patient,2020-02-10,Goyang-si,released
+female,Korea,Seoul,overseas inflow,2020-02-26,Songpa-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-11,Bonghwa-gun,isolated
+female,Korea,Seoul,contact with patient,2020-01-31,Jongno-gu,released
+male,Korea,Seoul,etc,2020-02-27,etc,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-25,Pyeongtaek-si,isolated
+female,Korea,Ulsan,etc,2020-03-12,Nam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-02,Suwon-si,released
+female,Korea,Seoul,contact with patient,2020-04-03,Nowon-gu,released
+male,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-21,Jinju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Uiwang-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-20,Sangju-si,released
+female,Korea,Jeollabuk-do,Shincheonji Church,2020-03-02,Jeonju-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-16,Eunpyeong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Gangwon-do,etc,2020-04-02,Cheorwon-gun,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-03-05,Gimcheon-si,released
+male,Korea,Daejeon,contact with patient,2020-06-16,Yuseong-gu,isolated
+female,Korea,Gangwon-do,contact with patient,2020-03-01,Wonju-si,released
+female,Korea,Daejeon,etc,2020-06-20,Dong-gu,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-13,Yecheon-gun,isolated
+female,Canada,Seoul,overseas inflow,2020-03-31,Jongno-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-04-04,Sacheon-si,released
+male,Korea,Ulsan,Shincheonji Church,2020-03-10,Buk-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-23,Gangdong-gu,released
+male,Korea,Seoul,etc,2020-04-05,Yeongdeungpo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-05-22,Jinju-si,released
+female,Korea,Seoul,contact with patient,2020-02-29,Songpa-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-29,Gyeongsan-si,deceased
+male,Korea,Busan,contact with patient,2020-05-08,Busanjin-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Dongducheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-10,Uijeongbu-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Nowon-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-24,Paju-si,isolated
+male,Korea,Sejong,contact with patient,2020-04-08,Sejong,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-26,Icheon-si,released
+male,Korea,Jeollabuk-do,Itaewon Clubs,2020-05-12,Gimje-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-25,Yongin-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-21,Dongnae-gu,released
+male,Korea,Gyeongsangnam-do,etc,2020-03-10,Geoje-si,released
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-03-03,Chilgok-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-04,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,etc,2020-03-03,Hwaseong-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-04,Dongdaemun-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-20,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-03,Gyeongju-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-27,Yongin-si,isolated
+male,Korea,Seoul,etc,2020-03-18,Yongsan-gu,released
+male,Korea,Gangwon-do,etc,2020-03-01,Gangneung-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yeongdeungpo-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Asan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-18,Gyeongju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-06,Uiwang-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gumi-si,released
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-20,Jinju-si,released
+male,Korea,Busan,etc,2020-05-29,Dongnae-gu,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-21,Yecheon-gun,isolated
+female,Korea,Seoul,Seongdong-gu APT,2020-02-20,Seongdong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-01,Namyangju-si,released
+male,Korea,Seoul,overseas inflow,2020-03-31,Gwanak-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-28,Geoje-si,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-27,Yangcheon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-08,Yongin-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-06,Gyeongsan-si,released
+female,Korea,Gyeongsangnam-do,Changnyeong Coin Karaoke,2020-03-04,Changnyeong-gun,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-02,Cheonan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-31,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-27,Gwangmyeong-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-05-22,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-02-29,Siheung-si,released
+female,Korea,Chungcheongbuk-do,etc,2020-02-26,Chungju-si,released
+female,China,Incheon,overseas inflow,2020-01-20,etc,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-06,Goesan-gun,released
+female,Korea,Gyeonggi-do,etc,2020-02-27,Goyang-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-01,Songpa-gu,released
+female,Korea,Seoul,etc,2020-03-08,etc,released
+female,Korea,Gyeongsangnam-do,etc,2020-04-03,Jinju-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Goyang-si,isolated
+male,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-26,Changwon-si,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Changwon-si,released
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-22,Cheongdo-gun,deceased
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+male,Korea,Gyeongsangnam-do,etc,2020-03-22,Changwon-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-19,Yongin-si,isolated
+male,Korea,Gangwon-do,contact with patient,2020-03-04,Wonju-si,released
+male,Korea,Busan,overseas inflow,2020-03-25,Dongnae-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-29,Hwaseong-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-05,Suwon-si,released
+female,Korea,Seoul,etc,2020-03-11,Songpa-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gyeongsan-si,deceased
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-26,Pyeongtaek-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+male,Korea,Jeollanam-do,overseas inflow,2020-03-30,Suncheon-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-02-21,Gimpo-si,isolated
+male,Korea,Incheon,overseas inflow,2020-03-27,Bupyeong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-04,Cheonan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-06,Mungyeong-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-11,Bucheon-si,isolated
+male,Korea,Seoul,etc,2020-03-20,Nowon-gu,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-10,Gyeongsan-si,released
+male,Korea,Seoul,contact with patient,2020-03-21,Jungnang-gu,released
+female,Korea,Busan,overseas inflow,2020-05-07,Gangseo-gu,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-04,Gumi-si,released
+male,Korea,Jeju-do,contact with patient,2020-04-03,Jeju-do,released
+female,Korea,Seoul,overseas inflow,2020-03-10,Eunpyeong-gu,released
+male,Korea,Busan,Cheongdo Daenam Hospital,2020-02-23,Nam-gu,released
+female,Korea,Ulsan,Shincheonji Church,2020-03-01,Nam-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-23,Yeongcheon-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-02,Namyangju-si,isolated
+male,Korea,Chungcheongnam-do,etc,2020-03-06,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-02,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Pyeongtaek-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-19,Nonsan-si,isolated
+male,Korea,Incheon,overseas inflow,2020-03-30,Jung-gu,released
+male,Korea,Chungcheongnam-do,overseas inflow,2020-03-31,Cheonan-si,released
+male,Korea,Seoul,overseas inflow,2020-04-04,Mapo-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-24,Gumi-si,released
+female,Korea,Seoul,overseas inflow,2020-04-01,etc,released
+female,Korea,Gangwon-do,Shincheonji Church,2020-02-22,Chuncheon-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-27,Gyeongju-si,released
+male,Korea,Ulsan,Shincheonji Church,2020-02-28,Jung-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-11,Bonghwa-gun,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Busan,overseas inflow,2020-06-19,Haeundae-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-23,Yongin-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,deceased
+male,Korea,Gyeonggi-do,etc,2020-03-18,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-07,Pyeongtaek-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-14,Yecheon-gun,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-30,Uijeongbu-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-28,Yangju-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Andong-si,released
+female,Korea,Chungcheongnam-do,etc,2020-03-03,Cheonan-si,released
+male,Korea,Ulsan,overseas inflow,2020-05-18,Ulju-gun,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-19,Bonghwa-gun,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Bucheon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-28,Seocho-gu,released
+female,Korea,Seoul,etc,2020-03-30,Gwanak-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-04,Seongju-gun,released
+male,Korea,Seoul,Dongan Church,2020-03-11,Dongdaemun-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-27,Songpa-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-26,Seongju-gun,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-18,Seongbuk-gu,released
+male,Korea,Seoul,Seongdong-gu APT,2020-03-01,Seongbuk-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-29,Gwangmyeong-si,isolated
+female,Korea,Incheon,overseas inflow,2020-03-30,Namdong-gu,released
+female,Korea,Daejeon,contact with patient,2020-03-24,Yuseong-gu,released
+male,Korea,Jeollabuk-do,overseas inflow,2020-06-19,etc,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-13,Yecheon-gun,isolated
+female,Korea,Seoul,overseas inflow,2020-03-17,Songpa-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-01,Dongjak-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-05,Gangdong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-09,Goyang-si,isolated
+female,Korea,Chungcheongnam-do,etc,2020-02-28,Asan-si,released
+female,Korea,Jeju-do,overseas inflow,2020-03-24,Jeju-do,released
+male,Korea,Gangwon-do,overseas inflow,2020-03-31,Hoengseong-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-24,Suwon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-20,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-04,Bonghwa-gun,isolated
+female,Korea,Seoul,overseas inflow,2020-03-23,Songpa-gu,released
+male,Korea,Chungcheongnam-do,overseas inflow,2020-03-24,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-29,Hwaseong-si,isolated
+male,Korea,Busan,etc,2020-03-01,etc,released
+male,Korea,Busan,Onchun Church,2020-02-22,Dongnae-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-04,Yongin-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-04-17,Nonsan-si,released
+male,Korea,Seoul,Seongdong-gu APT,2020-03-01,Yeongdeungpo-gu,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-28,Bucheon-si,isolated
+female,Korea,Busan,Suyeong-gu Kindergarten,2020-02-27,Buk-gu,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Gyeyang-gu,released
+female,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+female,Korea,Seoul,contact with patient,2020-03-10,Dongdaemun-gu,released
+male,Korea,Incheon,overseas inflow,2020-04-03,Seo-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-10,Gwangju-si,released
+male,Korea,Chungcheongbuk-do,etc,2020-02-27,Cheongju-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Andong-si,released
+male,Korea,Gyeonggi-do,Shincheonji Church,2020-02-27,Gwacheon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-05,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-28,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-23,Andong-si,released
+male,Korea,Incheon,overseas inflow,2020-03-19,Yeonsu-gu,isolated
+male,Korea,Seoul,contact with patient,2020-01-30,Jongno-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-13,Yecheon-gun,isolated
+male,Korea,Chungcheongnam-do,overseas inflow,2020-06-27,Asan-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-07,etc,deceased
+female,Korea,Gyeonggi-do,contact with patient,2020-04-13,Uijeongbu-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Suwon-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-07,Cheonan-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yangcheon-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-29,etc,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-30,Pyeongtaek-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-29,Mapo-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-19,Gwacheon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-02,Suwon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-16,Bucheon-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-04,Seongju-gun,released
+female,Korea,Gangwon-do,contact with patient,2020-04-03,Cheorwon-gun,deceased
+female,Korea,Seoul,contact with patient,2020-03-26,Guro-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-05,Pohang-si,released
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-05-27,Gyeongsan-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+male,Korea,Daegu,overseas inflow,2020-06-12,Buk-gu,isolated
+male,Korea,Seoul,etc,2020-02-27,Seocho-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-04-02,Gyeongsan-si,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-06,Goesan-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-16,Pocheon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-20,Seocho-gu,released
+female,Korea,Gyeonggi-do,etc,2020-04-02,Pyeongtaek-si,isolated
+female,Korea,Daejeon,contact with patient,2020-03-04,Yuseong-gu,released
+male,Thailand,Seoul,overseas inflow,2020-03-27,Seodaemun-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-04,Siheung-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Goyang-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Gangseo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-09,Bucheon-si,isolated
+male,Korea,Incheon,Guro-gu Call Center,2020-03-09,Bupyeong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-25,Asan-si,isolated
+male,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-20,Bonghwa-gun,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-06,Cheonan-si,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-23,Yuseong-gu,isolated
+female,Korea,Chungcheongnam-do,etc,2020-04-06,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-13,Gimpo-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-20,Gangdong-gu,released
+female,Korea,Ulsan,overseas inflow,2020-04-10,Ulju-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-04,Gumi-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Gangseo-gu,released
+male,Korea,Ulsan,Shincheonji Church,2020-02-26,Nam-gu,released
+male,Korea,Chungcheongnam-do,River of Grace Community Church,2020-03-17,Cheonan-si,released
+male,Korea,Gyeonggi-do,etc,2020-02-22,Pocheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Anyang-si,isolated
+female,Korea,Busan,contact with patient,2020-02-25,Yeonje-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-25,Yongin-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-01,Siheung-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Gumi-si,released
+female,Korea,Daejeon,contact with patient,2020-06-29,Jung-gu,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-23,Changwon-si,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-10,Guro-gu,released
+male,United States,Seoul,overseas inflow,2020-04-02,Jongno-gu,released
+female,Korea,Seoul,contact with patient,2020-03-24,Gangseo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-01,Namyangju-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-01,etc,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,deceased
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yangcheon-gu,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-03-05,Changwon-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-27,Yongin-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-18,Yecheon-gun,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-05,Suwon-si,isolated
+female,Korea,Jeollabuk-do,etc,2020-04-04,Jangsu-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-09,Anyang-si,isolated
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-05,Cheongju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-17,Hanam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-18,Gyeongju-si,released
+female,Korea,Incheon,contact with patient,2020-03-09,Seo-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yangcheon-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-18,Hwaseong-si,isolated
+male,Korea,Incheon,contact with patient,2020-03-10,Michuhol-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gimcheon-si,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-26,Miryang-si,released
+female,Korea,Ulsan,overseas inflow,2020-05-12,Jung-gu,released
+female,Korea,Seoul,contact with patient,2020-02-26,etc,released
+female,Korea,Gangwon-do,etc,2020-06-13,Chuncheon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-31,Mapo-gu,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-27,Gwangmyeong-si,isolated
+female,Korea,Chungcheongnam-do,overseas inflow,2020-06-08,Hongseong-gun,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-11,Yecheon-gun,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-03-28,Changwon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-27,Ansan-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-21,Seongdong-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Mapo-gu,released
+male,Korea,Jeollanam-do,overseas inflow,2020-05-02,etc,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-14,Anyang-si,isolated
+female,Korea,Gyeongsangnam-do,etc,2020-06-09,Yangsan-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-28,Goyang-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-21,Andong-si,released
+male,Korea,Gyeongsangnam-do,etc,2020-02-22,Changwon-si,released
+male,Korea,Incheon,overseas inflow,2020-04-19,Gyeyang-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-19,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gumi-si,released
+female,Korea,Daegu,overseas inflow,2020-06-17,Nam-gu,isolated
+female,Korea,Seoul,etc,2020-04-04,Gwanak-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-02,Suwon-si,released
+female,Korea,Incheon,overseas inflow,2020-03-28,Jung-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-05-22,Gumi-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-29,Hwaseong-si,isolated
+male,Korea,Chungcheongnam-do,etc,2020-03-09,Seosan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-23,Suwon-si,isolated
+male,Korea,Seoul,Dongan Church,2020-03-11,Dongdaemun-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-26,Sangju-si,released
+male,Korea,Gangwon-do,Shincheonji Church,2020-02-27,Wonju-si,released
+male,Korea,Seoul,etc,2020-02-29,Gangnam-gu,released
+female,Korea,Daejeon,contact with patient,2020-03-21,Seo-gu,released
+male,China,Gangwon-do,overseas inflow,2020-03-01,Gangneung-si,released
+male,Korea,Gangwon-do,contact with patient,2020-03-05,Wonju-si,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-11,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-28,Goyang-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-17,Uijeongbu-si,isolated
+female,Korea,Sejong,contact with patient,2020-03-09,Sejong,released
+male,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-19,Yeongcheon-si,released
+female,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-10,Sejong,released
+male,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-24,Changwon-si,released
+female,Korea,Seoul,contact with patient,2020-03-24,Jongno-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Gyeongsan-si,released
+male,Korea,Daejeon,overseas inflow,2020-03-30,Seo-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Gimpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-27,Yongin-si,released
+female,Korea,Seoul,contact with patient,2020-03-26,Gangnam-gu,released
+female,Korea,Seoul,SMR Newly Planted Churches Group,2020-06-01,Yangcheon-gu,released
+male,Korea,Daejeon,contact with patient,2020-06-26,Seo-gu,isolated
+female,Korea,Seoul,Dongan Church,2020-03-11,Dongdaemun-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-03,Gangnam-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-26,Ansan-si,isolated
+female,Korea,Daejeon,contact with patient,2020-06-24,Jung-gu,isolated
+female,Korea,Daejeon,contact with patient,2020-06-16,Seo-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Anyang-si,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-04,Bonghwa-gun,isolated
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-21,Gongju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-25,Seocho-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Pohang-si,released
+male,Korea,Seoul,contact with patient,2020-03-01,Yangcheon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-11,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-04-02,Goryeong-gun,released
+male,Korea,Gyeonggi-do,etc,2020-04-03,Gimpo-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-22,Dongnae-gu,released
+female,Korea,Gangwon-do,etc,2020-03-17,Gangneung-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-09,Yecheon-gun,isolated
+male,Korea,Seoul,contact with patient,2020-03-08,Dongdaemun-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-03,Dobong-gu,released
+female,Korea,Seoul,etc,2020-02-27,Gangdong-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-04,Goyang-si,isolated
+female,Korea,Gyeongsangnam-do,Geochang Church,2020-02-28,Geochang-gun,released
+male,United States,Jeju-do,overseas inflow,2020-03-24,Jeju-do,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Pyeongtaek-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-01,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-05-22,Gumi-si,released
+male,Korea,Seoul,overseas inflow,2020-03-26,Songpa-gu,released
+female,Korea,Seoul,etc,2020-03-31,Guro-gu,released
+female,Korea,Busan,overseas inflow,2020-06-15,Gangseo-gu,isolated
+male,Korea,Seoul,etc,2020-02-27,Nowon-gu,released
+male,Korea,Gyeonggi-do,etc,2020-05-11,Yongin-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-11,Seongnam-si,isolated
+male,Korea,Daejeon,overseas inflow,2020-05-11,Yuseong-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-05,Bonghwa-gun,isolated
+male,Korea,Seoul,contact with patient,2020-03-13,Gwanak-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-27,Dobong-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-19,Bonghwa-gun,isolated
+male,Korea,Daejeon,etc,2020-03-21,Seo-gu,released
+female,Korea,Seoul,etc,2020-03-29,Dongjak-gu,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-01,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,etc,2020-04-11,Guri-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-22,Namyangju-si,isolated
+male,Korea,Ulsan,contact with patient,2020-03-18,Jung-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-20,Dongjak-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-22,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-20,Gunpo-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-02,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-01,Osan-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Asan-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gangseo-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-10,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Seongnam-si,isolated
+male,Korea,Incheon,overseas inflow,2020-03-31,Michuhol-gu,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-11,Guro-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-11,Jungnang-gu,released
+male,Korea,Daejeon,etc,2020-06-27,Seo-gu,isolated
+male,Korea,Seoul,contact with patient,2020-02-20,Jongno-gu,released
+male,Korea,Jeollanam-do,contact with patient,2020-02-06,etc,released
+male,Korea,Seoul,overseas inflow,2020-03-26,Gangnam-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Gwangju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-28,Icheon-si,released
+male,Korea,Daejeon,overseas inflow,2020-05-22,Yuseong-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Andong-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-05-01,Yecheon-gun,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-23,Gunpo-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-04-04,Bonghwa-gun,isolated
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-21,Gyeongju-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-09,Yecheon-gun,isolated
+male,Korea,Seoul,overseas inflow,2020-03-28,etc,released
+male,Korea,Chungcheongnam-do,overseas inflow,2020-03-25,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Uijeongbu-si,isolated
+female,Korea,Ulsan,etc,2020-03-07,Dong-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-04,Dongdaemun-gu,released
+male,Korea,Incheon,overseas inflow,2020-03-28,Yeonsu-gu,released
+male,Korea,Busan,etc,2020-03-13,Busanjin-gu,deceased
+female,Korea,Seoul,overseas inflow,2020-03-28,Gangnam-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-25,Suwon-si,isolated
+male,Korea,Gangwon-do,etc,2020-02-22,Samcheok-si,released
+female,Korea,Seoul,overseas inflow,2020-04-04,Eunpyeong-gu,released
+female,Korea,Seoul,contact with patient,2020-03-26,Geumcheon-gu,released
+female,Korea,Seoul,contact with patient,2020-04-04,etc,released
+male,Korea,Ulsan,Shincheonji Church,2020-02-27,Buk-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-21,Gyeongsan-si,deceased
+female,China,Seoul,overseas inflow,2020-02-25,Geumcheon-gu,released
+female,Korea,Daejeon,contact with patient,2020-06-25,Seo-gu,isolated
+male,Korea,Seoul,overseas inflow,2020-02-29,Yeongdeungpo-gu,released
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-03-29,Chungju-si,released
+male,Korea,Incheon,overseas inflow,2020-03-20,Yeonsu-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-25,Yongin-si,isolated
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-25,Cheongdo-gun,released
+female,Korea,Daejeon,overseas inflow,2020-04-05,Yuseong-gu,released
+female,Korea,Seoul,contact with patient,2020-03-25,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-09,Uijeongbu-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-31,Uijeongbu-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-03-26,Yangsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-23,Uiwang-si,isolated
+female,Korea,Gangwon-do,contact with patient,2020-03-10,Wonju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Bucheon-si,isolated
+female,Korea,Busan,Suyeong-gu Kindergarten,2020-02-27,Haeundae-gu,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Gimpo-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-05,Seongbuk-gu,released
+female,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+male,Korea,Busan,overseas inflow,2020-03-28,Gijang-gun,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-06-19,Gongju-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-01,Seongju-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-26,Gumi-si,released
+female,Korea,Busan,Onchun Church,2020-02-28,Haeundae-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-26,Paju-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gimcheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-09,Suwon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-29,Gangnam-gu,released
+female,Korea,Busan,Shincheonji Church,2020-02-22,Nam-gu,released
+female,Korea,Seoul,contact with patient,2020-04-05,Songpa-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-24,Dobong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-28,Gimpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-24,Gimpo-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Andong-si,released
+male,Korea,Busan,overseas inflow,2020-04-15,Dongnae-gu,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gimcheon-si,released
+female,Korea,Chungcheongnam-do,etc,2020-02-29,Asan-si,released
+female,Korea,Chungcheongnam-do,etc,2020-03-19,Taean-gun,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-31,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-03-23,Haman-gun,released
+male,Korea,Daejeon,contact with patient,2020-06-30,Dong-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-03,Yongin-si,isolated
+male,Korea,Seoul,etc,2020-03-25,etc,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-11,Seongju-gun,released
+male,Korea,Chungcheongbuk-do,etc,2020-03-07,Goesan-gun,released
+male,Korea,Chungcheongbuk-do,etc,2020-03-18,Chungju-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-01,Paju-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-12,Anseong-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-27,Gunpo-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-17,Gwangju-si,isolated
+male,Korea,Seoul,overseas inflow,2020-04-02,Eunpyeong-gu,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-09,Guro-gu,released
+male,Korea,Seoul,Dongan Church,2020-03-16,Dongdaemun-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-21,Gyeongju-si,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Michuhol-gu,released
+female,Korea,Seoul,contact with patient,2020-02-16,Jongno-gu,released
+male,Korea,Busan,contact with patient,2020-02-25,Busanjin-gu,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-06,Yangcheon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Uijeongbu-si,isolated
+female,Korea,Daejeon,overseas inflow,2020-06-30,Dong-gu,isolated
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+male,Korea,Seoul,contact with patient,2020-03-14,Mapo-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-04,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-18,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-12,Pyeongtaek-si,isolated
+male,Korea,Busan,contact with patient,2020-03-14,Busanjin-gu,released
+female,Korea,Jeju-do,overseas inflow,2020-03-27,Jeju-do,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-27,etc,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-13,Bucheon-si,isolated
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-24,Gimhae-si,released
+male,Korea,Seoul,contact with patient,2020-03-30,Yongsan-gu,released
+male,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-09,Gyeongsan-si,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-24,Sejong,released
+male,Korea,Gyeongsangnam-do,Changnyeong Coin Karaoke,2020-03-04,Changnyeong-gun,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,Guro-gu,released
+female,Korea,Jeju-do,overseas inflow,2020-04-03,Jeju-do,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-18,Namyangju-si,isolated
+female,Korea,Sejong,gym facility in Sejong,2020-03-07,Sejong,released
+male,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-28,Seodaemun-gu,released
+male,China,Seoul,Eunpyeong St. Mary's Hospital,2020-02-23,Gangdong-gu,released
+male,Korea,Incheon,overseas inflow,2020-03-19,Yeonsu-gu,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-25,Eunpyeong-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-24,Goyang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-04,Hwaseong-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-06,Namyangju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Sejong,overseas inflow,2020-05-10,Sejong,released
+male,Korea,Seoul,overseas inflow,2020-03-25,Gangnam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-27,Suwon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-02,Eunpyeong-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-03,Sangju-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Gyeongju-si,released
+female,Korea,Seoul,etc,2020-04-03,Gangnam-gu,released
+male,Korea,Gyeonggi-do,etc,2020-03-07,Seongnam-si,isolated
+male,Korea,Daegu,overseas inflow,2020-06-13,Buk-gu,isolated
+female,Korea,Seoul,etc,2020-02-27,Songpa-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-16,Yeongdeungpo-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Yeongcheon-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-02,Pyeongtaek-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-08,Gunpo-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-29,Guri-si,isolated
+male,Korea,Gangwon-do,contact with patient,2020-05-28,Cheorwon-gun,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+male,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-03-03,Andong-si,released
+female,Korea,Seoul,overseas inflow,2020-03-24,Dongjak-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-04,Gangnam-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,deceased
+male,Korea,Gyeonggi-do,etc,2020-03-02,Namyangju-si,isolated
+female,Korea,Daejeon,etc,2020-06-15,Seo-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-22,Pocheon-si,isolated
+female,Korea,Gyeongsangnam-do,etc,2020-03-04,Geochang-gun,released
+female,Korea,Seoul,overseas inflow,2020-04-02,Gwanak-gu,released
+male,Korea,Seoul,Samsung Fire & Marine Insurance,2020-06-02,Gangseo-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-01,Cheonan-si,released
+female,Korea,Jeollanam-do,contact with patient,2020-03-01,Gwangyang-si,released
+female,Korea,Seoul,etc,2020-03-29,Geumcheon-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-07,Gwangmyeong-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-25,Gyeongju-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-24,Gyeongju-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-11,Mapo-gu,released
+male,Korea,Jeollanam-do,contact with patient,2020-03-17,Hwasun-gun,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-01-27,Pyeongtaek-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-12,Bucheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-02-27,Dongdaemun-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-02,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-08,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-10,Yeongju-si,released
+female,Korea,Sejong,etc,2020-03-11,Sejong,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-19,Bonghwa-gun,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-14,Guro-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Pocheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-10,Gwangju-si,isolated
+female,Korea,Chungcheongnam-do,etc,2020-03-08,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-28,Ansan-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Geumcheon-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-04,Gyeongju-si,released
+female,Korea,Busan,contact with patient,2020-03-06,Haeundae-gu,released
+male,Korea,Gyeongsangnam-do,Geochang Church,2020-02-28,Geochang-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-17,Bucheon-si,isolated
+male,Korea,Seoul,overseas inflow,2020-02-05,Songpa-gu,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-14,Eumseong-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-03,Pyeongtaek-si,isolated
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-29,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-21,Gimpo-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-11,Gumi-si,released
+female,Korea,Busan,etc,2020-02-25,Buk-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-19,Gangnam-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-05-15,Gimpo-si,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-06-28,Yangsan-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-07,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-02-25,Anyang-si,released
+female,Korea,Seoul,contact with patient,2020-02-24,Songpa-gu,released
+male,Korea,Seoul,etc,2020-03-09,Eunpyeong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-27,Yongin-si,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-05,Cheonan-si,released
+male,Korea,Seoul,overseas inflow,2020-03-30,Dongjak-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Andong-si,released
+male,Korea,Seoul,etc,2020-03-12,Geumcheon-gu,released
+female,Korea,Seoul,contact with patient,2020-03-31,Gwanak-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-31,Jongno-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-28,Andong-si,released
+male,Korea,Gyeongsangnam-do,etc,2020-04-21,Changwon-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Ulsan,overseas inflow,2020-03-26,Nam-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-10,Gwangju-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-22,Seongnam-si,isolated
+male,Korea,Incheon,etc,2020-02-25,Michuhol-gu,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-03-03,Geochang-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+female,Korea,Seoul,contact with patient,2020-04-04,Yongsan-gu,released
+female,Korea,Seoul,Dongan Church,2020-03-14,Dobong-gu,released
+male,Korea,Chungcheongbuk-do,etc,2020-02-25,Eumseong-gun,released
+male,Korea,Seoul,overseas inflow,2020-03-28,Seocho-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-27,Seongnam-si,isolated
+female,Korea,Busan,etc,2020-02-22,Haeundae-gu,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-14,Yeongdeungpo-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-05-13,Gongju-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-21,Andong-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-17,Yongin-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-28,Yongin-si,isolated
+female,Korea,Seoul,etc,2020-03-29,Dongjak-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,etc,2020-03-06,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-16,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,2020-03-06,Gyeongsan-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-19,Mapo-gu,released
+female,Korea,Seoul,contact with patient,2020-03-31,Jung-gu,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-18,Yeongcheon-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-04,Uijeongbu-si,isolated
+male,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-07,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-21,Yeongcheon-si,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-04,Bonghwa-gun,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-09,Bucheon-si,isolated
+male,Korea,Gangwon-do,contact with patient,2020-04-07,Cheorwon-gun,deceased
+male,Korea,Seoul,overseas inflow,2020-03-20,Jungnang-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-18,Yongin-si,isolated
+male,Korea,Daejeon,etc,2020-03-28,Yuseong-gu,released
+female,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-21,Cheongdo-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-26,Guri-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-23,Geumjeong-gu,released
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-03-26,Cheongju-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-22,Gwangju-si,released
+male,Korea,Seoul,etc,2020-03-27,Geumcheon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-05,Seongnam-si,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-03-01,Goseong-gun,released
+male,Korea,Gyeonggi-do,Itaewon Clubs,2020-05-24,Anyang-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-02,Gyeongsan-si,released
+male,Korea,Sejong,Shincheonji Church,2020-02-21,Sejong,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gimcheon-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-14,Gwangmyeong-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-26,Yeongcheon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-25,Gyeongsan-si,released
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-28,Cheonan-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-08,Suwon-si,isolated
+female,Korea,Chungcheongnam-do,gym facility in Cheonan,2020-02-27,Cheonan-si,released
+male,Korea,Busan,contact with patient,2020-03-13,Busanjin-gu,isolated
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-03-31,Changwon-si,released
+female,Korea,Daejeon,etc,2020-06-26,Seo-gu,isolated
+female,Korea,Gyeonggi-do,Shincheonji Church,2020-03-09,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-05-13,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Anyang-si,isolated
+male,China,Gyeonggi-do,contact with patient,2020-02-01,Bucheon-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-17,Sangju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Uijeongbu-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-04,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-03-05,Andong-si,released
+male,Korea,Seoul,etc,2020-02-27,Gwanak-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-25,Seongnam-si,isolated
+female,Korea,Seoul,contact with patient,2020-04-04,Jungnang-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-08,Gimpo-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-08,Gwangmyeong-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-04,Gangbuk-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-04,Pyeongtaek-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-05,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-04-02,Seocho-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-03,Hanam-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-30,Gyeongsan-si,released
+male,Korea,Jeollabuk-do,etc,2020-02-29,etc,released
+male,Korea,Seoul,contact with patient,2020-02-26,Songpa-gu,released
+female,Korea,Gyeonggi-do,etc,2020-02-27,Pyeongtaek-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-14,Gwangju-si,released
+male,Korea,Seoul,overseas inflow,2020-03-13,Nowon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-20,Namyangju-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-02,Yangju-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Seoul,Seongdong-gu APT,2020-02-28,Nowon-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-17,etc,released
+female,Korea,Chungcheongbuk-do,overseas inflow,2020-04-02,Chungju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,deceased
+male,Korea,Incheon,overseas inflow,2020-04-04,Gyeyang-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-20,Gwangjin-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-18,Uiseong-gun,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-16,Ansan-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-18,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Ansan-si,isolated
+female,Korea,Daejeon,contact with patient,2020-06-19,Seo-gu,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Suwon-si,isolated
+female,Korea,Busan,overseas inflow,2020-03-31,Dongnae-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-24,Jungnang-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-31,Songpa-gu,released
+female,Korea,Sejong,gym facility in Sejong,2020-04-07,Sejong,released
+male,Korea,Seoul,contact with patient,2020-03-26,Yongsan-gu,released
+male,Korea,Daejeon,etc,2020-03-24,Yuseong-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-27,Goyang-si,isolated
+male,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-20,Cheongdo-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-18,Bucheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-18,Namyangju-si,isolated
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-04-01,Gumi-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-10,Uiwang-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-19,Gyeongju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-24,Pocheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-03,Goryeong-gun,released
+female,Korea,Gyeongsangnam-do,etc,2020-03-28,Jinju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-29,Ansan-si,isolated
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Sejong,released
+male,Korea,Busan,overseas inflow,2020-03-22,Buk-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-23,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-30,Suwon-si,isolated
+female,Korea,Incheon,Eunpyeong St. Mary's Hospital,2020-04-01,Michuhol-gu,released
+male,Korea,Incheon,contact with patient,2020-03-19,Dong-gu,released
+female,Korea,Seoul,contact with patient,2020-02-27,Songpa-gu,released
+female,Korea,Seoul,contact with patient,2020-02-29,Nowon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-11,Suwon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-23,Bucheon-si,isolated
+female,Korea,Busan,contact with patient,2020-03-03,Seo-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-24,Osan-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-06-14,Gimhae-si,released
+female,Korea,Daejeon,etc,2020-06-20,Seo-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-25,Gyeongju-si,released
+male,Spain,Jeollanam-do,overseas inflow,2020-03-31,Yeosu-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Seoul,etc,2020-03-11,Seodaemun-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-22,Seodaemun-gu,released
+female,Korea,Incheon,etc,2020-03-29,Bupyeong-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Goyang-si,isolated
+male,Korea,Busan,etc,2020-02-29,Busanjin-gu,released
+male,Korea,Gangwon-do,Itaewon Clubs,2020-05-13,Wonju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-29,Pohang-si,released
+female,Korea,Daejeon,etc,2020-03-11,Seo-gu,deceased
+female,Korea,Gyeonggi-do,contact with patient,2020-05-21,Namyangju-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-04,Cheonan-si,released
+female,Korea,Jeju-do,etc,2020-03-02,etc,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-10,Seosan-si,released
+male,Korea,Daejeon,etc,2020-02-26,Yuseong-gu,released
+male,Korea,Incheon,overseas inflow,2020-04-10,Ganghwa-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Pyeongtaek-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-11,Seodaemun-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-16,Sangju-si,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-09,Eunpyeong-gu,released
+male,Korea,Seoul,etc,2020-03-30,Dongjak-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-05-23,Gumi-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-03,Gapyeong-gun,isolated
+male,Korea,Daejeon,etc,2020-03-01,Seo-gu,released
+female,Korea,Seoul,etc,2020-03-30,Guro-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-23,Andong-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-04-07,Gyeongsan-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-28,Gyeongju-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-25,Yongin-si,isolated
+female,Korea,Seoul,etc,2020-03-05,Gangbuk-gu,released
+male,Korea,Seoul,overseas inflow,2020-04-03,Dongdaemun-gu,released
+female,Korea,Gyeonggi-do,etc,2020-02-26,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-05-23,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-22,Yongin-si,isolated
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yeongdeungpo-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-28,Gimcheon-si,released
+female,Korea,Daejeon,etc,2020-06-18,Yuseong-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-03,Gumi-si,released
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-28,Bucheon-si,isolated
+male,Korea,Chungcheongnam-do,etc,2020-06-16,Gyeryong-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-02,Paju-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-28,Gwanak-gu,released
+female,Korea,Busan,Onchun Church,2020-02-24,Dongnae-gu,released
+male,Korea,Busan,overseas inflow,2020-03-29,Nam-gu,isolated
+female,Korea,Daejeon,etc,2020-06-27,Seo-gu,isolated
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Seo-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-20,Suwon-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Gimcheon-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-22,Seongnam-si,isolated
+female,Korea,Busan,Onchun Church,2020-02-27,Dongnae-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-14,Yecheon-gun,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-11,Bonghwa-gun,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-03-11,Geoje-si,released
+female,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-29,Bucheon-si,isolated
+female,Korea,Incheon,Guro-gu Call Center,2020-03-10,Gyeyang-gu,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-29,Andong-si,released
+male,Korea,Seoul,overseas inflow,2020-02-27,Songpa-gu,released
+female,Korea,Gyeonggi-do,etc,2020-03-20,Gunpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-28,Suwon-si,isolated
+male,Korea,Gyeongsangnam-do,etc,2020-02-25,Changwon-si,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Sejong,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-27,Gimcheon-si,released
+female,Korea,Seoul,contact with patient,2020-03-07,Gwanak-gu,released
+male,Korea,Seoul,Guro-gu Call Center,2020-03-10,Mapo-gu,released
+female,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+male,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-14,Pocheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-31,Uijeongbu-si,isolated
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-28,Miryang-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-15,Yongin-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-05,Gunpo-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-28,Jung-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-04,Seongnam-si,isolated
+female,Korea,Gyeongsangnam-do,overseas inflow,2020-05-16,Gimhae-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-03,Gimpo-si,isolated
+female,Korea,Chungcheongnam-do,contact with patient,2020-03-02,Cheonan-si,released
+female,Korea,Gyeongsangnam-do,etc,2020-06-09,Yangsan-si,isolated
+female,Korea,Seoul,Itaewon Clubs,2020-05-25,Seongdong-gu,released
+female,China,Jeju-do,overseas inflow,2020-04-14,Jeju-do,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-27,Seongju-gun,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-19,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-30,Suwon-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Andong-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-28,Bucheon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-25,Gangnam-gu,released
+female,Korea,Busan,etc,2020-02-23,Suyeong-gu,released
+male,Korea,Seoul,Dongan Church,2020-03-13,Dongdaemun-gu,released
+male,Korea,Gyeongsangnam-do,etc,2020-02-29,Changnyeong-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-04,Gumi-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-22,Namyangju-si,isolated
+female,Korea,Seoul,overseas inflow,2020-03-26,Gangdong-gu,released
+female,Korea,Gyeongsangbuk-do,Milal Shelter,2020-02-25,Chilgok-gun,released
+female,Korea,Gangwon-do,contact with patient,2020-03-04,Taebaek-si,deceased
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-27,Yongin-si,released
+male,Korea,Gyeonggi-do,etc,2020-03-29,Uijeongbu-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-25,Gyeongju-si,released
+male,Korea,Busan,overseas inflow,2020-06-23,Sasang-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Andong-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-22,Goyang-si,isolated
+male,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-24,Yeongcheon-si,released
+female,Korea,Seoul,overseas inflow,2020-03-27,Seongbuk-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Gwangju-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-26,Seongju-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeongsangnam-do,contact with patient,2020-03-06,Geochang-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-10,Uijeongbu-si,isolated
+male,Korea,Jeollanam-do,overseas inflow,2020-06-28,etc,isolated
+female,Korea,Busan,contact with patient,2020-03-15,Busanjin-gu,released
+male,Korea,Jeollanam-do,overseas inflow,2020-05-14,etc,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+male,Korea,Seoul,Dongan Church,2020-03-08,Dongdaemun-gu,released
+male,Korea,Busan,contact with patient,2020-03-01,Saha-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-19,Anseong-si,isolated
+male,Korea,Chungcheongbuk-do,etc,2020-02-27,Chungju-si,released
+female,Korea,Gyeongsangnam-do,Shincheonji Church,2020-02-22,Hapcheon-gun,released
+female,Korea,Seoul,Shincheonji Church,2020-03-12,Seocho-gu,released
+female,Korea,Daejeon,Orange Town,2020-06-18,Yuseong-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-04-01,Gyeongsan-si,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-09,Michuhol-gu,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-18,Gyeongju-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-21,Gyeongju-si,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-22,Gyeongju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-07,Anyang-si,isolated
+male,Korea,Incheon,contact with patient,2020-03-19,Gyeyang-gu,released
+female,Korea,Chungcheongnam-do,overseas inflow,2020-04-26,Nonsan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-28,Seongju-gun,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+male,Korea,Seoul,contact with patient,2020-03-29,Gangnam-gu,released
+female,Korea,Gyeongsangbuk-do,Shincheonji Church,2020-02-26,Seongju-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-28,Gwangmyeong-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-31,Buyeo-gun,released
+female,Korea,Incheon,contact with patient,2020-03-27,Gyeyang-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-28,Bucheon-si,isolated
+male,Korea,Chungcheongbuk-do,etc,2020-06-27,Okcheon-gun,isolated
+female,Korea,Busan,contact with patient,2020-02-25,Dongnae-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-02,Yongsan-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-03-20,Changwon-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-03,Uijeongbu-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-15,Hanam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Bucheon-si,isolated
+male,Korea,Incheon,overseas inflow,2020-03-23,Yeonsu-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-20,Bonghwa-gun,isolated
+female,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-26,Cheongdo-gun,released
+female,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-28,Cheongdo-gun,released
+female,Korea,Seoul,etc,2020-03-29,Dobong-gu,released
+male,Korea,Daegu,overseas inflow,2020-06-16,sankyeock-dong,isolated
+female,Korea,Chungcheongnam-do,etc,2020-03-21,Cheonan-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-08,Suwon-si,isolated
+female,Korea,Seoul,overseas inflow,2020-04-02,Seocho-gu,released
+female,Korea,Gangwon-do,contact with patient,2020-03-01,Wonju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-04,Hwaseong-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-18,Yongin-si,isolated
+female,Korea,Incheon,overseas inflow,2020-04-03,Seo-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-25,Gumi-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-28,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-27,Gunpo-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-09,Pohang-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-21,Andong-si,released
+female,Korea,Sejong,etc,2020-04-07,Sejong,released
+female,Korea,Busan,Onchun Church,2020-02-22,Buk-gu,released
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-04-01,Gumi-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-17,Yecheon-gun,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-08,Andong-si,released
+male,Korea,Gyeonggi-do,etc,2020-05-20,Guri-si,isolated
+male,Korea,Gyeongsangnam-do,Changnyeong Coin Karaoke,2020-03-05,Changnyeong-gun,released
+male,Korea,Seoul,contact with patient,2020-03-08,Dongdaemun-gu,released
+male,Korea,Gyeongsangbuk-do,overseas inflow,2020-03-24,Gumi-si,released
+male,Korea,Seoul,overseas inflow,2020-03-28,Gangnam-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-09,etc,released
+female,Korea,Gyeongsangnam-do,contact with patient,2020-02-27,Gimhae-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-04,Seongnam-si,isolated
+male,Korea,Seoul,etc,2020-02-29,Gwanak-gu,released
+male,Korea,Seoul,etc,2020-03-02,Dobong-gu,released
+male,Korea,Daejeon,contact with patient,2020-06-30,Dong-gu,isolated
+male,Korea,Jeollabuk-do,overseas inflow,2020-04-07,Jeonju-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-01,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-05-26,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-13,Mapo-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-12,Gangnam-gu,released
+female,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-26,Cheongdo-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-22,Siheung-si,isolated
+female,Korea,Seoul,contact with patient,2020-03-08,Dongdaemun-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-10,Uijeongbu-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gwanak-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Dongjak-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-25,Gangnam-gu,released
+female,Korea,Ulsan,Shincheonji Church,2020-02-27,Nam-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-29,Gyeongju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-31,Hanam-si,isolated
+female,Korea,Busan,etc,2020-03-06,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-19,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-21,Pyeongtaek-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-23,Yongsan-gu,released
+female,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Seoul,etc,2020-03-16,Dongjak-gu,released
+female,Korea,Gangwon-do,overseas inflow,2020-04-05,Chuncheon-si,released
+male,Korea,Jeollabuk-do,contact with patient,2020-06-26,etc,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-22,Namyangju-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-12,Geumcheon-gu,released
+male,Korea,Seoul,contact with patient,2020-03-06,Gangseo-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-28,Suwon-si,isolated
+female,Korea,Gyeongsangnam-do,etc,2020-03-31,Jinju-si,released
+female,Korea,Busan,Onchun Church,2020-02-25,Geumjeong-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-29,Cheonan-si,released
+female,Korea,Daejeon,overseas inflow,2020-03-26,Yuseong-gu,released
+male,Korea,Chungcheongnam-do,contact with patient,2020-03-06,Cheonan-si,released
+female,Korea,Gyeonggi-do,etc,2020-03-06,Seongnam-si,isolated
+male,Korea,Gangwon-do,etc,2020-02-22,Gangneung-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-09,Goyang-si,isolated
+female,Korea,Gangwon-do,etc,2020-06-25,Wonju-si,isolated
+female,Korea,Busan,overseas inflow,2020-04-15,Dongnae-gu,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-02-27,Gyeongju-si,released
+male,Korea,Gyeongsangbuk-do,etc,2020-03-06,Gumi-si,released
+male,Korea,Jeollanam-do,overseas inflow,2020-05-31,etc,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-11,Seongnam-si,isolated
+male,Korea,Seoul,Guro-gu Call Center,2020-03-19,Mapo-gu,deceased
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-07,Namyangju-si,isolated
+female,Korea,Daejeon,Dunsan Electronics Town,2020-06-20,Seo-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-24,Yongin-si,isolated
+female,Thailand,Gyeongsangbuk-do,contact with patient,2020-03-05,Gimcheon-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-02,Gyeongju-si,released
+female,Korea,Daegu,Shincheonji Church,2020-02-19,Nam-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-22,Bucheon-si,isolated
+female,Korea,Gyeongsangnam-do,overseas inflow,2020-05-16,Geoje-si,released
+male,Korea,Daejeon,Dunsan Electronics Town,2020-06-22,Jung-gu,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Yongin-si,isolated
+female,Korea,Gyeongsangbuk-do,Cheongdo Daenam Hospital,2020-02-22,Cheongdo-gun,deceased
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Yeongdeungpo-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-15,Yecheon-gun,isolated
+male,Korea,Seoul,contact with patient,2020-02-16,Jongno-gu,deceased
+male,Korea,Gyeonggi-do,contact with patient,2020-03-31,Seongnam-si,isolated
+female,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-24,Pocheon-si,isolated
+male,Korea,Seoul,etc,2020-02-29,Yeongdeungpo-gu,released
+female,Korea,Busan,Onchun Church,2020-02-23,Dongnae-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-27,Yeongju-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-22,Yongin-si,isolated
+male,Korea,Daejeon,Shincheonji Church,2020-03-04,Yuseong-gu,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-17,Bonghwa-gun,isolated
+male,Korea,Incheon,contact with patient,2020-03-13,Yeonsu-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-05,Uijeongbu-si,isolated
+male,Korea,Chungcheongbuk-do,etc,2020-03-21,Chungju-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-06,Pohang-si,released
+female,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-26,Jongno-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-29,Suwon-si,isolated
+female,China,Gyeonggi-do,contact with patient,2020-02-02,Goyang-si,released
+male,Korea,Gangwon-do,Shincheonji Church,2020-03-02,Wonju-si,released
+male,Korea,Seoul,overseas inflow,2020-02-27,Gwangjin-gu,released
+female,Korea,Seoul,overseas inflow,2020-04-03,Dongjak-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-02-28,Gyeongsan-si,released
+female,Korea,Chungcheongbuk-do,overseas inflow,2020-05-17,Cheongju-si,released
+female,Korea,Chungcheongnam-do,etc,2020-06-08,Asan-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Pyeongtaek-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-03-28,Bucheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-07,Seocho-gu,released
+female,China,Gyeonggi-do,overseas inflow,2020-02-09,Siheung-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-20,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-23,Yeongcheon-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-02,Gimpo-si,isolated
+male,Korea,Busan,Onchun Church,2020-02-24,Dongnae-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-28,etc,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-03,Bucheon-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-07,Eunpyeong-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-19,Dongjak-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-29,Gumi-si,released
+male,Korea,Gyeonggi-do,etc,2020-02-24,Pocheon-si,isolated
+female,United States,Seoul,overseas inflow,2020-03-24,Jungnang-gu,released
+male,Korea,Seoul,Shincheonji Church,2020-02-26,Gangnam-gu,released
+female,Korea,Daegu,contact with patient,2020-06-21,Buk-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-28,Yeongcheon-si,released
+female,Korea,Incheon,contact with patient,2020-02-28,Seo-gu,released
+male,Korea,Seoul,contact with patient,2020-03-31,Gwanak-gu,released
+female,Korea,Gangwon-do,overseas inflow,2020-03-24,Inje-gun,released
+male,Korea,Busan,contact with patient,2020-03-11,Busanjin-gu,released
+male,Korea,Gyeonggi-do,etc,2020-03-07,Bucheon-si,isolated
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-04-15,Yecheon-gun,isolated
+male,Korea,Seoul,overseas inflow,2020-03-29,Seodaemun-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-22,Dobong-gu,released
+male,Korea,Busan,contact with patient,2020-03-03,Busanjin-gu,released
+male,Korea,Seoul,overseas inflow,2020-03-25,Dongjak-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-30,Yongsan-gu,released
+female,Korea,Busan,etc,2020-04-18,etc,isolated
+male,Korea,Gangwon-do,etc,2020-06-19,Wonju-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-04-23,Hanam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-09,Anyang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-01,Hwaseong-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-27,Guro-gu,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-19,Suwon-si,isolated
+male,Korea,Gyeonggi-do,etc,2020-03-17,Hwaseong-si,isolated
+male,Korea,Incheon,contact with patient,2020-02-28,Bupyeong-gu,released
+female,Korea,Jeollabuk-do,overseas inflow,2020-03-28,Jeonju-si,released
+female,Korea,Seoul,overseas inflow,2020-03-30,Gangdong-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-06,Uiwang-si,isolated
+male,Indonesia,Busan,overseas inflow,2020-03-31,etc,released
+female,Korea,Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,2020-03-06,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-02,Osan-si,isolated
+female,Korea,Incheon,etc,2020-04-07,Bupyeong-gu,released
+male,Korea,Daejeon,contact with patient,2020-06-28,Dong-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-05,Seongju-gun,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-26,Anyang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-22,Yongin-si,isolated
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-06-15,Geoje-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-04,Seongju-gun,released
+male,Korea,Gyeonggi-do,etc,2020-03-05,Gunpo-si,isolated
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-20,Bonghwa-gun,released
+male,Korea,Chungcheongbuk-do,overseas inflow,2020-06-26,Cheongju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-13,Bucheon-si,isolated
+male,Korea,Seoul,Eunpyeong St. Mary's Hospital,2020-02-21,Seodaemun-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-25,Gyeongsan-si,released
+female,Korea,Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,2020-03-04,Bonghwa-gun,isolated
+female,Korea,Busan,contact with patient,2020-03-10,Dongnae-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-04-02,Sacheon-si,released
+male,Korea,Gangwon-do,contact with patient,2020-03-31,Cheorwon-gun,released
+female,Korea,Daejeon,etc,2020-04-08,Daedeok-gu,released
+male,Korea,Busan,overseas inflow,2020-03-28,Suyeong-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-02-23,Gumi-si,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-18,Goyang-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-28,Seongnam-si,isolated
+female,Korea,Daejeon,etc,2020-03-25,Yuseong-gu,released
+male,Korea,Busan,Onchun Church,2020-02-23,Saha-gu,released
+male,Korea,Incheon,overseas inflow,2020-04-12,Yeonsu-gu,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-03-29,Gyeongju-si,released
+male,Korea,Busan,contact with patient,2020-02-25,Dongnae-gu,released
+female,Korea,Daejeon,etc,2020-06-18,Jung-gu,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-08,Yongin-si,isolated
+female,Korea,Chungcheongnam-do,etc,2020-02-28,Cheonan-si,released
+female,Korea,Seoul,overseas inflow,2020-03-21,Seodaemun-gu,released
+male,Korea,Busan,overseas inflow,2020-03-29,Busanjin-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-05,Gunpo-si,isolated
+female,Korea,Busan,contact with patient,2020-02-24,Dongnae-gu,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-14,Yecheon-gun,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-06-25,Cheonan-si,isolated
+male,Korea,Ulsan,overseas inflow,2020-05-29,Dong-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-27,Gwacheon-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-02-24,Yongin-si,released
+male,Korea,Daejeon,etc,2020-02-26,Seo-gu,released
+male,Korea,Gyeongsangnam-do,contact with patient,2020-02-28,Miryang-si,released
+female,Korea,Incheon,Guro-gu Call Center,2020-03-16,Namdong-gu,released
+female,Korea,Busan,Shincheonji Church,2020-02-23,Saha-gu,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-10,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-07,Seongnam-si,isolated
+female,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-18,Gyeongsan-si,released
+female,Korea,Seoul,contact with patient,2020-03-04,Jungnang-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-12,Bucheon-si,isolated
+female,Korea,Daegu,overseas inflow,2020-06-07,Dalsung-gun,isolated
+male,United States,Seoul,overseas inflow,2020-03-24,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-14,Pyeongtaek-si,isolated
+male,Korea,Busan,etc,2020-02-22,Seo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-17,Seongnam-si,isolated
+female,Korea,Jeollanam-do,overseas inflow,2020-04-01,Mokpo-si,released
+male,Korea,Gyeongsangnam-do,Geochang Church,2020-02-28,Geochang-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-31,Uijeongbu-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-02,Gumi-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-31,Gwangmyeong-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-05-21,Gumi-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-22,Seodaemun-gu,released
+female,Korea,Gangwon-do,overseas inflow,2020-04-06,Chuncheon-si,released
+female,Korea,Busan,etc,2020-02-26,Suyeong-gu,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-05-20,Seosan-si,released
+female,Korea,Chungcheongnam-do,contact with patient,2020-02-28,Cheonan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-26,Bucheon-si,isolated
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+male,Korea,Seoul,contact with patient,2020-03-31,Gwanak-gu,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-21,Seongnam-si,isolated
+female,Korea,Gyeonggi-do,overseas inflow,2020-03-31,Hwaseong-si,isolated
+male,Korea,Chungcheongbuk-do,etc,2020-03-07,Goesan-gun,released
+female,Korea,Seoul,overseas inflow,2020-03-29,Gangnam-gu,released
+male,Korea,Daegu,overseas inflow,2020-06-12,Buk-gu,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-05-29,Uiwang-si,isolated
+male,Korea,Gyeonggi-do,overseas inflow,2020-03-21,Namyangju-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Seoul,etc,2020-04-02,Gwanak-gu,released
+female,Korea,Seoul,overseas inflow,2020-03-27,Mapo-gu,released
+male,Korea,Ulsan,etc,2020-02-28,Nam-gu,deceased
+female,Korea,Gyeonggi-do,contact with patient,2020-03-08,Ansan-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-02-28,Seongju-gun,released
+male,Korea,Seoul,contact with patient,2020-03-28,Gangnam-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-23,Gwangmyeong-si,isolated
+female,Korea,Seoul,Seongdong-gu APT,2020-03-02,Seongbuk-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-05-12,Suwon-si,isolated
+male,Korea,Jeollanam-do,etc,2020-06-27,etc,isolated
+male,Korea,Gyeonggi-do,Coupang Logistics Center,2020-05-27,Bucheon-si,isolated
+female,Korea,Incheon,contact with patient,2020-04-05,Yeonsu-gu,released
+female,Korea,Seoul,etc,2020-03-29,Geumcheon-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Bucheon-si,isolated
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-15,Yecheon-gun,isolated
+female,Korea,Seoul,etc,2020-03-19,Gwanak-gu,released
+male,Korea,Seoul,contact with patient,2020-03-24,Gangnam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-02-26,Namyangju-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-01,Uijeongbu-si,isolated
+male,Korea,Busan,overseas inflow,2020-03-27,Haeundae-gu,released
+male,Korea,Seoul,overseas inflow,2020-01-23,Gangseo-gu,released
+female,Korea,Gyeonggi-do,overseas inflow,2020-04-01,Uijeongbu-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-04-14,Uijeongbu-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-03-23,Yongin-si,isolated
+male,Korea,Chungcheongnam-do,contact with patient,2020-02-27,Cheonan-si,released
+male,Korea,Chungcheongbuk-do,etc,2020-05-24,Cheongju-si,released
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-29,Cheongju-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-02-29,Hwaseong-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-26,Gyeongsan-si,released
+male,Korea,Gyeonggi-do,etc,2020-03-12,Ansan-si,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-02-22,Andong-si,released
+male,Korea,Gyeongsangbuk-do,contact with patient,2020-03-25,Gyeongju-si,released
+male,Korea,Chungcheongnam-do,overseas inflow,2020-04-28,Cheonan-si,released
+male,Korea,Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,2020-03-10,Gyeongsan-si,released
+female,Korea,Jeju-do,overseas inflow,2020-04-03,Jeju-do,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-03,Suwon-si,isolated
+male,Korea,Seoul,overseas inflow,2020-03-14,Guro-gu,released
+male,Korea,Gyeongsangnam-do,overseas inflow,2020-06-14,Geoje-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-01,Andong-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-04-09,Pyeongtaek-si,isolated
+female,Korea,Daejeon,contact with patient,2020-06-23,Seo-gu,isolated
+female,Korea,Gyeongsangbuk-do,etc,2020-03-01,Yeongcheon-si,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-25,Bucheon-si,isolated
+female,Korea,Chungcheongbuk-do,contact with patient,2020-03-06,Goesan-gun,released
+male,Korea,Seoul,overseas inflow,2020-03-26,Guro-gu,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Daegu,Shincheonji Church,2020-02-19,Dalseo-gu,isolated
+male,Korea,Seoul,overseas inflow,2020-02-23,Gangseo-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Busan,contact with patient,2020-03-14,Busanjin-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-13,Seongnam-si,isolated
+male,Korea,Seoul,overseas inflow,2020-01-30,Mapo-gu,released
+female,Korea,Jeollabuk-do,overseas inflow,2020-03-17,Gunsan-si,released
+female,Korea,Incheon,overseas inflow,2020-04-17,Michuhol-gu,released
+male,Korea,Gyeongsangbuk-do,etc,2020-02-27,Gumi-si,released
+female,Korea,Seoul,Guro-gu Call Center,2020-03-19,Yangcheon-gu,released
+female,Korea,Busan,overseas inflow,2020-03-31,Geumjeong-gu,released
+male,Korea,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Sejong,released
+female,Korea,Gyeongsangbuk-do,contact with patient,2020-04-11,Yecheon-gun,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-03-01,Gumi-si,released
+male,Korea,Gyeonggi-do,overseas inflow,2020-04-08,Hwaseong-si,isolated
+female,Korea,Chungcheongbuk-do,etc,2020-03-04,Goesan-gun,released
+male,Korea,Gyeonggi-do,contact with patient,2020-03-13,Yongin-si,released
+female,Korea,Gyeongsangbuk-do,etc,2020-03-20,Gyeongsan-si,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-16,Seongnam-si,isolated
+male,Korea,Gyeonggi-do,contact with patient,2020-05-28,Goyang-si,isolated
+male,Korea,Gyeongsangbuk-do,etc,2020-02-26,Goryeong-gun,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-24,Gunpo-si,isolated
+female,Korea,Busan,Onchun Church,2020-02-23,Gangseo-gu,released
+female,Korea,Gyeonggi-do,contact with patient,2020-03-15,Seongnam-si,isolated
+female,Korea,Seoul,contact with patient,2020-02-29,Gangnam-gu,released
+male,Korea,Gyeonggi-do,contact with patient,2020-04-01,Gunpo-si,isolated
+female,Korea,Gyeonggi-do,contact with patient,2020-05-29,Yangju-si,isolated

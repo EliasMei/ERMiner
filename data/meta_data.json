@@ -1,0 +1,107 @@
+{
+    "Adult": {
+        "disc": [
+            "workclass",
+            "education",
+            "marital-status",
+            "occupation",
+            "relationship",
+            "race",
+            "sex",
+            "native-country"
+        ],
+        "cont": [
+            "age",
+            "education-num",
+            "capital-gain",
+            "capital-loss",
+            "hours-per-week"
+        ],
+        "y_attr": "income",
+        "match": {
+            "age": [
+                "age"
+            ],
+            "hours-per-week": [
+                "hours-per-week"
+            ],
+            "workclass": [
+                "workclass"
+            ],
+            "occupation": [
+                "occupation"
+            ]
+        }
+    },
+    "Nursery": {
+        "disc": [
+            "parents",
+            "has_nurs",
+            "form",
+            "children",
+            "housing",
+            "social",
+            "health",
+            "class"
+        ],
+        "cont": [],
+        "y_attr": "finance",
+        "match": {
+            "parents": [
+                "parents"
+            ],
+            "has_nurs": [
+                "has_nurs"
+            ],
+            "form": [
+                "form"
+            ],
+            "children": [
+                "children"
+            ],
+            "housing": [
+                "housing"
+            ],
+            "social": [
+                "social"
+            ],
+            "health": [
+                "health"
+            ],
+            "class": [
+                "class"
+            ]
+        }
+    },
+    "Covid": {
+        "disc": [
+            "patient_id",
+            "sex",
+            "age",
+            "country",
+            "province",
+            "city",
+            "confirmed_date",
+            "state"
+        ],
+        "cont": [],
+        "y_attr": "infection_case",
+        "match": {
+            "country": [
+                "country"
+            ],
+            "city": [
+                "city"
+            ],
+            "sex": [
+                "sex"
+            ],
+            "province": [
+                "province"
+            ],
+            "confirmed_date": [
+                "confirmed_date"
+            ]
+        }
+    }
+}

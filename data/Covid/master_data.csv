@@ -1,0 +1,1825 @@
+patient_id,sex,age,province,city,infection_case,confirmed_date,country
+1000000001,male,50s,Seoul,Gangseo-gu,overseas inflow,2020-01-23,Korea
+1000000002,male,30s,Seoul,Jungnang-gu,overseas inflow,2020-01-30,Korea
+1000000003,male,50s,Seoul,Jongno-gu,contact with patient,2020-01-30,Korea
+1000000004,male,20s,Seoul,Mapo-gu,overseas inflow,2020-01-30,Korea
+1000000005,female,20s,Seoul,Seongbuk-gu,contact with patient,2020-01-31,Korea
+1000000006,female,50s,Seoul,Jongno-gu,contact with patient,2020-01-31,Korea
+1000000007,male,20s,Seoul,Jongno-gu,contact with patient,2020-01-31,Korea
+1000000008,male,20s,Seoul,etc,overseas inflow,2020-02-02,Korea
+1000000009,male,30s,Seoul,Songpa-gu,overseas inflow,2020-02-05,Korea
+1000000010,female,60s,Seoul,Seongbuk-gu,contact with patient,2020-02-05,Korea
+1000000011,female,50s,Seoul,Seodaemun-gu,overseas inflow,2020-02-06,China
+1000000012,male,20s,Seoul,etc,overseas inflow,2020-02-07,Korea
+1000000014,female,60s,Seoul,Jongno-gu,contact with patient,2020-02-16,Korea
+1000000015,male,70s,Seoul,Seongdong-gu,Seongdong-gu APT,2020-02-19,Korea
+1000000016,male,70s,Seoul,Jongno-gu,contact with patient,2020-02-19,Korea
+1000000017,male,70s,Seoul,Jongno-gu,contact with patient,2020-02-20,Korea
+1000000018,male,20s,Seoul,etc,etc,2020-02-20,Korea
+1000000019,female,70s,Seoul,Jongno-gu,contact with patient,2020-02-20,Korea
+1000000020,female,70s,Seoul,Seongdong-gu,Seongdong-gu APT,2020-02-20,Korea
+1000000021,male,80s,Seoul,Jongno-gu,contact with patient,2020-02-20,Korea
+1000000022,male,30s,Seoul,Seodaemun-gu,Eunpyeong St. Mary's Hospital,2020-02-21,Korea
+1000000023,male,50s,Seoul,Seocho-gu,Shincheonji Church,2020-02-21,Korea
+1000000024,male,40s,Seoul,Guro-gu,contact with patient,2020-02-22,Korea
+1000000025,male,60s,Seoul,Gangdong-gu,Eunpyeong St. Mary's Hospital,2020-02-22,Korea
+1000000026,male,30s,Seoul,Seocho-gu,etc,2020-02-22,Korea
+1000000027,male,50s,Seoul,Gangseo-gu,overseas inflow,2020-02-23,Korea
+1000000028,female,70s,Seoul,Jongno-gu,Eunpyeong St. Mary's Hospital,2020-02-23,Korea
+1000000029,female,20s,Seoul,Jongno-gu,Eunpyeong St. Mary's Hospital,2020-02-26,Korea
+1000000030,male,60s,Seoul,Gangdong-gu,Eunpyeong St. Mary's Hospital,2020-02-23,China
+1000000031,male,50s,Seoul,Songpa-gu,etc,2020-02-22,Korea
+1000000032,male,50s,Seoul,Seocho-gu,contact with patient,2020-02-23,Korea
+1000000033,female,50s,Seoul,Songpa-gu,contact with patient,2020-02-24,Korea
+1000000034,male,20s,Seoul,Songpa-gu,contact with patient,2020-02-24,Korea
+1000000035,male,30s,Seoul,etc,etc,2020-02-25,Korea
+1000000036,female,50s,Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,2020-02-25,Korea
+1000000037,female,40s,Seoul,Songpa-gu,contact with patient,2020-02-25,Korea
+1000000038,male,60s,Seoul,etc,etc,2020-02-25,Korea
+1000000039,female,70s,Seoul,Geumcheon-gu,overseas inflow,2020-02-25,China
+1000000040,female,60s,Seoul,Gwanak-gu,overseas inflow,2020-02-25,Korea
+1000000041,male,50s,Seoul,Gangdong-gu,etc,2020-02-25,Korea
+1000000042,male,40s,Seoul,Nowon-gu,etc,2020-02-26,Korea
+1000000043,female,20s,Seoul,Songpa-gu,overseas inflow,2020-02-26,Korea
+1000000044,male,60s,Seoul,Dongjak-gu,contact with patient,2020-02-26,Korea
+1000000045,male,40s,Seoul,Songpa-gu,contact with patient,2020-02-26,Korea
+1000000046,female,20s,Seoul,etc,contact with patient,2020-02-26,Korea
+1000000047,male,20s,Seoul,Gangnam-gu,Shincheonji Church,2020-02-26,Korea
+1000000048,female,20s,Seoul,Eunpyeong-gu,etc,2020-02-26,Korea
+1000000049,male,60s,Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,2020-02-26,Korea
+1000000050,male,20s,Seoul,Gwanak-gu,etc,2020-02-27,Korea
+1000000051,female,20s,Seoul,Songpa-gu,etc,2020-02-27,Korea
+1000000052,male,30s,Seoul,Songpa-gu,overseas inflow,2020-02-27,Korea
+1000000053,female,40s,Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,2020-02-27,Korea
+1000000054,female,80s,Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,2020-02-27,Korea
+1000000055,female,20s,Seoul,Yangcheon-gu,Eunpyeong St. Mary's Hospital,2020-02-27,Korea
+1000000056,male,50s,Seoul,etc,etc,2020-02-27,Korea
+1000000057,female,70s,Seoul,etc,Eunpyeong St. Mary's Hospital,2020-02-27,Korea
+1000000058,female,30s,Seoul,Gangnam-gu,etc,2020-02-27,Korea
+1000000059,female,60s,Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,2020-02-28,Korea
+1000000060,male,80s,Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,2020-02-28,Korea
+1000000061,male,60s,Seoul,Seodaemun-gu,Eunpyeong St. Mary's Hospital,2020-02-28,Korea
+1000000062,male,40s,Seoul,Seodaemun-gu,etc,2020-02-28,Korea
+1000000063,male,30s,Seoul,Gwanak-gu,etc,2020-02-29,Korea
+1000000064,female,30s,Seoul,Gangnam-gu,contact with patient,2020-02-29,Korea
+1000000065,male,30s,Seoul,Gangnam-gu,contact with patient,2020-02-29,Korea
+1000000066,male,30s,Seoul,Gangnam-gu,etc,2020-02-29,Korea
+1000000067,female,20s,Seoul,Songpa-gu,contact with patient,2020-02-29,Korea
+1000000068,female,20s,Seoul,Gangnam-gu,etc,2020-02-29,Korea
+1000000069,male,40s,Seoul,Nowon-gu,etc,2020-02-27,Korea
+1000000070,female,40s,Seoul,Nowon-gu,Seongdong-gu APT,2020-02-27,Korea
+1000000071,female,30s,Seoul,Nowon-gu,etc,2020-02-26,Korea
+1000000072,female,40s,Seoul,Gangdong-gu,etc,2020-02-27,Korea
+1000000073,male,40s,Seoul,etc,etc,2020-02-27,Korea
+1000000074,male,50s,Seoul,Seocho-gu,etc,2020-02-27,Korea
+1000000075,male,30s,Seoul,Gwangjin-gu,overseas inflow,2020-02-27,Korea
+1000000076,male,40s,Seoul,Dongdaemun-gu,contact with patient,2020-02-27,Korea
+1000000077,female,20s,Seoul,Seongdong-gu,etc,2020-02-28,Korea
+1000000078,male,40s,Seoul,Nowon-gu,Seongdong-gu APT,2020-02-25,Korea
+1000000079,female,10s,Seoul,Nowon-gu,Seongdong-gu APT,2020-02-28,Korea
+1000000080,female,20s,Seoul,Nowon-gu,contact with patient,2020-02-29,Korea
+1000000081,female,30s,Seoul,Gwanak-gu,contact with patient,2020-02-29,Korea
+1000000082,male,60s,Seoul,Yeongdeungpo-gu,overseas inflow,2020-02-29,Korea
+1000000083,female,20s,Seoul,Songpa-gu,contact with patient,2020-03-01,Korea
+1000000084,female,20s,Seoul,Songpa-gu,contact with patient,2020-02-27,Korea
+1000000085,female,30s,Seoul,Gangnam-gu,overseas inflow,2020-02-27,Korea
+1000000086,female,30s,Seoul,Gangnam-gu,etc,2020-03-01,Korea
+1000000087,male,10s,Seoul,Nowon-gu,Seongdong-gu APT,2020-02-28,Korea
+1000000088,male,40s,Seoul,Gwangjin-gu,Seongdong-gu APT,2020-03-01,Korea
+1000000089,male,50s,Seoul,Seongbuk-gu,Seongdong-gu APT,2020-03-01,Korea
+1000000090,male,50s,Seoul,Yeongdeungpo-gu,Seongdong-gu APT,2020-03-01,Korea
+1000000091,male,40s,Seoul,Yeongdeungpo-gu,etc,2020-02-29,Korea
+1000000092,male,20s,Seoul,Yeongdeungpo-gu,Seongdong-gu APT,2020-03-02,Korea
+1000000093,female,50s,Seoul,Gangnam-gu,etc,2020-03-02,Korea
+1000000094,female,50s,Seoul,Seongbuk-gu,Seongdong-gu APT,2020-03-02,Korea
+1000000095,female,20s,Seoul,Seongbuk-gu,Seongdong-gu APT,2020-03-02,Korea
+1000000096,male,30s,Seoul,Dobong-gu,etc,2020-03-02,Korea
+1000000097,male,30s,Seoul,Yangcheon-gu,contact with patient,2020-03-01,Korea
+1000000098,male,50s,Seoul,Seocho-gu,etc,2020-03-02,Korea
+1000000099,female,20s,Seoul,Dongdaemun-gu,etc,2020-03-01,Korea
+1000000100,male,30s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-04,Korea
+1000000101,female,10s,Seoul,Jungnang-gu,contact with patient,2020-03-04,Korea
+1000000102,female,40s,Seoul,Yongsan-gu,Seongdong-gu APT,2020-03-04,Korea
+1000000103,male,20s,Seoul,Dongdaemun-gu,overseas inflow,2020-03-04,Korea
+1000000104,female,10s,Seoul,Gangbuk-gu,etc,2020-03-05,Korea
+1000000105,male,30s,Seoul,Gangnam-gu,etc,2020-03-05,Korea
+1000000106,male,30s,Seoul,Gangseo-gu,contact with patient,2020-03-06,Korea
+1000000107,male,30s,Seoul,etc,contact with patient,2020-03-06,Korea
+1000000108,male,40s,Seoul,etc,contact with patient,2020-03-06,Korea
+1000000110,male,50s,Seoul,Gangnam-gu,contact with patient,2020-03-07,Korea
+1000000111,male,30s,Seoul,Gangbuk-gu,contact with patient,2020-03-04,Korea
+1000000112,female,0s,Seoul,Gwanak-gu,contact with patient,2020-03-07,Korea
+1000000113,female,60s,Seoul,Gangbuk-gu,contact with patient,2020-03-06,Korea
+1000000114,female,20s,Seoul,Yangcheon-gu,contact with patient,2020-03-07,Korea
+1000000115,female,50s,Seoul,Yangcheon-gu,contact with patient,2020-03-06,Korea
+1000000116,male,30s,Seoul,Eunpyeong-gu,overseas inflow,2020-03-07,Korea
+1000000117,male,60s,Seoul,Seocho-gu,contact with patient,2020-03-07,Korea
+1000000118,male,50s,Seoul,Yangcheon-gu,contact with patient,2020-03-07,Korea
+1000000119,male,60s,Seoul,Gangbuk-gu,contact with patient,2020-03-06,Korea
+1000000120,male,30s,Seoul,Seongbuk-gu,Dongan Church,2020-03-06,Korea
+1000000121,female,0s,Seoul,Dongdaemun-gu,contact with patient,2020-03-08,Korea
+1000000122,female,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-08,Korea
+1000000123,female,70s,Seoul,etc,etc,2020-03-08,Korea
+1000000124,male,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-08,Korea
+1000000125,female,50s,Seoul,Nowon-gu,Guro-gu Call Center,2020-03-08,Korea
+1000000126,female,30s,Seoul,Dongdaemun-gu,contact with patient,2020-03-08,Korea
+1000000127,male,50s,Seoul,Gangnam-gu,contact with patient,2020-03-08,Korea
+1000000128,male,60s,Seoul,Dongdaemun-gu,contact with patient,2020-03-08,Korea
+1000000129,female,60s,Seoul,Dongdaemun-gu,contact with patient,2020-03-08,Korea
+1000000130,male,20s,Seoul,Dongdaemun-gu,contact with patient,2020-03-08,Korea
+1000000131,female,50s,Seoul,Eunpyeong-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000132,male,50s,Seoul,Eunpyeong-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000133,female,40s,Seoul,Gangdong-gu,overseas inflow,2020-03-09,Korea
+1000000134,female,20s,Seoul,Dongjak-gu,contact with patient,2020-03-09,Korea
+1000000135,male,30s,Seoul,Eunpyeong-gu,etc,2020-03-09,Korea
+1000000136,female,50s,Seoul,Jung-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000137,female,50s,Seoul,Geumcheon-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000138,male,30s,Seoul,etc,etc,2020-03-09,Korea
+1000000139,male,30s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000140,female,40s,Seoul,Eunpyeong-gu,etc,2020-03-09,Korea
+1000000141,female,50s,Seoul,Nowon-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000142,female,40s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000143,male,40s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000144,female,40s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000145,male,40s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000146,female,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000147,male,20s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000148,male,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000149,female,50s,Seoul,etc,Guro-gu Call Center,2020-03-09,Korea
+1000000150,female,60s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000151,female,40s,Seoul,etc,Guro-gu Call Center,2020-03-09,Korea
+1000000152,female,40s,Seoul,etc,Guro-gu Call Center,2020-03-09,Korea
+1000000153,female,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000154,female,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000155,female,50s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000156,female,30s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-09,Korea
+1000000157,female,40s,Seoul,Dongjak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000158,female,40s,Seoul,Dongjak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000159,female,40s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000160,female,60s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000161,female,50s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000162,female,50s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000163,female,40s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000164,female,60s,Seoul,Eunpyeong-gu,contact with patient,2020-03-10,Korea
+1000000165,female,40s,Seoul,Songpa-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000166,female,40s,Seoul,Yeongdeungpo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000167,female,40s,Seoul,Yeongdeungpo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000168,female,40s,Seoul,Yeongdeungpo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000169,female,40s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000170,female,50s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000171,female,40s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000172,female,50s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000173,female,50s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000174,male,20s,Seoul,Dongdaemun-gu,contact with patient,2020-03-10,Korea
+1000000175,female,20s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000176,female,40s,Seoul,Yeongdeungpo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000177,male,40s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000178,female,20s,Seoul,Dongdaemun-gu,contact with patient,2020-03-10,Korea
+1000000179,male,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000180,female,40s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000181,female,30s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000182,female,50s,Seoul,Dongjak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000183,female,50s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000184,male,30s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000185,female,30s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000186,female,50s,Seoul,Yeongdeungpo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000187,female,50s,Seoul,Geumcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000188,female,20s,Seoul,Dongdaemun-gu,contact with patient,2020-03-10,Korea
+1000000189,male,20s,Seoul,Dongdaemun-gu,contact with patient,2020-03-10,Korea
+1000000190,female,50s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000191,female,30s,Seoul,Eunpyeong-gu,overseas inflow,2020-03-10,Korea
+1000000192,female,20s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000193,male,20s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000194,male,40s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000195,female,30s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000196,female,60s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000197,male,60s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000198,female,50s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000199,female,40s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000200,female,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000201,male,30s,Seoul,Nowon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000202,male,60s,Seoul,Nowon-gu,Guro-gu Call Center,2020-03-10,Korea
+1000000203,male,20s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000204,male,50s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000205,female,20s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000206,female,20s,Seoul,Seodaemun-gu,etc,2020-03-11,Korea
+1000000207,female,70s,Seoul,Eunpyeong-gu,etc,2020-03-11,Korea
+1000000208,male,40s,Seoul,Jungnang-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000209,male,70s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000210,male,50s,Seoul,Eunpyeong-gu,etc,2020-03-11,Korea
+1000000211,male,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-11,Korea
+1000000212,female,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-11,Korea
+1000000213,female,20s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000214,female,50s,Seoul,Seodaemun-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000215,female,60s,Seoul,Songpa-gu,etc,2020-03-11,Korea
+1000000216,male,30s,Seoul,Seongbuk-gu,overseas inflow,2020-03-11,Korea
+1000000217,male,20s,Seoul,Seongbuk-gu,Dongan Church,2020-03-11,Korea
+1000000218,male,40s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000219,female,30s,Seoul,Jungnang-gu,Guro-gu Call Center,2020-03-11,Korea
+1000000220,male,50s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-11,Korea
+1000000221,male,10s,Seoul,Nowon-gu,contact with patient,2020-03-12,Korea
+1000000222,male,50s,Seoul,Gangbuk-gu,overseas inflow,2020-03-12,Korea
+1000000223,female,20s,Seoul,Gangnam-gu,Guro-gu Call Center,2020-03-12,Korea
+1000000224,male,10s,Seoul,Dongdaemun-gu,contact with patient,2020-03-12,Korea
+1000000225,male,20s,Seoul,Seongbuk-gu,contact with patient,2020-03-12,Korea
+1000000226,male,20s,Seoul,Geumcheon-gu,Guro-gu Call Center,2020-03-12,Korea
+1000000227,male,30s,Seoul,Geumcheon-gu,etc,2020-03-12,Korea
+1000000228,female,60s,Seoul,Songpa-gu,Guro-gu Call Center,2020-03-12,Korea
+1000000229,male,30s,Seoul,Yongsan-gu,overseas inflow,2020-03-12,Korea
+1000000230,male,20s,Seoul,Gwanak-gu,overseas inflow,2020-03-12,Korea
+1000000231,female,50s,Seoul,Seocho-gu,Shincheonji Church,2020-03-12,Korea
+1000000232,male,20s,Seoul,Gwanak-gu,contact with patient,2020-03-13,Korea
+1000000233,female,20s,Seoul,Seocho-gu,contact with patient,2020-03-13,Korea
+1000000234,female,20s,Seoul,Seocho-gu,etc,2020-03-13,Korea
+1000000235,male,50s,Seoul,Dongjak-gu,contact with patient,2020-03-13,Korea
+1000000236,male,20s,Seoul,Nowon-gu,overseas inflow,2020-03-13,Korea
+1000000237,female,20s,Seoul,Mapo-gu,overseas inflow,2020-03-13,Korea
+1000000238,female,70s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-13,Korea
+1000000239,male,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-13,Korea
+1000000240,male,50s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-13,Korea
+1000000241,female,60s,Seoul,Jungnang-gu,Dongan Church,2020-03-14,Korea
+1000000242,male,20s,Seoul,Mapo-gu,contact with patient,2020-03-14,Korea
+1000000243,female,40s,Seoul,Gangnam-gu,contact with patient,2020-03-14,Korea
+1000000244,female,60s,Seoul,Dobong-gu,Dongan Church,2020-03-14,Korea
+1000000245,male,30s,Seoul,Yeongdeungpo-gu,Guro-gu Call Center,2020-03-14,Korea
+1000000246,male,50s,Seoul,Yeongdeungpo-gu,etc,2020-03-14,Korea
+1000000247,male,50s,Seoul,Guro-gu,overseas inflow,2020-03-14,Korea
+1000000248,female,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-14,Korea
+1000000249,female,20s,Seoul,Nowon-gu,contact with patient,2020-03-15,Korea
+1000000250,female,10s,Seoul,Yeongdeungpo-gu,contact with patient,2020-03-15,Korea
+1000000251,male,0s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-15,Korea
+1000000252,male,30s,Seoul,Gangseo-gu,etc,2020-03-15,Korea
+1000000253,male,50s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-15,Korea
+1000000254,female,80s,Seoul,Eunpyeong-gu,Guro-gu Call Center,2020-03-15,Korea
+1000000255,female,30s,Seoul,Seodaemun-gu,etc,2020-03-16,Korea
+1000000256,female,20s,Seoul,Eunpyeong-gu,Guro-gu Call Center,2020-03-16,Korea
+1000000257,male,30s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-16,Korea
+1000000258,male,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-16,Korea
+1000000259,male,20s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-16,Korea
+1000000260,male,30s,Seoul,Seodaemun-gu,etc,2020-03-16,Korea
+1000000261,male,40s,Seoul,Gwanak-gu,etc,2020-03-16,Korea
+1000000262,female,40s,Seoul,Yongsan-gu,Guro-gu Call Center,2020-03-16,Korea
+1000000263,male,10s,Seoul,Guro-gu,contact with patient,2020-03-16,Korea
+1000000264,male,40s,Seoul,Gangseo-gu,contact with patient,2020-03-16,Korea
+1000000265,male,30s,Seoul,Gwanak-gu,etc,2020-03-16,Korea
+1000000266,male,20s,Seoul,Yeongdeungpo-gu,overseas inflow,2020-03-16,Korea
+1000000267,female,50s,Seoul,Dongjak-gu,etc,2020-03-16,Korea
+1000000268,male,10s,Seoul,Dongdaemun-gu,Dongan Church,2020-03-17,Korea
+1000000269,female,20s,Seoul,Songpa-gu,overseas inflow,2020-03-17,Korea
+1000000270,female,20s,Seoul,etc,overseas inflow,2020-03-17,Korea
+1000000271,male,20s,Seoul,Mapo-gu,overseas inflow,2020-03-17,Korea
+1000000272,male,40s,Seoul,Gangnam-gu,overseas inflow,2020-03-18,Korea
+1000000273,female,40s,Seoul,Seongbuk-gu,Guro-gu Call Center,2020-03-18,Korea
+1000000274,female,50s,Seoul,Seongbuk-gu,Dongan Church,2020-03-18,Korea
+1000000275,female,30s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-18,Korea
+1000000276,male,0s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-18,Korea
+1000000277,male,30s,Seoul,Dongjak-gu,overseas inflow,2020-03-18,Korea
+1000000278,female,20s,Seoul,Nowon-gu,overseas inflow,2020-03-18,Korea
+1000000279,male,90s,Seoul,Yongsan-gu,etc,2020-03-18,Korea
+1000000280,male,40s,Seoul,Gangnam-gu,etc,2020-03-18,Korea
+1000000281,female,30s,Seoul,Dongjak-gu,overseas inflow,2020-03-18,Korea
+1000000282,male,30s,Seoul,Gwangjin-gu,overseas inflow,2020-03-18,Korea
+1000000283,female,70s,Seoul,Gwanak-gu,etc,2020-03-19,Korea
+1000000284,female,80s,Seoul,Yongsan-gu,contact with patient,2020-03-19,Korea
+1000000286,female,10s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-19,Korea
+1000000287,male,10s,Seoul,Mapo-gu,Guro-gu Call Center,2020-03-19,Korea
+1000000288,female,50s,Seoul,Nowon-gu,contact with patient,2020-03-19,Korea
+1000000289,male,20s,Seoul,Dongjak-gu,overseas inflow,2020-03-19,Korea
+1000000290,female,30s,Seoul,Songpa-gu,overseas inflow,2020-03-19,Korea
+1000000291,female,50s,Seoul,Gangseo-gu,Guro-gu Call Center,2020-03-19,Korea
+1000000292,female,40s,Seoul,Seongdong-gu,overseas inflow,2020-03-19,Korea
+1000000293,female,60s,Seoul,Yangcheon-gu,Guro-gu Call Center,2020-03-19,Korea
+1000000294,female,60s,Seoul,Gangnam-gu,overseas inflow,2020-03-19,Korea
+1000000295,female,30s,Seoul,Songpa-gu,overseas inflow,2020-03-19,Korea
+1000000296,female,50s,Seoul,Dongjak-gu,Guro-gu Call Center,2020-03-19,Korea
+1000000297,female,20s,Seoul,Yeongdeungpo-gu,contact with patient,2020-03-19,Korea
+1000000298,female,50s,Seoul,Yeongdeungpo-gu,contact with patient,2020-03-19,Korea
+1000000299,male,40s,Seoul,Nowon-gu,overseas inflow,2020-03-19,Korea
+1000000300,female,40s,Seoul,Guro-gu,Guro-gu Call Center,2020-03-20,Korea
+1000000301,male,30s,Seoul,Dongjak-gu,etc,2020-03-20,Korea
+1000000302,male,10s,Seoul,Dongjak-gu,overseas inflow,2020-03-20,Korea
+1000000303,male,70s,Seoul,Yeongdeungpo-gu,overseas inflow,2020-03-20,Korea
+1000000304,female,20s,Seoul,Seongdong-gu,overseas inflow,2020-03-20,Korea
+1000000305,male,20s,Seoul,Jungnang-gu,overseas inflow,2020-03-20,Korea
+1000000306,male,20s,Seoul,Eunpyeong-gu,overseas inflow,2020-03-20,Korea
+1000000307,male,60s,Seoul,Nowon-gu,contact with patient,2020-03-20,Korea
+1000000308,female,20s,Seoul,Seocho-gu,overseas inflow,2020-03-20,Korea
+1000000309,male,40s,Seoul,Gangdong-gu,overseas inflow,2020-03-20,Korea
+1000000310,female,60s,Seoul,Seongbuk-gu,contact with patient,2020-03-20,Korea
+1000000311,female,0s,Seoul,Gangseo-gu,contact with patient,2020-03-20,Korea
+1000000312,male,50s,Seoul,Gangdong-gu,etc,2020-03-20,Korea
+1000000313,female,20s,Seoul,Seocho-gu,overseas inflow,2020-03-20,Korea
+1000000314,male,20s,Seoul,Gwangjin-gu,overseas inflow,2020-03-20,Korea
+1000000315,female,50s,Seoul,Gwanak-gu,Guro-gu Call Center,2020-03-20,Korea
+1000000316,male,20s,Seoul,Nowon-gu,etc,2020-03-20,Korea
+1000000317,female,30s,Seoul,Gangseo-gu,overseas inflow,2020-03-21,Korea
+1000000318,male,20s,Seoul,Jungnang-gu,contact with patient,2020-03-21,Korea
+1000000319,male,20s,Seoul,Jungnang-gu,contact with patient,2020-03-21,Korea
+1000000320,male,60s,Seoul,Seongdong-gu,contact with patient,2020-03-21,Korea
+1000000321,male,20s,Seoul,Yeongdeungpo-gu,overseas inflow,2020-03-21,Korea
+1000000322,female,20s,Seoul,Seodaemun-gu,overseas inflow,2020-03-21,Korea
+1000000323,male,30s,Seoul,Seodaemun-gu,contact with patient,2020-03-21,Korea
+1000000324,female,50s,Seoul,Seocho-gu,etc,2020-03-21,Korea
+1000000325,male,50s,Seoul,Seongbuk-gu,overseas inflow,2020-03-22,Korea
+1000000326,male,20s,Seoul,Dobong-gu,overseas inflow,2020-03-22,Korea
+1000000327,female,20s,Seoul,Gangseo-gu,overseas inflow,2020-03-22,Korea
+1000000328,female,50s,Seoul,Seodaemun-gu,Guro-gu Call Center,2020-03-22,Korea
+1000000329,female,40s,Seoul,Seodaemun-gu,Guro-gu Call Center,2020-03-22,Korea
+1000000330,female,20s,Seoul,Eunpyeong-gu,contact with patient,2020-03-22,Korea
+1000000331,male,70s,Seoul,Yeongdeungpo-gu,etc,2020-03-23,Korea
+1000000332,male,40s,Seoul,Yongsan-gu,overseas inflow,2020-03-23,Korea
+1000000333,female,10s,Seoul,Jongno-gu,overseas inflow,2020-03-23,Korea
+1000000334,male,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-23,Korea
+1000000335,male,30s,Seoul,Gangseo-gu,overseas inflow,2020-03-24,United States
+1000000336,female,20s,Seoul,Gangdong-gu,overseas inflow,2020-03-23,Korea
+1000000337,female,20s,Seoul,Dongjak-gu,overseas inflow,2020-03-24,Korea
+1000000338,female,20s,Seoul,Jungnang-gu,overseas inflow,2020-03-24,United States
+1000000339,male,20s,Seoul,Jungnang-gu,overseas inflow,2020-03-24,Korea
+1000000340,female,20s,Seoul,Dobong-gu,overseas inflow,2020-03-24,Korea
+1000000341,female,30s,Seoul,Gangseo-gu,contact with patient,2020-03-24,Korea
+1000000342,female,10s,Seoul,Jongno-gu,contact with patient,2020-03-24,Korea
+1000000343,male,30s,Seoul,Yongsan-gu,overseas inflow,2020-03-24,Korea
+1000000344,male,60s,Seoul,Gangnam-gu,contact with patient,2020-03-24,Korea
+1000000345,male,60s,Seoul,Seocho-gu,overseas inflow,2020-03-24,Korea
+1000000346,male,50s,Seoul,etc,overseas inflow,2020-03-24,Korea
+1000000347,female,20s,Seoul,Eunpyeong-gu,contact with patient,2020-03-24,Korea
+1000000348,female,20s,Seoul,Songpa-gu,overseas inflow,2020-03-23,Korea
+1000000349,female,30s,Seoul,Dongdaemun-gu,overseas inflow,2020-03-24,Korea
+1000000350,male,30s,Seoul,Dongjak-gu,overseas inflow,2020-03-25,Korea
+1000000351,male,30s,Seoul,Dongjak-gu,overseas inflow,2020-03-25,Korea
+1000000352,female,20s,Seoul,Seocho-gu,overseas inflow,2020-03-25,Korea
+1000000353,male,40s,Seoul,Geumcheon-gu,etc,2020-03-25,Korea
+1000000354,female,20s,Seoul,Seocho-gu,overseas inflow,2020-03-25,Korea
+1000000355,female,20s,Seoul,Seocho-gu,overseas inflow,2020-03-25,Korea
+1000000356,female,70s,Seoul,Gangseo-gu,contact with patient,2020-03-25,Korea
+1000000357,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-25,Korea
+1000000358,male,20s,Seoul,etc,overseas inflow,2020-03-25,Korea
+1000000359,male,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-25,Korea
+1000000360,female,10s,Seoul,Gangnam-gu,overseas inflow,2020-03-25,Korea
+1000000361,male,20s,Seoul,Jungnang-gu,overseas inflow,2020-03-26,Korea
+1000000362,female,20s,Seoul,Seongbuk-gu,overseas inflow,2020-03-26,Korea
+1000000363,female,30s,Seoul,Geumcheon-gu,contact with patient,2020-03-26,Korea
+1000000364,male,40s,Seoul,Yongsan-gu,contact with patient,2020-03-26,Korea
+1000000365,female,50s,Seoul,Guro-gu,contact with patient,2020-03-26,Korea
+1000000366,male,50s,Seoul,Guro-gu,overseas inflow,2020-03-26,Korea
+1000000367,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-26,Korea
+1000000368,male,60s,Seoul,Gangnam-gu,overseas inflow,2020-03-26,Korea
+1000000369,female,20s,Seoul,Songpa-gu,overseas inflow,2020-03-26,Korea
+1000000370,male,40s,Seoul,Seocho-gu,overseas inflow,2020-03-26,Korea
+1000000371,male,30s,Seoul,Songpa-gu,overseas inflow,2020-03-26,Korea
+1000000372,male,50s,Seoul,etc,etc,2020-03-25,Korea
+1000000373,female,50s,Seoul,Gangnam-gu,contact with patient,2020-03-26,Korea
+1000000374,male,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-26,Korea
+1000000375,female,20s,Seoul,Gangdong-gu,overseas inflow,2020-03-26,Korea
+1000000376,female,20s,Seoul,Mapo-gu,overseas inflow,2020-03-27,Korea
+1000000377,female,30s,Seoul,Gwanak-gu,overseas inflow,2020-03-27,France
+1000000378,female,50s,Seoul,Dobong-gu,overseas inflow,2020-03-27,Korea
+1000000379,male,30s,Seoul,Seodaemun-gu,overseas inflow,2020-03-27,Thailand
+1000000380,male,40s,Seoul,Jungnang-gu,overseas inflow,2020-03-27,Korea
+1000000381,female,50s,Seoul,Jungnang-gu,contact with patient,2020-03-27,Korea
+1000000382,female,30s,Seoul,Jung-gu,overseas inflow,2020-03-27,Korea
+1000000383,female,20s,Seoul,Seongbuk-gu,overseas inflow,2020-03-27,Korea
+1000000384,male,20s,Seoul,Songpa-gu,overseas inflow,2020-03-27,Korea
+1000000385,male,40s,Seoul,Yeongdeungpo-gu,contact with patient,2020-03-27,Korea
+1000000386,male,50s,Seoul,etc,contact with patient,2020-03-27,Korea
+1000000387,female,10s,Seoul,Gangnam-gu,overseas inflow,2020-03-27,Korea
+1000000388,male,20s,Seoul,Guro-gu,overseas inflow,2020-03-27,Korea
+1000000389,male,50s,Seoul,Gangnam-gu,overseas inflow,2020-03-27,Korea
+1000000390,female,10s,Seoul,Gangnam-gu,overseas inflow,2020-03-25,Korea
+1000000391,male,50s,Seoul,Geumcheon-gu,contact with patient,2020-03-28,Korea
+1000000392,male,40s,Seoul,Guro-gu,etc,2020-03-28,Korea
+1000000393,female,40s,Seoul,Dongjak-gu,etc,2020-03-28,Korea
+1000000394,male,40s,Seoul,etc,overseas inflow,2020-03-28,Korea
+1000000395,male,40s,Seoul,etc,overseas inflow,2020-03-28,Korea
+1000000396,male,20s,Seoul,Gwanak-gu,overseas inflow,2020-03-28,Korea
+1000000397,female,20s,Seoul,Seocho-gu,overseas inflow,2020-03-28,Korea
+1000000398,male,20s,Seoul,Jung-gu,overseas inflow,2020-03-28,Korea
+1000000399,female,40s,Seoul,Guro-gu,etc,2020-03-28,Korea
+1000000400,male,20s,Seoul,Songpa-gu,overseas inflow,2020-03-28,Korea
+1000000401,female,40s,Seoul,Gangnam-gu,overseas inflow,2020-03-28,Korea
+1000000402,male,20s,Seoul,Seocho-gu,overseas inflow,2020-03-28,Korea
+1000000403,female,30s,Seoul,Dongjak-gu,contact with patient,2020-03-28,Korea
+1000000404,male,10s,Seoul,Gangnam-gu,overseas inflow,2020-03-28,Korea
+1000000405,male,20s,Seoul,Gangnam-gu,contact with patient,2020-03-28,Korea
+1000000406,male,10s,Seoul,Gangnam-gu,overseas inflow,2020-03-28,Korea
+1000000407,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-28,Korea
+1000000408,female,20s,Seoul,Yangcheon-gu,overseas inflow,2020-03-28,Korea
+1000000409,female,40s,Seoul,Seocho-gu,overseas inflow,2020-03-28,Korea
+1000000410,female,20s,Seoul,etc,overseas inflow,2020-03-28,Korea
+1000000411,female,50s,Seoul,Dongjak-gu,etc,2020-03-28,Korea
+1000000412,female,40s,Seoul,Guro-gu,etc,2020-03-28,Korea
+1000000413,male,20s,Seoul,etc,overseas inflow,2020-03-29,Korea
+1000000414,female,20s,Seoul,Gwanak-gu,etc,2020-03-29,Korea
+1000000415,male,50s,Seoul,Gwanak-gu,contact with patient,2020-03-29,Korea
+1000000416,female,50s,Seoul,Gwanak-gu,contact with patient,2020-03-29,Korea
+1000000417,female,20s,Seoul,Mapo-gu,overseas inflow,2020-03-29,Korea
+1000000418,female,50s,Seoul,Dobong-gu,etc,2020-03-29,Korea
+1000000419,male,20s,Seoul,Seocho-gu,overseas inflow,2020-03-29,Korea
+1000000420,female,50s,Seoul,Gangnam-gu,overseas inflow,2020-03-29,Korea
+1000000421,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-29,Korea
+1000000422,male,40s,Seoul,Gangnam-gu,contact with patient,2020-03-29,Korea
+1000000423,female,10s,Seoul,Gangnam-gu,overseas inflow,2020-03-29,Korea
+1000000424,female,30s,Seoul,Songpa-gu,overseas inflow,2020-03-29,Korea
+1000000425,male,30s,Seoul,Seodaemun-gu,overseas inflow,2020-03-29,Korea
+1000000426,female,30s,Seoul,Gwangjin-gu,overseas inflow,2020-03-29,Korea
+1000000427,male,50s,Seoul,Geumcheon-gu,etc,2020-03-27,Korea
+1000000428,male,80s,Seoul,Guro-gu,etc,2020-03-29,Korea
+1000000429,female,50s,Seoul,Geumcheon-gu,etc,2020-03-29,Korea
+1000000430,female,50s,Seoul,Geumcheon-gu,etc,2020-03-29,Korea
+1000000431,female,50s,Seoul,Geumcheon-gu,etc,2020-03-29,Korea
+1000000432,female,40s,Seoul,Geumcheon-gu,etc,2020-03-29,Korea
+1000000433,female,40s,Seoul,Dongjak-gu,etc,2020-03-29,Korea
+1000000434,male,40s,Seoul,etc,etc,2020-03-30,Korea
+1000000435,female,50s,Seoul,Gwanak-gu,etc,2020-03-30,Korea
+1000000436,male,10s,Seoul,Yongsan-gu,contact with patient,2020-03-30,Korea
+1000000437,female,70s,Seoul,Gwanak-gu,etc,2020-03-30,Korea
+1000000438,female,50s,Seoul,Gwanak-gu,etc,2020-03-30,Korea
+1000000439,female,70s,Seoul,Gwanak-gu,etc,2020-03-30,Korea
+1000000440,male,50s,Seoul,Dongjak-gu,etc,2020-03-30,Korea
+1000000441,female,10s,Seoul,Songpa-gu,overseas inflow,2020-03-30,Korea
+1000000442,male,50s,Seoul,Seocho-gu,contact with patient,2020-03-30,Korea
+1000000443,female,50s,Seoul,Seocho-gu,overseas inflow,2020-03-30,Korea
+1000000444,male,50s,Seoul,Guro-gu,etc,2020-03-30,Korea
+1000000445,female,20s,Seoul,Yongsan-gu,overseas inflow,2020-03-30,Korea
+1000000446,male,30s,Seoul,Dongjak-gu,overseas inflow,2020-03-30,Korea
+1000000447,male,50s,Seoul,Jung-gu,contact with patient,2020-03-30,Korea
+1000000448,female,20s,Seoul,Yongsan-gu,overseas inflow,2020-03-30,Korea
+1000000449,female,50s,Seoul,Guro-gu,etc,2020-03-30,Korea
+1000000450,male,20s,Seoul,etc,overseas inflow,2020-03-30,Korea
+1000000451,female,60s,Seoul,Dongjak-gu,etc,2020-03-29,Korea
+1000000452,female,20s,Seoul,Gangdong-gu,overseas inflow,2020-03-30,Korea
+1000000453,female,40s,Seoul,etc,etc,2020-03-30,Korea
+1000000454,female,40s,Seoul,Mapo-gu,overseas inflow,2020-03-31,Korea
+1000000455,male,30s,Seoul,Yeongdeungpo-gu,overseas inflow,2020-03-31,Korea
+1000000456,female,20s,Seoul,Jongno-gu,overseas inflow,2020-03-31,Korea
+1000000457,female,50s,Seoul,Guro-gu,etc,2020-03-31,Korea
+1000000458,female,30s,Seoul,Gangnam-gu,overseas inflow,2020-03-31,Korea
+1000000459,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-31,Korea
+1000000460,male,20s,Seoul,Gangnam-gu,overseas inflow,2020-03-31,Korea
+1000000461,male,50s,Seoul,Gwanak-gu,contact with patient,2020-03-31,Korea
+1000000462,female,50s,Seoul,Dongjak-gu,etc,2020-03-31,Korea
+1000000463,male,70s,Seoul,Gwanak-gu,contact with patient,2020-03-31,Korea
+1000000464,female,40s,Seoul,Gwanak-gu,contact with patient,2020-03-31,Korea
+1000000465,female,40s,Seoul,Gwanak-gu,contact with patient,2020-03-31,Korea
+1000000466,female,20s,Seoul,Songpa-gu,overseas inflow,2020-03-31,Korea
+1000000467,male,20s,Seoul,Songpa-gu,overseas inflow,2020-03-31,Korea
+1000000468,female,20s,Seoul,Mapo-gu,overseas inflow,2020-03-31,Korea
+1000000469,male,20s,Seoul,Gwanak-gu,overseas inflow,2020-03-31,Korea
+1000000470,male,20s,Seoul,Seocho-gu,overseas inflow,2020-03-31,Korea
+1000000471,male,30s,Seoul,Yangcheon-gu,contact with patient,2020-03-31,Korea
+1000000472,female,40s,Seoul,Jung-gu,contact with patient,2020-03-31,Korea
+1000000474,female,30s,Seoul,Jongno-gu,overseas inflow,2020-03-31,Canada
+1000000475,female,20s,Seoul,Gwangjin-gu,overseas inflow,2020-03-31,Korea
+1000000476,female,10s,Seoul,etc,etc,2020-03-31,Korea
+1000000477,female,30s,Seoul,Dongdaemun-gu,overseas inflow,2020-04-01,Korea
+1000000478,male,40s,Seoul,Mapo-gu,overseas inflow,2020-04-01,Korea
+1000000479,male,30s,Seoul,etc,overseas inflow,2020-04-01,Korea
+1000000480,female,30s,Seoul,etc,overseas inflow,2020-04-01,Korea
+1000000481,female,0s,Seoul,etc,overseas inflow,2020-04-01,Korea
+1000000482,female,30s,Seoul,Dongjak-gu,overseas inflow,2020-04-01,Korea
+1000000483,male,30s,Seoul,Seocho-gu,contact with patient,2020-04-01,Korea
+1000000484,female,20s,Seoul,Seocho-gu,overseas inflow,2020-04-01,Korea
+1000000485,female,30s,Seoul,etc,overseas inflow,2020-04-01,Korea
+1000000486,female,20s,Seoul,Gwangjin-gu,overseas inflow,2020-04-01,Korea
+1000000487,male,10s,Seoul,etc,overseas inflow,2020-04-01,Korea
+1000000488,female,50s,Seoul,Yangcheon-gu,etc,2020-04-01,Korea
+1000000489,female,0s,Seoul,etc,overseas inflow,2020-04-01,Korea
+1000000490,female,20s,Seoul,Songpa-gu,overseas inflow,2020-04-01,Korea
+1000000491,male,50s,Seoul,Yangcheon-gu,contact with patient,2020-04-01,Korea
+1000000492,female,20s,Seoul,Jungnang-gu,overseas inflow,2020-04-02,Korea
+1000000493,female,20s,Seoul,Seocho-gu,overseas inflow,2020-04-02,Korea
+1000000494,male,60s,Seoul,Yangcheon-gu,contact with patient,2020-04-02,Korea
+1000000495,female,30s,Seoul,Gwanak-gu,overseas inflow,2020-04-02,Korea
+1000000496,female,40s,Seoul,Yongsan-gu,overseas inflow,2020-04-02,Korea
+1000000497,female,10s,Seoul,Yongsan-gu,overseas inflow,2020-04-02,Korea
+1000000498,female,50s,Seoul,Gwanak-gu,etc,2020-04-02,Korea
+1000000499,male,20s,Seoul,Jongno-gu,overseas inflow,2020-04-02,United States
+1000000500,female,60s,Seoul,Eunpyeong-gu,overseas inflow,2020-04-02,Korea
+1000000501,male,70s,Seoul,Eunpyeong-gu,overseas inflow,2020-04-02,Korea
+1000000502,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-04-02,Korea
+1000000503,female,30s,Seoul,Gangnam-gu,contact with patient,2020-04-02,Korea
+1000000504,female,20s,Seoul,etc,overseas inflow,2020-04-02,Korea
+1000000505,female,30s,Seoul,Nowon-gu,overseas inflow,2020-04-02,Korea
+1000000506,male,20s,Seoul,Gwanak-gu,overseas inflow,2020-04-02,Korea
+1000000507,female,20s,Seoul,Yongsan-gu,overseas inflow,2020-03-30,Korea
+1000000508,male,20s,Seoul,Gwanak-gu,overseas inflow,2020-03-31,Korea
+1000000509,female,80s,Seoul,Seodaemun-gu,overseas inflow,2020-04-01,Korea
+1000000510,female,50s,Seoul,Seongdong-gu,contact with patient,2020-04-02,Korea
+1000000511,female,30s,Seoul,Seocho-gu,overseas inflow,2020-04-02,Korea
+1000000512,female,70s,Seoul,Nowon-gu,contact with patient,2020-04-03,Korea
+1000000513,female,60s,Seoul,Gangnam-gu,contact with patient,2020-04-03,Korea
+1000000514,female,30s,Seoul,Dobong-gu,overseas inflow,2020-04-03,Korea
+1000000515,male,30s,Seoul,Dongjak-gu,overseas inflow,2020-04-03,Korea
+1000000516,female,30s,Seoul,Dongjak-gu,overseas inflow,2020-04-03,Korea
+1000000517,male,80s,Seoul,Seodaemun-gu,contact with patient,2020-04-03,Korea
+1000000518,female,20s,Seoul,Songpa-gu,contact with patient,2020-04-03,Korea
+1000000519,male,30s,Seoul,Songpa-gu,overseas inflow,2020-04-03,Korea
+1000000520,female,20s,Seoul,Seocho-gu,overseas inflow,2020-04-03,Korea
+1000000521,male,20s,Seoul,Gangnam-gu,overseas inflow,2020-04-03,Korea
+1000000522,female,20s,Seoul,Gangnam-gu,overseas inflow,2020-04-03,Korea
+1000000523,female,70s,Seoul,Gangnam-gu,overseas inflow,2020-04-03,Korea
+1000000524,male,0s,Seoul,Dongdaemun-gu,overseas inflow,2020-04-03,Korea
+1000000525,female,40s,Seoul,Gangnam-gu,etc,2020-04-03,Korea
+1000000526,male,20s,Seoul,Songpa-gu,overseas inflow,2020-04-03,Korea
+1000000527,female,20s,Seoul,Seocho-gu,overseas inflow,2020-04-03,Korea
+1000000528,female,60s,Seoul,Eunpyeong-gu,etc,2020-04-03,Korea
+1000000529,male,40s,Seoul,Guro-gu,etc,2020-04-02,Korea
+1000000530,male,40s,Seoul,Gangdong-gu,overseas inflow,2020-04-02,Korea
+1000000531,male,20s,Seoul,Songpa-gu,overseas inflow,2020-04-03,Korea
+1000000532,female,40s,Seoul,Gangdong-gu,overseas inflow,2020-04-03,Korea
+1000000533,female,20s,Seoul,Dongjak-gu,contact with patient,2020-04-03,Korea
+1000000534,female,20s,Seoul,Yongsan-gu,contact with patient,2020-04-04,Korea
+1000000535,male,30s,Seoul,Mapo-gu,overseas inflow,2020-04-04,Korea
+1000000536,male,20s,Seoul,Seodaemun-gu,overseas inflow,2020-04-04,Korea
+1000000537,male,30s,Seoul,Seongbuk-gu,contact with patient,2020-04-04,Korea
+1000000538,male,50s,Seoul,Dongdaemun-gu,contact with patient,2020-04-04,Korea
+1000000539,female,30s,Seoul,Gwanak-gu,overseas inflow,2020-04-04,Korea
+1000000540,female,50s,Seoul,Gwanak-gu,etc,2020-04-04,Korea
+1000000541,female,50s,Seoul,Jungnang-gu,contact with patient,2020-04-04,Korea
+1000000542,male,20s,Seoul,Gangseo-gu,overseas inflow,2020-04-04,Korea
+1000000543,female,30s,Seoul,Dongdaemun-gu,overseas inflow,2020-04-04,Korea
+1000000544,female,20s,Seoul,Seodaemun-gu,overseas inflow,2020-04-04,Korea
+1000000545,female,50s,Seoul,Songpa-gu,contact with patient,2020-04-04,Korea
+1000000546,male,20s,Seoul,Songpa-gu,overseas inflow,2020-04-04,Korea
+1000000547,male,30s,Seoul,Songpa-gu,overseas inflow,2020-04-04,Korea
+1000000548,male,10s,Seoul,Gangnam-gu,overseas inflow,2020-04-04,Korea
+1000000549,male,30s,Seoul,Gangnam-gu,overseas inflow,2020-04-04,Korea
+1000000550,female,40s,Seoul,etc,contact with patient,2020-04-04,Korea
+1000000551,male,70s,Seoul,Eunpyeong-gu,contact with patient,2020-04-04,Korea
+1000000552,male,30s,Seoul,Yeongdeungpo-gu,etc,2020-04-05,Korea
+1000000553,female,20s,Seoul,Eunpyeong-gu,overseas inflow,2020-04-04,Korea
+1000000554,female,20s,Seoul,Seongbuk-gu,overseas inflow,2020-04-05,Korea
+1000000555,female,20s,Seoul,Seongbuk-gu,overseas inflow,2020-04-05,Korea
+1000000556,female,20s,Seoul,Yongsan-gu,overseas inflow,2020-04-05,Korea
+1000000557,male,20s,Seoul,Gangseo-gu,overseas inflow,2020-04-05,Korea
+1000000558,male,50s,Seoul,Gwanak-gu,contact with patient,2020-04-05,Korea
+1000000559,female,20s,Seoul,Yongsan-gu,overseas inflow,2020-04-05,Korea
+1000000560,female,60s,Seoul,Songpa-gu,contact with patient,2020-04-05,Korea
+1000000561,female,30s,Seoul,Yeongdeungpo-gu,overseas inflow,2020-04-05,Korea
+1000000562,female,20s,Seoul,Gangdong-gu,overseas inflow,2020-04-05,Korea
+1000000563,male,40s,Seoul,etc,overseas inflow,2020-04-05,Korea
+1000000670,male,40s,Seoul,Yangcheon-gu,Itaewon Clubs,2020-05-10,Korea
+1000000738,male,20s,Seoul,Yangcheon-gu,Itaewon Clubs,2020-05-18,Korea
+1000000739,male,20s,Seoul,Yangcheon-gu,Itaewon Clubs,2020-05-18,Korea
+1000000754,male,30s,Seoul,Yangcheon-gu,Biblical Language study meeting,2020-05-20,Korea
+1000000770,male,60s,Seoul,Seongdong-gu,Itaewon Clubs,2020-05-24,Korea
+1000000779,male,60s,Seoul,Seongdong-gu,Itaewon Clubs,2020-05-25,Korea
+1000000780,male,70s,Seoul,Seongdong-gu,Itaewon Clubs,2020-05-25,Korea
+1000000781,female,50s,Seoul,Seongdong-gu,Itaewon Clubs,2020-05-25,Korea
+1000000826,female,50s,Seoul,Yangcheon-gu,Coupang Logistics Center,2020-05-27,Korea
+1000000863,male,10s,Seoul,Yangcheon-gu,overseas inflow,2020-06-01,Korea
+1000000864,female,60s,Seoul,Gangseo-gu,SMR Newly Planted Churches Group,2020-06-01,Korea
+1000000869,female,50s,Seoul,Yangcheon-gu,SMR Newly Planted Churches Group,2020-06-01,Korea
+1000000877,male,60s,Seoul,Gangseo-gu,SMR Newly Planted Churches Group,2020-06-02,Korea
+1000000881,male,30s,Seoul,Gangseo-gu,KB Life Insurance,2020-06-02,Korea
+1000000895,male,60s,Seoul,Gangseo-gu,Samsung Fire & Marine Insurance,2020-06-02,Korea
+1100000001,male,10s,Busan,Dongnae-gu,Onchun Church,2020-02-21,Korea
+1100000002,female,50s,Busan,Haeundae-gu,contact with patient,2020-02-21,Korea
+1100000004,female,20s,Busan,Haeundae-gu,Shincheonji Church,2020-02-22,Korea
+1100000005,female,20s,Busan,Haeundae-gu,contact with patient,2020-02-22,Korea
+1100000008,male,20s,Busan,Dongnae-gu,Onchun Church,2020-02-22,Korea
+1100000009,male,20s,Busan,Dongnae-gu,Onchun Church,2020-02-22,Korea
+1100000010,male,40s,Busan,Dongnae-gu,Onchun Church,2020-02-22,Korea
+1100000011,female,20s,Busan,Buk-gu,Onchun Church,2020-02-22,Korea
+1100000012,female,50s,Busan,Nam-gu,Shincheonji Church,2020-02-22,Korea
+1100000013,male,20s,Busan,Seo-gu,etc,2020-02-22,Korea
+1100000014,male,30s,Busan,Dongnae-gu,Onchun Church,2020-02-22,Korea
+1100000015,male,10s,Busan,Dongnae-gu,Onchun Church,2020-02-22,Korea
+1100000016,male,30s,Busan,Geumjeong-gu,Onchun Church,2020-02-22,Korea
+1100000017,male,40s,Busan,Nam-gu,Cheongdo Daenam Hospital,2020-02-23,Korea
+1100000018,male,20s,Busan,Saha-gu,etc,2020-02-23,Korea
+1100000019,female,30s,Busan,Seo-gu,Onchun Church,2020-02-23,Korea
+1100000020,female,50s,Busan,Seo-gu,contact with patient,2020-02-23,Korea
+1100000021,female,10s,Busan,Gangseo-gu,Onchun Church,2020-02-23,Korea
+1100000022,female,20s,Busan,Gangseo-gu,Onchun Church,2020-02-23,Korea
+1100000023,male,20s,Busan,Saha-gu,Onchun Church,2020-02-23,Korea
+1100000024,female,20s,Busan,Saha-gu,Shincheonji Church,2020-02-23,Korea
+1100000025,female,40s,Busan,Haeundae-gu,contact with patient,2020-02-23,Korea
+1100000026,male,20s,Busan,Haeundae-gu,Onchun Church,2020-02-23,Korea
+1100000027,female,20s,Busan,Suyeong-gu,etc,2020-02-23,Korea
+1100000028,female,60s,Busan,Suyeong-gu,contact with patient,2020-02-23,Korea
+1100000029,male,20s,Busan,Dongnae-gu,etc,2020-02-23,Korea
+1100000030,male,20s,Busan,Geumjeong-gu,Onchun Church,2020-02-23,Korea
+1100000031,female,20s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000032,female,20s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000033,female,20s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000034,male,20s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000035,female,20s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000036,female,20s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000037,male,20s,Busan,Geumjeong-gu,Onchun Church,2020-02-23,Korea
+1100000038,female,50s,Busan,Dongnae-gu,Onchun Church,2020-02-23,Korea
+1100000039,male,20s,Busan,Haeundae-gu,contact with patient,2020-02-24,Korea
+1100000040,male,70s,Busan,Saha-gu,contact with patient,2020-02-24,Korea
+1100000041,male,20s,Busan,Dongnae-gu,Onchun Church,2020-02-24,Korea
+1100000042,male,10s,Busan,Dongnae-gu,contact with patient,2020-02-24,Korea
+1100000043,female,50s,Busan,Dongnae-gu,contact with patient,2020-02-24,Korea
+1100000044,female,40s,Busan,Dongnae-gu,Onchun Church,2020-02-24,Korea
+1100000045,female,60s,Busan,Dongnae-gu,contact with patient,2020-02-25,Korea
+1100000046,male,70s,Busan,Dongnae-gu,contact with patient,2020-02-25,Korea
+1100000047,male,40s,Busan,Dongnae-gu,etc,2020-02-25,Korea
+1100000048,male,70s,Busan,Dongnae-gu,Onchun Church,2020-02-25,Korea
+1100000049,female,30s,Busan,Geumjeong-gu,Onchun Church,2020-02-25,Korea
+1100000050,female,30s,Busan,Buk-gu,etc,2020-02-25,Korea
+1100000051,female,60s,Busan,Yeonje-gu,contact with patient,2020-02-25,Korea
+1100000052,male,70s,Busan,Saha-gu,contact with patient,2020-02-25,Korea
+1100000053,female,20s,Busan,Sasang-gu,etc,2020-02-25,Korea
+1100000054,male,20s,Busan,Busanjin-gu,contact with patient,2020-02-25,Korea
+1100000055,female,50s,Busan,Haeundae-gu,Onchun Church,2020-02-25,Korea
+1100000056,female,50s,Busan,Busanjin-gu,contact with patient,2020-02-26,Korea
+1100000057,male,20s,Busan,Haeundae-gu,Onchun Church,2020-02-26,Korea
+1100000058,female,50s,Busan,Suyeong-gu,contact with patient,2020-02-26,Korea
+1100000059,female,20s,Busan,Suyeong-gu,etc,2020-02-26,Korea
+1100000060,female,60s,Busan,Haeundae-gu,contact with patient,2020-02-26,Korea
+1100000061,female,40s,Busan,Haeundae-gu,Suyeong-gu Kindergarten,2020-02-27,Korea
+1100000062,male,10s,Busan,Dongnae-gu,contact with patient,2020-02-27,Korea
+1100000063,female,30s,Busan,Buk-gu,Suyeong-gu Kindergarten,2020-02-27,Korea
+1100000064,female,40s,Busan,Dongnae-gu,Onchun Church,2020-02-27,Korea
+1100000065,male,20s,Busan,Suyeong-gu,contact with patient,2020-02-27,Korea
+1100000066,female,0s,Busan,Dongnae-gu,etc,2020-02-27,Korea
+1100000067,female,60s,Busan,Haeundae-gu,contact with patient,2020-02-28,Korea
+1100000068,female,20s,Busan,Haeundae-gu,Onchun Church,2020-02-28,Korea
+1100000069,female,40s,Busan,Dongnae-gu,etc,2020-02-28,Korea
+1100000070,female,10s,Busan,Yeonje-gu,contact with patient,2020-02-28,Korea
+1100000072,male,0s,Busan,Suyeong-gu,Suyeong-gu Kindergarten,2020-02-29,Korea
+1100000073,male,50s,Busan,Haeundae-gu,etc,2020-02-29,Korea
+1100000074,male,80s,Busan,Seo-gu,etc,2020-02-29,Korea
+1100000075,male,50s,Busan,Busanjin-gu,etc,2020-02-29,Korea
+1100000076,female,30s,Busan,Saha-gu,Shincheonji Church,2020-02-29,Korea
+1100000077,male,70s,Busan,etc,etc,2020-03-01,Korea
+1100000078,female,60s,Busan,Seo-gu,etc,2020-03-01,Korea
+1100000079,male,0s,Busan,Saha-gu,contact with patient,2020-03-01,Korea
+1100000080,male,60s,Busan,Suyeong-gu,Onchun Church,2020-03-02,Korea
+1100000081,female,30s,Busan,Seo-gu,contact with patient,2020-03-03,Korea
+1100000082,male,10s,Busan,Dongnae-gu,contact with patient,2020-03-03,Korea
+1100000083,male,10s,Busan,Busanjin-gu,contact with patient,2020-03-03,Korea
+1100000084,male,20s,Busan,Suyeong-gu,Shincheonji Church,2020-03-04,Korea
+1100000085,female,40s,Busan,Yeonje-gu,contact with patient,2020-03-05,Korea
+1100000086,female,50s,Busan,Sasang-gu,etc,2020-03-06,Korea
+1100000087,female,80s,Busan,Haeundae-gu,contact with patient,2020-03-06,Korea
+1100000088,female,30s,Busan,Gangseo-gu,etc,2020-03-06,Korea
+1100000089,female,70s,Busan,Dongnae-gu,Onchun Church,2020-03-07,Korea
+1100000090,female,50s,Busan,Dongnae-gu,contact with patient,2020-03-10,Korea
+1100000091,male,20s,Busan,Haeundae-gu,overseas inflow,2020-03-10,Korea
+1100000092,male,50s,Busan,Busanjin-gu,contact with patient,2020-03-11,Korea
+1100000093,male,40s,Busan,etc,contact with patient,2020-03-11,Korea
+1100000094,male,40s,Busan,etc,contact with patient,2020-03-12,Korea
+1100000096,female,40s,Busan,Haeundae-gu,contact with patient,2020-03-13,Korea
+1100000099,male,60s,Busan,Busanjin-gu,contact with patient,2020-03-14,Korea
+1100000100,female,60s,Busan,Busanjin-gu,contact with patient,2020-03-14,Korea
+1100000101,female,70s,Busan,Busanjin-gu,contact with patient,2020-03-15,Korea
+1100000102,female,20s,Busan,Saha-gu,overseas inflow,2020-03-17,Korea
+1100000103,female,20s,Busan,Busanjin-gu,overseas inflow,2020-03-18,Korea
+1100000104,male,20s,Busan,Dongnae-gu,overseas inflow,2020-03-18,Switzerland
+1100000105,male,20s,Busan,Buk-gu,overseas inflow,2020-03-22,Korea
+1100000106,female,60s,Busan,Saha-gu,contact with patient,2020-03-22,Korea
+1100000107,male,60s,Busan,Saha-gu,contact with patient,2020-03-22,Korea
+1100000108,female,30s,Busan,Buk-gu,overseas inflow,2020-03-24,Korea
+1100000111,male,40s,Busan,Haeundae-gu,overseas inflow,2020-03-27,Korea
+1100000112,male,20s,Busan,Geumjeong-gu,overseas inflow,2020-03-27,Germany
+1100000113,male,20s,Busan,Gijang-gun,overseas inflow,2020-03-28,Korea
+1100000114,male,10s,Busan,Suyeong-gu,overseas inflow,2020-03-28,Korea
+1100000116,male,20s,Busan,Busanjin-gu,overseas inflow,2020-03-29,Korea
+1100000117,female,0s,Busan,Dongnae-gu,overseas inflow,2020-03-31,Korea
+1100000118,female,20s,Busan,Geumjeong-gu,overseas inflow,2020-03-31,Korea
+1100000119,male,20s,Busan,etc,overseas inflow,2020-03-31,Indonesia
+1100000121,female,10s,Busan,Haeundae-gu,overseas inflow,2020-04-07,Korea
+1400000001,female,30s,Incheon,etc,overseas inflow,2020-01-20,China
+1400000002,female,60s,Incheon,Bupyeong-gu,Shincheonji Church,2020-02-22,Korea
+1400000003,male,50s,Incheon,Michuhol-gu,etc,2020-02-25,Korea
+1400000004,female,20s,Incheon,Seo-gu,contact with patient,2020-02-28,Korea
+1400000005,male,60s,Incheon,Bupyeong-gu,contact with patient,2020-02-28,Korea
+1400000006,male,40s,Incheon,Yeonsu-gu,etc,2020-02-28,Korea
+1400000007,male,50s,Incheon,Yeonsu-gu,contact with patient,2020-03-01,Korea
+1400000008,female,40s,Incheon,Bupyeong-gu,Shincheonji Church,2020-03-03,Korea
+1400000009,male,0s,Incheon,Michuhol-gu,contact with patient,2020-03-03,Korea
+1400000010,female,50s,Incheon,Seo-gu,contact with patient,2020-03-09,Korea
+1400000011,female,50s,Incheon,Gyeyang-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000012,female,30s,Incheon,Seo-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000013,female,60s,Incheon,Yeonsu-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000014,female,50s,Incheon,Bupyeong-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000015,female,40s,Incheon,Bupyeong-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000016,female,30s,Incheon,Michuhol-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000017,female,40s,Incheon,Michuhol-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000018,female,40s,Incheon,Michuhol-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000019,female,20s,Incheon,Bupyeong-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000020,female,40s,Incheon,Michuhol-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000021,male,20s,Incheon,Namdong-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000022,female,40s,Incheon,Gyeyang-gu,Guro-gu Call Center,2020-03-10,Korea
+1400000023,male,50s,Incheon,Bupyeong-gu,Guro-gu Call Center,2020-03-09,Korea
+1400000024,male,30s,Incheon,Michuhol-gu,contact with patient,2020-03-10,Korea
+1400000025,male,50s,Incheon,Yeonsu-gu,contact with patient,2020-03-10,Korea
+1400000026,male,30s,Incheon,Namdong-gu,Guro-gu Call Center,2020-03-12,Korea
+1400000027,female,20s,Incheon,Bupyeong-gu,Guro-gu Call Center,2020-03-11,Korea
+1400000028,male,50s,Incheon,Yeonsu-gu,contact with patient,2020-03-13,Korea
+1400000029,female,30s,Incheon,Namdong-gu,Guro-gu Call Center,2020-03-14,Korea
+1400000030,female,30s,Incheon,Namdong-gu,Ministry of Oceans and Fisheries,2020-03-14,Korea
+1400000031,female,40s,Incheon,Namdong-gu,Guro-gu Call Center,2020-03-16,Korea
+1400000032,male,30s,Incheon,Gyeyang-gu,etc,2020-03-17,Korea
+1400000033,male,50s,Incheon,Yeonsu-gu,overseas inflow,2020-03-19,Korea
+1400000035,male,40s,Incheon,Dong-gu,contact with patient,2020-03-19,Korea
+1400000036,male,50s,Incheon,Gyeyang-gu,contact with patient,2020-03-19,Korea
+1400000038,female,40s,Incheon,Dong-gu,contact with patient,2020-03-19,Korea
+1400000039,male,60s,Incheon,Gyeyang-gu,contact with patient,2020-03-19,Korea
+1400000040,male,50s,Incheon,Yeonsu-gu,overseas inflow,2020-03-20,Korea
+1400000041,male,50s,Incheon,Bupyeong-gu,etc,2020-03-23,Korea
+1400000042,male,30s,Incheon,Yeonsu-gu,overseas inflow,2020-03-23,Korea
+1400000043,female,20s,Incheon,Jung-gu,overseas inflow,2020-03-25,Korea
+1400000044,male,50s,Incheon,Yeonsu-gu,contact with patient,2020-03-25,Korea
+1400000045,female,20s,Incheon,Yeonsu-gu,overseas inflow,2020-03-26,Korea
+1400000046,female,20s,Incheon,Namdong-gu,overseas inflow,2020-03-26,Korea
+1400000047,female,20s,Incheon,Bupyeong-gu,contact with patient,2020-03-26,Korea
+1400000048,male,50s,Incheon,Bupyeong-gu,overseas inflow,2020-03-27,Korea
+1400000049,female,20s,Incheon,Yeonsu-gu,overseas inflow,2020-03-27,Korea
+1400000050,female,40s,Incheon,Gyeyang-gu,contact with patient,2020-03-27,Korea
+1400000051,male,60s,Incheon,Bupyeong-gu,overseas inflow,2020-03-27,Korea
+1400000052,male,30s,Incheon,Michuhol-gu,overseas inflow,2020-03-27,Korea
+1400000053,female,30s,Incheon,Jung-gu,overseas inflow,2020-03-28,Korea
+1400000054,male,30s,Incheon,Jung-gu,overseas inflow,2020-03-28,Korea
+1400000055,male,30s,Incheon,Yeonsu-gu,overseas inflow,2020-03-28,Korea
+1400000056,female,50s,Incheon,Bupyeong-gu,overseas inflow,2020-03-28,Korea
+1400000057,female,40s,Incheon,Namdong-gu,overseas inflow,2020-03-28,Korea
+1400000059,male,20s,Incheon,Bupyeong-gu,overseas inflow,2020-03-28,Korea
+1400000060,female,20s,Incheon,Seo-gu,overseas inflow,2020-03-29,Korea
+1400000061,female,60s,Incheon,Bupyeong-gu,etc,2020-03-29,Korea
+1400000062,female,50s,Incheon,Michuhol-gu,overseas inflow,2020-03-30,Korea
+1400000063,female,40s,Incheon,Jung-gu,contact with patient,2020-03-30,Korea
+1400000064,male,70s,Incheon,Jung-gu,overseas inflow,2020-03-30,Korea
+1400000065,female,20s,Incheon,Namdong-gu,overseas inflow,2020-03-30,Korea
+1400000066,female,20s,Incheon,Namdong-gu,overseas inflow,2020-03-30,Korea
+1400000067,male,30s,Incheon,Michuhol-gu,overseas inflow,2020-03-31,Korea
+1400000068,female,50s,Incheon,Seo-gu,contact with patient,2020-03-31,Korea
+1400000069,female,50s,Incheon,Namdong-gu,overseas inflow,2020-03-31,Korea
+1400000070,female,30s,Incheon,Yeonsu-gu,contact with patient,2020-03-31,Korea
+1400000071,female,60s,Incheon,Yeonsu-gu,Eunpyeong St. Mary's Hospital,2020-04-01,Korea
+1400000072,female,60s,Incheon,Michuhol-gu,Eunpyeong St. Mary's Hospital,2020-04-01,Korea
+1400000073,female,40s,Incheon,Yeonsu-gu,contact with patient,2020-04-01,Korea
+1400000075,male,60s,Incheon,Seo-gu,overseas inflow,2020-04-02,Korea
+1400000076,male,60s,Incheon,Seo-gu,overseas inflow,2020-04-03,Korea
+1400000077,female,20s,Incheon,Seo-gu,overseas inflow,2020-04-03,Korea
+1400000078,male,30s,Incheon,Seo-gu,etc,2020-04-03,Korea
+1400000079,male,60s,Incheon,Gyeyang-gu,overseas inflow,2020-04-04,Korea
+1400000080,female,70s,Incheon,Yeonsu-gu,contact with patient,2020-04-05,Korea
+1400000081,female,60s,Incheon,Seo-gu,contact with patient,2020-04-07,Korea
+1400000082,male,30s,Incheon,Seo-gu,overseas inflow,2020-04-07,Korea
+1400000083,female,40s,Incheon,Bupyeong-gu,etc,2020-04-07,Korea
+1400000084,female,60s,Incheon,Namdong-gu,overseas inflow,2020-04-09,Korea
+1400000085,male,90s,Incheon,Bupyeong-gu,contact with patient,2020-04-09,Korea
+1400000086,male,20s,Incheon,Ganghwa-gun,overseas inflow,2020-04-10,Korea
+1400000088,male,30s,Incheon,Namdong-gu,overseas inflow,2020-04-13,Korea
+1400000089,female,30s,Incheon,Seo-gu,overseas inflow,2020-04-16,Korea
+1400000090,female,40s,Incheon,Michuhol-gu,overseas inflow,2020-04-17,Korea
+1400000091,female,20s,Incheon,Namdong-gu,overseas inflow,2020-04-18,Korea
+1400000092,male,20s,Incheon,Gyeyang-gu,overseas inflow,2020-04-19,Korea
+1500000001,female,20s,Daejeon,Dong-gu,etc,2020-02-21,Korea
+1500000002,female,60s,Daejeon,Yuseong-gu,etc,2020-02-22,Korea
+1500000003,male,60s,Daejeon,Yuseong-gu,contact with patient,2020-02-23,Korea
+1500000004,female,40s,Daejeon,Yuseong-gu,etc,2020-02-26,Korea
+1500000005,male,30s,Daejeon,Yuseong-gu,etc,2020-02-26,Korea
+1500000006,female,40s,Daejeon,Daedeok-gu,etc,2020-04-08,Korea
+1500000007,male,30s,Daejeon,Seo-gu,contact with patient,2020-02-26,Korea
+1500000008,male,30s,Daejeon,Seo-gu,contact with patient,2020-02-26,Korea
+1500000009,male,70s,Daejeon,Seo-gu,etc,2020-02-26,Korea
+1500000010,male,30s,Daejeon,Seo-gu,contact with patient,2020-02-27,Korea
+1500000011,male,40s,Daejeon,Yuseong-gu,contact with patient,2020-02-28,Korea
+1500000012,female,40s,Daejeon,Daedeok-gu,etc,2020-02-28,Korea
+1500000013,female,20s,Daejeon,Seo-gu,etc,2020-02-28,Korea
+1500000014,male,20s,Daejeon,Seo-gu,etc,2020-03-01,Korea
+1500000015,male,20s,Daejeon,Yuseong-gu,contact with patient,2020-03-03,Korea
+1500000016,male,50s,Daejeon,Yuseong-gu,etc,2020-03-04,Korea
+1500000017,female,40s,Daejeon,Yuseong-gu,contact with patient,2020-03-04,Korea
+1500000018,male,20s,Daejeon,Yuseong-gu,Shincheonji Church,2020-03-04,Korea
+1500000020,male,80s,Daejeon,Seo-gu,contact with patient,2020-03-11,Korea
+1500000021,female,50s,Daejeon,Yuseong-gu,contact with patient,2020-03-12,Korea
+1500000022,female,20s,Daejeon,Yuseong-gu,contact with patient,2020-03-12,Korea
+1500000023,male,50s,Daejeon,Seo-gu,etc,2020-03-21,Korea
+1500000024,female,50s,Daejeon,Seo-gu,contact with patient,2020-03-21,Korea
+1500000025,male,50s,Daejeon,Yuseong-gu,etc,2020-03-24,Korea
+1500000026,female,60s,Daejeon,Seo-gu,overseas inflow,2020-03-24,Korea
+1500000027,female,40s,Daejeon,Yuseong-gu,contact with patient,2020-03-24,Korea
+1500000028,male,20s,Daejeon,Dong-gu,overseas inflow,2020-03-25,Korea
+1500000029,male,10s,Daejeon,Yuseong-gu,contact with patient,2020-03-25,Korea
+1500000030,female,50s,Daejeon,Yuseong-gu,etc,2020-03-25,Korea
+1500000031,female,20s,Daejeon,Yuseong-gu,overseas inflow,2020-03-26,Korea
+1500000032,male,50s,Daejeon,Yuseong-gu,etc,2020-03-28,Korea
+1500000033,female,20s,Daejeon,Seo-gu,overseas inflow,2020-03-28,Korea
+1500000034,female,60s,Daejeon,Seo-gu,contact with patient,2020-03-28,Korea
+1500000035,female,10s,Daejeon,Seo-gu,overseas inflow,2020-03-30,Korea
+1500000036,male,30s,Daejeon,Seo-gu,overseas inflow,2020-03-30,Korea
+1500000037,male,20s,Daejeon,Yuseong-gu,overseas inflow,2020-05-05,Korea
+1500000038,female,20s,Daejeon,Yuseong-gu,overseas inflow,2020-04-05,Korea
+1500000039,female,20s,Daejeon,Daedeok-gu,overseas inflow,2020-04-05,Korea
+1500000040,male,30s,Daejeon,Jung-gu,overseas inflow,2020-04-21,Korea
+1500000041,female,20s,Daejeon,Yuseong-gu,overseas inflow,2020-05-06,Korea
+1500000042,male,10s,Daejeon,Yuseong-gu,overseas inflow,2020-05-11,Korea
+1500000043,male,10s,Daejeon,Yuseong-gu,overseas inflow,2020-05-11,Korea
+1500000044,female,20s,Daejeon,Yuseong-gu,etc,2020-05-16,Korea
+1500000046,male,20s,Daejeon,Seo-gu,overseas inflow,2020-05-30,Korea
+1600000001,female,20s,Ulsan,Ulju-gun,Shincheonji Church,2020-02-22,Korea
+1600000002,female,40s,Ulsan,Jung-gu,Shincheonji Church,2020-02-24,Korea
+1600000003,male,20s,Ulsan,Jung-gu,Shincheonji Church,2020-02-25,Korea
+1600000004,female,60s,Ulsan,Dong-gu,contact with patient,2020-02-25,Korea
+1600000005,male,20s,Ulsan,Nam-gu,Shincheonji Church,2020-02-26,Korea
+1600000006,female,70s,Ulsan,Nam-gu,contact with patient,2020-02-27,Korea
+1600000007,female,20s,Ulsan,Ulju-gun,contact with patient,2020-03-27,Korea
+1600000008,female,50s,Ulsan,Nam-gu,Shincheonji Church,2020-02-27,Korea
+1600000009,male,10s,Ulsan,Buk-gu,Shincheonji Church,2020-02-27,Korea
+1600000010,male,20s,Ulsan,Buk-gu,Shincheonji Church,2020-02-27,Korea
+1600000011,male,30s,Ulsan,Dong-gu,etc,2020-02-27,Korea
+1600000012,female,20s,Ulsan,Nam-gu,contact with patient,2020-02-28,Korea
+1600000013,male,50s,Ulsan,Nam-gu,etc,2020-02-28,Korea
+1600000014,male,20s,Ulsan,Jung-gu,Shincheonji Church,2020-02-28,Korea
+1600000016,female,40s,Ulsan,Nam-gu,Shincheonji Church,2020-02-28,Korea
+1600000017,female,20s,Ulsan,Nam-gu,contact with patient,2020-02-28,Korea
+1600000018,female,40s,Ulsan,Nam-gu,Shincheonji Church,2020-03-01,Korea
+1600000019,male,70s,Ulsan,Dong-gu,etc,2020-03-01,Korea
+1600000020,female,60s,Ulsan,Dong-gu,contact with patient,2020-03-01,Korea
+1600000021,female,50s,Ulsan,Buk-gu,contact with patient,2020-03-03,Korea
+1600000022,male,50s,Ulsan,Buk-gu,contact with patient,2020-03-03,Korea
+1600000023,female,30s,Ulsan,Nam-gu,contact with patient,2020-04-11,Korea
+1600000024,female,30s,Ulsan,Dong-gu,etc,2020-03-07,Korea
+1600000025,male,20s,Ulsan,Buk-gu,Shincheonji Church,2020-03-10,Korea
+1600000026,male,60s,Ulsan,Nam-gu,contact with patient,2020-03-12,Korea
+1600000027,female,30s,Ulsan,Nam-gu,etc,2020-03-12,Korea
+1600000028,female,50s,Ulsan,Nam-gu,contact with patient,2020-03-14,Korea
+1600000029,female,30s,Ulsan,Nam-gu,overseas inflow,2020-03-17,Korea
+1600000030,male,30s,Ulsan,Nam-gu,overseas inflow,2020-03-17,Korea
+1600000031,female,20s,Ulsan,Jung-gu,overseas inflow,2020-03-18,Korea
+1600000032,female,50s,Ulsan,Jung-gu,overseas inflow,2020-05-12,Korea
+1600000033,female,20s,Ulsan,Jung-gu,overseas inflow,2020-03-18,Korea
+1600000034,male,50s,Ulsan,Jung-gu,contact with patient,2020-03-18,Korea
+1600000035,male,20s,Ulsan,Jung-gu,contact with patient,2020-05-11,Korea
+1600000036,male,20s,Ulsan,Jung-gu,contact with patient,2020-03-18,Korea
+1600000037,female,20s,Ulsan,Nam-gu,overseas inflow,2020-03-24,Korea
+1600000038,male,10s,Ulsan,Ulju-gun,overseas inflow,2020-03-26,Korea
+1600000039,female,20s,Ulsan,Nam-gu,overseas inflow,2020-03-26,Korea
+1600000040,male,20s,Ulsan,Dong-gu,overseas inflow,2020-04-01,Korea
+1600000041,female,20s,Ulsan,Ulju-gun,overseas inflow,2020-04-10,Korea
+1600000042,male,20s,Ulsan,Nam-gu,overseas inflow,2020-04-13,Korea
+1600000043,female,50s,Ulsan,Buk-gu,overseas inflow,2020-04-19,Korea
+1600000044,male,40s,Ulsan,Jung-gu,overseas inflow,2020-05-03,Korea
+1600000045,male,40s,Ulsan,Dong-gu,overseas inflow,2020-05-12,Korea
+1600000046,male,50s,Ulsan,Buk-gu,overseas inflow,2020-05-18,Korea
+1600000047,male,20s,Ulsan,Buk-gu,overseas inflow,2020-05-18,Korea
+1600000048,male,50s,Ulsan,Ulju-gun,overseas inflow,2020-05-18,Korea
+1600000049,male,50s,Ulsan,Ulju-gun,overseas inflow,2020-05-18,Korea
+1600000050,male,20s,Ulsan,Dong-gu,overseas inflow,2020-05-21,Korea
+1600000051,male,50s,Ulsan,Dong-gu,overseas inflow,2020-05-29,Korea
+1700000001,male,30s,Sejong,Sejong,Shincheonji Church,2020-02-21,Korea
+1700000002,female,40s,Sejong,Sejong,gym facility in Cheonan,2020-04-07,Korea
+1700000003,female,20s,Sejong,Sejong,gym facility in Sejong,2020-03-07,Korea
+1700000004,female,50s,Sejong,Sejong,gym facility in Sejong,2020-03-08,Korea
+1700000005,female,40s,Sejong,Sejong,gym facility in Sejong,2020-03-08,Korea
+1700000006,female,40s,Sejong,Sejong,gym facility in Sejong,2020-04-07,Korea
+1700000007,female,40s,Sejong,Sejong,contact with patient,2020-03-09,Korea
+1700000008,female,10s,Sejong,Sejong,contact with patient,2020-03-09,Korea
+1700000009,male,50s,Sejong,Sejong,etc,2020-03-10,Korea
+1700000010,male,50s,Sejong,Sejong,contact with patient,2020-03-10,Korea
+1700000011,female,10s,Sejong,Sejong,etc,2020-04-07,Korea
+1700000012,female,40s,Sejong,Sejong,contact with patient,2020-03-10,Korea
+1700000013,female,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-10,Korea
+1700000014,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-10,Korea
+1700000015,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-10,Korea
+1700000016,male,50s,Sejong,Sejong,contact with patient,2020-04-08,Korea
+1700000017,female,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Korea
+1700000018,female,30s,Sejong,Sejong,etc,2020-03-11,Korea
+1700000019,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-04-22,Korea
+1700000020,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Korea
+1700000021,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Korea
+1700000022,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Korea
+1700000023,female,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Korea
+1700000024,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-11,Korea
+1700000025,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000026,male,30s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000027,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-04-20,Korea
+1700000028,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-04-13,Korea
+1700000029,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000030,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000031,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000032,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000033,male,30s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000034,female,50s,Sejong,Sejong,contact with patient,2020-03-12,Korea
+1700000035,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000036,female,30s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000037,female,30s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-12,Korea
+1700000038,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-13,Korea
+1700000039,male,30s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-14,Korea
+1700000040,female,30s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-15,Korea
+1700000041,male,50s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-17,Korea
+1700000042,female,60s,Sejong,Sejong,etc,2020-03-22,Korea
+1700000043,male,40s,Sejong,Sejong,overseas inflow,2020-03-24,Korea
+1700000044,male,40s,Sejong,Sejong,Ministry of Oceans and Fisheries,2020-03-24,Korea
+1700000045,male,40s,Sejong,Sejong,overseas inflow,2020-03-28,Korea
+1700000046,male,10s,Sejong,Sejong,overseas inflow,2020-03-28,Korea
+1700000047,female,30s,Sejong,Sejong,overseas inflow,2020-05-10,Korea
+2000000001,male,50s,Gyeonggi-do,Goyang-si,overseas inflow,2020-01-26,Korea
+2000000002,male,50s,Gyeonggi-do,Pyeongtaek-si,overseas inflow,2020-01-27,Korea
+2000000003,male,40s,Gyeonggi-do,Bucheon-si,contact with patient,2020-02-01,China
+2000000004,female,40s,Gyeonggi-do,Goyang-si,contact with patient,2020-02-02,China
+2000000005,male,40s,Gyeonggi-do,Suwon-si,contact with patient,2020-02-02,Korea
+2000000006,male,30s,Gyeonggi-do,Guri-si,overseas inflow,2020-02-05,Korea
+2000000007,female,40s,Gyeonggi-do,Suwon-si,contact with patient,2020-02-05,Korea
+2000000008,female,70s,Gyeonggi-do,Siheung-si,contact with patient,2020-02-09,Korea
+2000000010,female,30s,Gyeonggi-do,Siheung-si,overseas inflow,2020-02-09,China
+2000000011,female,30s,Gyeonggi-do,Goyang-si,contact with patient,2020-02-10,China
+2000000012,female,10s,Gyeonggi-do,Suwon-si,contact with patient,2020-02-18,Korea
+2000000016,male,20s,Gyeonggi-do,Bucheon-si,overseas inflow,2020-02-22,Korea
+2000000017,male,60s,Gyeonggi-do,Icheon-si,contact with patient,2020-02-22,Korea
+2000000020,male,50s,Gyeonggi-do,Icheon-si,contact with patient,2020-02-26,Korea
+2000000028,female,20s,Gyeonggi-do,Yongin-si,contact with patient,2020-02-24,Korea
+2000000033,male,30s,Gyeonggi-do,Suwon-si,contact with patient,2020-02-24,Korea
+2000000043,female,30s,Gyeonggi-do,Anyang-si,etc,2020-02-25,Korea
+2000000045,male,30s,Gyeonggi-do,Suwon-si,etc,2020-02-26,Korea
+2000000046,male,60s,Gyeonggi-do,Icheon-si,etc,2020-02-25,Korea
+2000000048,male,60s,Gyeonggi-do,Icheon-si,contact with patient,2020-02-26,Korea
+2000000049,male,30s,Gyeonggi-do,Suwon-si,contact with patient,2020-02-26,Korea
+2000000050,female,70s,Gyeonggi-do,Namyangju-si,contact with patient,2020-02-26,Korea
+2000000051,male,70s,Gyeonggi-do,Namyangju-si,contact with patient,2020-02-26,Korea
+2000000052,male,30s,Gyeonggi-do,Yongin-si,etc,2020-02-27,Korea
+2000000054,female,30s,Gyeonggi-do,Gwangmyeong-si,etc,2020-02-26,Korea
+2000000055,male,20s,Gyeonggi-do,Gwacheon-si,Shincheonji Church,2020-02-27,Korea
+2000000056,male,20s,Gyeonggi-do,Gwacheon-si,Shincheonji Church,2020-02-27,Korea
+2000000058,female,30s,Gyeonggi-do,Yongin-si,contact with patient,2020-02-27,Korea
+2000000062,male,50s,Gyeonggi-do,Yongin-si,contact with patient,2020-02-27,Korea
+2000000063,female,20s,Gyeonggi-do,Yongin-si,contact with patient,2020-02-27,Korea
+2000000065,male,50s,Gyeonggi-do,Suwon-si,etc,2020-02-29,Korea
+2000000066,male,40s,Gyeonggi-do,Icheon-si,contact with patient,2020-02-28,Korea
+2000000067,male,50s,Gyeonggi-do,Icheon-si,contact with patient,2020-02-28,Korea
+2000000075,female,40s,Gyeonggi-do,Siheung-si,etc,2020-02-29,Korea
+2000000076,female,70s,Gyeonggi-do,Icheon-si,etc,2020-02-28,Korea
+2000000077,male,70s,Gyeonggi-do,Icheon-si,etc,2020-02-28,Korea
+2000000078,male,20s,Gyeonggi-do,Icheon-si,Shincheonji Church,2020-02-29,Korea
+2000000080,female,20s,Gyeonggi-do,Suwon-si,etc,2020-02-29,Korea
+2000000085,male,30s,Gyeonggi-do,Siheung-si,etc,2020-03-01,Korea
+2000000088,male,40s,Gyeonggi-do,Namyangju-si,contact with patient,2020-03-01,Korea
+2000000089,male,30s,Gyeonggi-do,Gwacheon-si,Shincheonji Church,2020-03-01,Korea
+2000000092,male,20s,Gyeonggi-do,Suwon-si,contact with patient,2020-03-02,Korea
+2000000093,female,50s,Gyeonggi-do,Suwon-si,contact with patient,2020-03-01,Korea
+2000000095,female,30s,Gyeonggi-do,Yongin-si,etc,2020-03-04,Korea
+2000000096,female,40s,Gyeonggi-do,Suwon-si,contact with patient,2020-03-03,Korea
+2000000098,male,30s,Gyeonggi-do,Namyangju-si,contact with patient,2020-03-03,Korea
+2000000106,male,20s,Gyeonggi-do,Yongin-si,etc,2020-03-05,Korea
+2000000141,male,60s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-08,Korea
+2000000148,female,60s,Gyeonggi-do,Anseong-si,contact with patient,2020-03-08,Korea
+2000000155,female,20s,Gyeonggi-do,Yongin-si,etc,2020-03-09,Korea
+2000000172,female,40s,Gyeonggi-do,Gwangju-si,etc,2020-03-10,Korea
+2000000177,male,50s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-11,Korea
+2000000187,male,20s,Gyeonggi-do,Yongin-si,contact with patient,2020-03-13,Korea
+2000000207,female,50s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-14,Korea
+2000000306,female,50s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-19,Korea
+2000000322,female,30s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-20,Korea
+2000000344,female,60s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-22,Korea
+2000000345,female,20s,Gyeonggi-do,Gwangju-si,overseas inflow,2020-03-22,Korea
+2000000400,male,50s,Gyeonggi-do,Gwangju-si,contact with patient,2020-03-25,Korea
+2000000401,male,30s,Gyeonggi-do,Gwangju-si,overseas inflow,2020-03-25,Korea
+2000000440,male,20s,Gyeonggi-do,Gwangju-si,overseas inflow,2020-03-28,Korea
+3001000001,male,40s,Gangwon-do,Gangneung-si,etc,2020-02-22,Korea
+3001000002,male,20s,Gangwon-do,Gangneung-si,overseas inflow,2020-03-01,China
+3001000003,male,40s,Gangwon-do,Gangneung-si,etc,2020-03-01,Korea
+3001000004,female,50s,Gangwon-do,Gangneung-si,etc,2020-03-01,Korea
+3001000005,male,20s,Gangwon-do,Gangneung-si,Shincheonji Church,2020-03-01,Korea
+3001000007,female,40s,Gangwon-do,Gangneung-si,etc,2020-03-17,Korea
+3001000008,female,30s,Gangwon-do,Gangneung-si,overseas inflow,2020-04-04,Korea
+3001000009,female,20s,Gangwon-do,Gangneung-si,overseas inflow,2020-05-11,Korea
+3004000001,male,20s,Gangwon-do,Samcheok-si,etc,2020-02-22,Korea
+3005000003,male,40s,Gangwon-do,Sokcho-si,overseas inflow,2020-03-29,Korea
+3009000001,male,40s,Gangwon-do,Wonju-si,Shincheonji Church,2020-02-27,Korea
+3009000002,male,50s,Gangwon-do,Wonju-si,Shincheonji Church,2020-02-29,Korea
+3009000003,male,50s,Gangwon-do,Wonju-si,Shincheonji Church,2020-03-01,Korea
+3009000004,male,60s,Gangwon-do,Wonju-si,Shincheonji Church,2020-03-01,Korea
+3009000005,female,50s,Gangwon-do,Wonju-si,contact with patient,2020-03-01,Korea
+3009000006,female,50s,Gangwon-do,Wonju-si,contact with patient,2020-03-01,Korea
+3009000007,female,20s,Gangwon-do,Wonju-si,contact with patient,2020-03-01,Korea
+3009000008,female,50s,Gangwon-do,Wonju-si,contact with patient,2020-03-01,Korea
+3009000009,male,60s,Gangwon-do,Wonju-si,Shincheonji Church,2020-03-02,Korea
+3009000010,male,40s,Gangwon-do,Wonju-si,Shincheonji Church,2020-03-02,Korea
+3009000012,female,60s,Gangwon-do,Wonju-si,contact with patient,2020-03-04,Korea
+3009000013,male,60s,Gangwon-do,Wonju-si,contact with patient,2020-03-04,Korea
+3009000014,male,50s,Gangwon-do,Wonju-si,Shincheonji Church,2020-03-04,Korea
+3009000015,male,40s,Gangwon-do,Wonju-si,contact with patient,2020-03-05,Korea
+3009000016,female,60s,Gangwon-do,Wonju-si,contact with patient,2020-03-07,Korea
+3009000017,female,40s,Gangwon-do,Wonju-si,contact with patient,2020-03-10,Korea
+3009000018,female,20s,Gangwon-do,Wonju-si,overseas inflow,2020-03-23,Korea
+3009000019,male,60s,Gangwon-do,Wonju-si,overseas inflow,2020-03-28,Korea
+3013000001,female,30s,Gangwon-do,Chuncheon-si,Shincheonji Church,2020-02-22,Korea
+3013000002,female,30s,Gangwon-do,Chuncheon-si,Shincheonji Church,2020-02-22,Korea
+3013000003,male,40s,Gangwon-do,Chuncheon-si,overseas inflow,2020-03-27,Korea
+3013000004,female,50s,Gangwon-do,Chuncheon-si,overseas inflow,2020-03-28,Korea
+3013000005,male,60s,Gangwon-do,Chuncheon-si,overseas inflow,2020-03-29,Korea
+3013000006,female,20s,Gangwon-do,Chuncheon-si,overseas inflow,2020-04-05,Korea
+3013000007,female,30s,Gangwon-do,Chuncheon-si,overseas inflow,2020-04-06,Korea
+3010000001,female,30s,Gangwon-do,Inje-gun,overseas inflow,2020-03-24,Korea
+3018000001,male,30s,Gangwon-do,Hoengseong-gun,overseas inflow,2020-03-31,Korea
+3008000001,male,30s,Gangwon-do,Yeongwol-gun,overseas inflow,2020-04-17,Korea
+3012000001,male,70s,Gangwon-do,Cheorwon-gun,contact with patient,2020-03-31,Korea
+3012000002,female,10s,Gangwon-do,Cheorwon-gun,etc,2020-04-02,Korea
+3012000003,female,60s,Gangwon-do,Cheorwon-gun,contact with patient,2020-04-02,Korea
+3012000005,male,70s,Gangwon-do,Cheorwon-gun,contact with patient,2020-04-04,Korea
+3012000006,male,60s,Gangwon-do,Cheorwon-gun,contact with patient,2020-04-06,Korea
+3012000008,male,50s,Gangwon-do,Cheorwon-gun,contact with patient,2020-04-14,Korea
+4000000001,male,30s,Chungcheongbuk-do,Jeungpyeong-gun,contact with patient,2020-02-20,Korea
+4000000002,male,30s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-02-22,Korea
+4000000003,female,30s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-02-22,Korea
+4000000004,male,50s,Chungcheongbuk-do,Eumseong-gun,etc,2020-02-25,Korea
+4000000005,female,30s,Chungcheongbuk-do,Chungju-si,etc,2020-02-25,Korea
+4000000006,female,20s,Chungcheongbuk-do,Cheongju-si,etc,2020-02-25,Korea
+4000000007,female,30s,Chungcheongbuk-do,Chungju-si,etc,2020-02-26,Korea
+4000000008,male,20s,Chungcheongbuk-do,Cheongju-si,etc,2020-02-27,Korea
+4000000009,male,40s,Chungcheongbuk-do,Chungju-si,etc,2020-02-27,Korea
+4000000010,male,20s,Chungcheongbuk-do,Cheongju-si,etc,2020-02-27,Korea
+4000000011,male,20s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-02-29,Korea
+4000000012,female,80s,Chungcheongbuk-do,Goesan-gun,etc,2020-03-04,Korea
+4000000013,male,50s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-03-05,Korea
+4000000014,female,50s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-03-05,Korea
+4000000016,female,70s,Chungcheongbuk-do,Goesan-gun,contact with patient,2020-03-06,Korea
+4000000017,female,70s,Chungcheongbuk-do,Goesan-gun,contact with patient,2020-03-06,Korea
+4000000018,female,60s,Chungcheongbuk-do,Goesan-gun,contact with patient,2020-03-06,Korea
+4000000020,female,80s,Chungcheongbuk-do,Goesan-gun,contact with patient,2020-03-06,Korea
+4000000021,female,90s,Chungcheongbuk-do,Goesan-gun,etc,2020-03-07,Korea
+4000000022,male,40s,Chungcheongbuk-do,Danyang-gun,contact with patient,2020-03-07,Korea
+4000000023,male,70s,Chungcheongbuk-do,Goesan-gun,etc,2020-03-07,Korea
+4000000024,male,60s,Chungcheongbuk-do,Goesan-gun,etc,2020-03-07,Korea
+4000000025,female,50s,Chungcheongbuk-do,Goesan-gun,contact with patient,2020-03-08,Korea
+4000000026,female,50s,Chungcheongbuk-do,Chungju-si,contact with patient,2020-03-09,Korea
+4000000027,female,70s,Chungcheongbuk-do,Goesan-gun,contact with patient,2020-03-10,Korea
+4000000028,female,40s,Chungcheongbuk-do,Eumseong-gun,etc,2020-03-13,Korea
+4000000029,male,40s,Chungcheongbuk-do,Eumseong-gun,contact with patient,2020-03-14,Korea
+4000000030,female,10s,Chungcheongbuk-do,Eumseong-gun,contact with patient,2020-03-14,Korea
+4000000031,female,10s,Chungcheongbuk-do,Eumseong-gun,contact with patient,2020-03-14,Korea
+4000000032,male,20s,Chungcheongbuk-do,Chungju-si,contact with patient,2020-03-17,Korea
+4000000033,male,20s,Chungcheongbuk-do,Chungju-si,etc,2020-03-18,Korea
+4000000034,female,60s,Chungcheongbuk-do,Chungju-si,etc,2020-03-20,Korea
+4000000035,male,50s,Chungcheongbuk-do,Chungju-si,etc,2020-03-21,Korea
+4000000036,female,30s,Chungcheongbuk-do,Chungju-si,contact with patient,2020-03-22,Korea
+4000000037,female,40s,Chungcheongbuk-do,Jincheon-gun,etc,2020-03-22,Korea
+4000000038,female,50s,Chungcheongbuk-do,Chungju-si,contact with patient,2020-03-22,Korea
+4000000039,female,50s,Chungcheongbuk-do,Jeungpyeong-gun,overseas inflow,2020-03-25,Korea
+4000000040,male,10s,Chungcheongbuk-do,Cheongju-si,overseas inflow,2020-03-26,Korea
+4000000041,male,50s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-03-26,Korea
+4000000042,female,50s,Chungcheongbuk-do,Cheongju-si,contact with patient,2020-03-29,Korea
+4000000043,male,60s,Chungcheongbuk-do,Chungju-si,overseas inflow,2020-03-29,Korea
+4000000044,male,20s,Chungcheongbuk-do,Eumseong-gun,overseas inflow,2020-03-29,Korea
+4000000045,female,0s,Chungcheongbuk-do,Chungju-si,overseas inflow,2020-04-02,Korea
+4000000047,female,30s,Chungcheongbuk-do,Chungju-si,overseas inflow,2020-05-07,Korea
+4000000048,male,20s,Chungcheongbuk-do,Cheongju-si,Itaewon Clubs,2020-05-14,Korea
+4000000049,female,30s,Chungcheongbuk-do,Cheongju-si,etc,2020-05-16,Korea
+4000000050,female,30s,Chungcheongbuk-do,Cheongju-si,etc,2020-05-17,Korea
+4000000051,female,40s,Chungcheongbuk-do,Cheongju-si,overseas inflow,2020-05-17,Korea
+4000000052,male,30s,Chungcheongbuk-do,Cheongju-si,etc,2020-05-24,Korea
+4000000053,male,10s,Chungcheongbuk-do,Cheongju-si,overseas inflow,2020-06-06,Korea
+4100000001,male,20s,Chungcheongnam-do,Gyeryong-si,etc,2020-02-21,Korea
+4100000002,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-25,Korea
+4100000003,female,50s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-25,Korea
+4100000004,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-25,Korea
+4100000005,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-26,Korea
+4100000006,female,40s,Chungcheongnam-do,Asan-si,contact with patient,2020-02-26,Korea
+4100000007,male,40s,Chungcheongnam-do,Asan-si,contact with patient,2020-02-26,Korea
+4100000008,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-26,Korea
+4100000009,female,30s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-26,Korea
+4100000010,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000011,female,30s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000012,female,50s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000013,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000014,male,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-27,Korea
+4100000015,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000016,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000017,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000018,male,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-04-15,Korea
+4100000019,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-27,Korea
+4100000020,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000021,male,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000022,female,30s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000023,female,50s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000024,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000025,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000026,female,60s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000027,female,30s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000028,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000029,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000030,female,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000031,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000032,female,30s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000033,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000034,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000035,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000036,female,40s,Chungcheongnam-do,Asan-si,contact with patient,2020-02-28,Korea
+4100000037,female,30s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000038,female,40s,Chungcheongnam-do,Asan-si,etc,2020-02-28,Korea
+4100000039,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-28,Korea
+4100000040,female,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000041,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000042,female,30s,Chungcheongnam-do,Asan-si,contact with patient,2020-02-28,Korea
+4100000043,female,30s,Chungcheongnam-do,Asan-si,contact with patient,2020-02-28,Korea
+4100000044,female,60s,Chungcheongnam-do,Cheonan-si,etc,2020-02-28,Korea
+4100000045,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000046,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-28,Korea
+4100000047,male,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000048,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000049,male,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000050,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000051,female,60s,Chungcheongnam-do,Cheonan-si,etc,2020-02-29,Korea
+4100000052,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000053,female,60s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-29,Korea
+4100000054,female,50s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-02-29,Korea
+4100000055,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000056,male,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000057,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000058,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000059,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000060,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000061,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000062,female,30s,Chungcheongnam-do,Asan-si,etc,2020-02-29,Korea
+4100000063,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-02-29,Korea
+4100000064,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000065,male,0s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000066,female,60s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000067,male,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000068,male,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000069,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000070,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000071,female,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000072,male,0s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000073,male,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000074,female,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000075,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000076,female,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-01,Korea
+4100000077,female,40s,Chungcheongnam-do,Cheonan-si,gym facility in Cheonan,2020-03-01,Korea
+4100000078,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-02,Korea
+4100000079,female,0s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-02,Korea
+4100000080,male,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-02,Korea
+4100000081,female,50s,Chungcheongnam-do,Cheonan-si,etc,2020-03-03,Korea
+4100000082,female,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-03,Korea
+4100000083,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-04,Korea
+4100000084,male,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-04,Korea
+4100000085,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-04,Korea
+4100000086,female,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-05,Korea
+4100000087,male,10s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-05,Korea
+4100000088,female,0s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-05,Korea
+4100000089,female,20s,Chungcheongnam-do,Cheonan-si,etc,2020-03-05,Korea
+4100000090,male,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-05,Korea
+4100000091,male,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-06,Korea
+4100000092,male,60s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-04-21,Korea
+4100000093,female,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-06,Korea
+4100000094,male,30s,Chungcheongnam-do,Cheonan-si,etc,2020-03-06,Korea
+4100000095,female,30s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-07,Korea
+4100000096,female,0s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-07,Korea
+4100000097,female,40s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-07,Korea
+4100000098,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-07,Korea
+4100000099,female,50s,Chungcheongnam-do,Cheonan-si,etc,2020-03-08,Korea
+4100000100,male,50s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-08,Korea
+4100000101,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-08,Korea
+4100000102,female,20s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-08,Korea
+4100000103,female,20s,Chungcheongnam-do,Cheonan-si,etc,2020-03-09,Korea
+4100000104,male,50s,Chungcheongnam-do,Seosan-si,etc,2020-03-09,Korea
+4100000105,female,50s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000106,female,70s,Chungcheongnam-do,Cheonan-si,etc,2020-03-10,Korea
+4100000107,female,40s,Chungcheongnam-do,Asan-si,contact with patient,2020-03-10,Korea
+4100000108,male,0s,Chungcheongnam-do,Asan-si,contact with patient,2020-03-10,Korea
+4100000109,female,30s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000110,male,50s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000111,female,20s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000112,male,50s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000113,male,30s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000114,male,50s,Chungcheongnam-do,Seosan-si,contact with patient,2020-03-10,Korea
+4100000115,female,80s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-03-11,Korea
+4100000116,male,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,2020-03-17,Korea
+4100000117,male,20s,Chungcheongnam-do,Cheonan-si,River of Grace Community Church,2020-03-17,Korea
+4100000118,female,60s,Chungcheongnam-do,Hongseong-gun,overseas inflow,2020-03-17,Korea
+4100000119,female,30s,Chungcheongnam-do,Taean-gun,etc,2020-03-19,Korea
+4100000120,female,40s,Chungcheongnam-do,Cheonan-si,etc,2020-03-21,Korea
+4100000121,male,40s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-03-24,Korea
+4100000122,female,40s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-03-24,Korea
+4100000123,male,40s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-03-24,Korea
+4100000124,male,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-03-25,Korea
+4100000125,male,30s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-03-27,Korea
+4100000126,male,30s,Chungcheongnam-do,Buyeo-gun,overseas inflow,2020-03-27,Korea
+4100000127,male,10s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-03-28,Korea
+4100000128,female,40s,Chungcheongnam-do,Buyeo-gun,etc,2020-03-30,Korea
+4100000129,male,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-03-31,Korea
+4100000130,female,60s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-03-31,Korea
+4100000131,male,50s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-03-31,Korea
+4100000132,female,70s,Chungcheongnam-do,Buyeo-gun,etc,2020-04-01,Korea
+4100000133,female,50s,Chungcheongnam-do,Buyeo-gun,etc,2020-04-01,Korea
+4100000134,female,20s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-04-02,Korea
+4100000135,male,40s,Chungcheongnam-do,Asan-si,overseas inflow,2020-04-03,United States
+4100000136,male,70s,Chungcheongnam-do,Buyeo-gun,contact with patient,2020-04-05,Korea
+4100000137,female,20s,Chungcheongnam-do,Cheonan-si,etc,2020-04-06,Korea
+4100000138,male,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-04-07,Korea
+4100000139,female,60s,Chungcheongnam-do,Seocheon-gun,overseas inflow,2020-04-11,United States
+4100000140,female,60s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-04-17,Korea
+4100000141,male,20s,Chungcheongnam-do,Nonsan-si,contact with patient,2020-04-17,Korea
+4100000142,female,10s,Chungcheongnam-do,Nonsan-si,overseas inflow,2020-04-26,Korea
+4100000143,male,30s,Chungcheongnam-do,Cheonan-si,overseas inflow,2020-04-28,Korea
+4100000144,male,10s,Chungcheongnam-do,Gongju-si,contact with patient,2020-05-13,Korea
+4100000145,female,20s,Chungcheongnam-do,Seosan-si,contact with patient,2020-05-20,Korea
+4100000146,female,60s,Chungcheongnam-do,Cheonan-si,contact with patient,2020-05-26,Korea
+4100000148,female,40s,Chungcheongnam-do,Asan-si,Richway,2020-06-05,Korea
+4100000149,female,20s,Chungcheongnam-do,Hongseong-gun,overseas inflow,2020-06-08,Korea
+4100000151,male,40s,Chungcheongnam-do,Asan-si,contact with patient,2020-06-13,Korea
+4100000152,female,50s,Chungcheongnam-do,Asan-si,etc,2020-06-14,Korea
+5000000001,female,60s,Jeollabuk-do,Gunsan-si,overseas inflow,2020-01-30,Korea
+5000000002,male,20s,Jeollabuk-do,Gimje-si,etc,2020-02-20,Korea
+5000000003,male,30s,Jeollabuk-do,Jeonju-si,contact with patient,2020-02-21,Korea
+5000000004,female,70s,Jeollabuk-do,etc,etc,2020-02-26,Korea
+5000000005,male,70s,Jeollabuk-do,etc,contact with patient,2020-02-26,Korea
+5000000006,male,50s,Jeollabuk-do,etc,etc,2020-02-29,Korea
+5000000007,female,20s,Jeollabuk-do,Jeonju-si,Shincheonji Church,2020-03-02,Korea
+5000000008,female,60s,Jeollabuk-do,Gunsan-si,overseas inflow,2020-03-17,Korea
+5000000009,male,60s,Jeollabuk-do,Gunsan-si,overseas inflow,2020-03-17,Korea
+5000000010,male,60s,Jeollabuk-do,Jeonju-si,etc,2020-03-18,Korea
+5000000011,male,20s,Jeollabuk-do,Iksan-si,overseas inflow,2020-03-28,Korea
+5000000012,female,20s,Jeollabuk-do,Jeonju-si,overseas inflow,2020-03-28,Korea
+5000000013,female,20s,Jeollabuk-do,Jeonju-si,overseas inflow,2020-03-29,Korea
+5000000014,male,20s,Jeollabuk-do,Jeonju-si,etc,2020-03-31,Korea
+5000000015,male,20s,Jeollabuk-do,Jeonju-si,overseas inflow,2020-04-02,Korea
+5000000016,female,40s,Jeollabuk-do,Jangsu-gun,etc,2020-04-04,Korea
+5000000017,male,20s,Jeollabuk-do,Jeonju-si,overseas inflow,2020-04-07,Korea
+5000000019,male,30s,Jeollabuk-do,Gunsan-si,overseas inflow,2020-05-07,Korea
+5000000020,male,30s,Jeollabuk-do,Gimje-si,Itaewon Clubs,2020-05-12,Korea
+5000000021,male,20s,Jeollabuk-do,Iksan-si,etc,2020-05-19,Korea
+5100000001,male,40s,Jeollanam-do,etc,contact with patient,2020-02-06,Korea
+5100000002,female,20s,Jeollanam-do,Suncheon-si,etc,2020-02-28,Korea
+5100000003,male,20s,Jeollanam-do,Yeosu-si,Shincheonji Church,2020-02-29,Korea
+5100000004,female,30s,Jeollanam-do,Gwangyang-si,contact with patient,2020-03-01,Korea
+5100000005,male,60s,Jeollanam-do,Hwasun-gun,contact with patient,2020-03-17,Korea
+5100000006,male,40s,Jeollanam-do,Muan-gun,overseas inflow,2020-03-21,Korea
+5100000007,female,60s,Jeollanam-do,Mokpo-si,etc,2020-03-24,Korea
+5100000008,male,70s,Jeollanam-do,Mokpo-si,etc,2020-03-24,Korea
+5100000009,male,20s,Jeollanam-do,Mokpo-si,overseas inflow,2020-03-28,Korea
+5100000010,male,40s,Jeollanam-do,Suncheon-si,overseas inflow,2020-03-30,Korea
+5100000011,female,90s,Jeollanam-do,Muan-gun,etc,2020-03-30,Korea
+5100000012,female,20s,Jeollanam-do,Yeosu-si,overseas inflow,2020-03-31,Korea
+5100000013,male,20s,Jeollanam-do,Yeosu-si,overseas inflow,2020-03-31,Spain
+5100000014,female,50s,Jeollanam-do,Mokpo-si,overseas inflow,2020-04-01,Korea
+5100000015,male,40s,Jeollanam-do,Mokpo-si,overseas inflow,2020-04-02,Korea
+5100000016,male,60s,Jeollanam-do,etc,overseas inflow,2020-05-02,Korea
+5100000017,male,30s,Jeollanam-do,etc,overseas inflow,2020-05-13,Bangladesh
+5100000018,male,20s,Jeollanam-do,etc,overseas inflow,2020-05-14,Korea
+5100000019,female,50s,Jeollanam-do,etc,overseas inflow,2020-05-29,Korea
+6001000001,female,20s,Gyeongsangbuk-do,Gyeongsan-si,Shincheonji Church,2020-02-19,Korea
+6001000007,female,40s,Gyeongsangbuk-do,Gyeongsan-si,Shincheonji Church,2020-02-21,Korea
+6001000119,male,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-02-28,Korea
+6001000149,female,50s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-01,Korea
+6001000150,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-01,Korea
+6001000151,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-01,Korea
+6001000222,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-02,Korea
+6001000226,female,50s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-02,Korea
+6001000350,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-05,Korea
+6001000351,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-05,Korea
+6001000352,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-05,Korea
+6001000353,female,90s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-05,Korea
+6001000354,female,70s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-05,Korea
+6001000356,male,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-05,Korea
+6001000357,female,70s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-05,Korea
+6001000358,female,90s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-05,Korea
+6001000359,female,90s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-05,Korea
+6001000405,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-06,Korea
+6001000406,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000407,female,70s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000408,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000409,female,70s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000410,female,70s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000411,female,40s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000413,female,40s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000419,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000437,female,50s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-06,Korea
+6001000445,female,60s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-06,Korea
+6001000447,female,90s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-06,Korea
+6001000453,male,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Jeil Silver Town,2020-03-07,Korea
+6001000459,female,90s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-07,Korea
+6001000496,male,70s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-09,Korea
+6001000497,male,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-09,Korea
+6001000499,male,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-10,Korea
+6001000502,male,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-10,Korea
+6001000503,female,100s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-10,Korea
+6001000504,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-10,Korea
+6001000516,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-13,Korea
+6001000525,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-15,Korea
+6001000526,female,90s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-15,Korea
+6001000530,male,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-16,Korea
+6001000532,female,80s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Cham Joeun Community Center,2020-03-17,Korea
+6001000542,female,50s,Gyeongsangbuk-do,Gyeongsan-si,Gyeongsan Seorin Nursing Home,2020-03-18,Korea
+6001000546,female,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-19,Korea
+6001000553,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000554,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000555,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000556,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000557,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000558,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000559,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000560,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000561,female,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000562,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000563,female,90s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000564,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000566,male,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000569,male,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000570,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000575,male,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000576,male,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000577,male,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000578,male,40s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000579,male,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000580,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000581,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000583,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-20,Korea
+6001000591,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-25,Korea
+6001000592,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-25,Korea
+6001000596,male,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-26,Korea
+6001000597,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-26,Korea
+6001000598,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-26,Korea
+6001000600,male,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-26,Korea
+6001000602,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-26,Korea
+6001000603,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-26,Korea
+6001000606,male,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-28,Korea
+6001000607,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-29,Korea
+6001000608,female,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-29,Korea
+6001000609,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-29,Korea
+6001000611,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-29,Korea
+6001000614,male,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-30,Korea
+6001000615,male,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-31,Korea
+6001000616,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-31,Korea
+6001000617,female,40s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-03-31,Korea
+6001000618,female,20s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-01,Korea
+6001000619,male,40s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-02,Korea
+6001000621,male,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-02,Korea
+6001000622,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-02,Korea
+6001000624,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-03,Korea
+6001000625,female,80s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-05,Korea
+6001000626,female,70s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-07,Korea
+6001000627,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-07,Korea
+6001000628,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-07,Korea
+6001000630,female,60s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-09,Korea
+6001000631,female,50s,Gyeongsangbuk-do,Gyeongsan-si,etc,2020-04-14,Korea
+6001000632,female,30s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,2020-04-24,Korea
+6001000634,female,0s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,2020-05-11,Korea
+6001000635,female,20s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,2020-05-13,Korea
+6001000636,male,20s,Gyeongsangbuk-do,Gyeongsan-si,overseas inflow,2020-05-27,Korea
+6002000001,male,20s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-02-22,Korea
+6002000003,female,20s,Gyeongsangbuk-do,Gyeongju-si,Shincheonji Church,2020-02-22,Korea
+6002000004,male,50s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-02-24,Korea
+6002000005,female,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-02-24,Korea
+6002000006,male,20s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-02-25,Korea
+6002000007,female,50s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-02-25,Korea
+6002000008,female,30s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-02-25,Korea
+6002000009,male,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-02-27,Korea
+6002000010,female,80s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-02-27,Korea
+6002000011,female,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-02-27,Korea
+6002000012,male,20s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-02-28,Korea
+6002000013,male,50s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-01,Korea
+6002000014,male,10s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-02,Korea
+6002000015,male,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-03,Korea
+6002000016,female,20s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-03,Korea
+6002000017,male,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-05,Korea
+6002000018,male,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-06,Korea
+6002000019,female,50s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-15,Korea
+6002000020,male,50s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-18,Korea
+6002000021,male,20s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-18,Korea
+6002000022,male,30s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-18,Korea
+6002000023,male,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-18,Korea
+6002000024,female,20s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-18,Korea
+6002000025,male,20s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-18,Korea
+6002000026,male,60s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-18,Korea
+6002000027,female,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-19,Korea
+6002000028,female,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-19,Korea
+6002000029,female,40s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-19,Korea
+6002000030,female,50s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-19,Korea
+6002000031,male,60s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-03-21,Korea
+6002000032,female,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-21,Korea
+6002000033,male,50s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-21,Korea
+6002000034,male,20s,Gyeongsangbuk-do,Gyeongju-si,overseas inflow,2020-03-21,Korea
+6002000035,female,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-21,Korea
+6002000036,male,60s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-21,Korea
+6002000037,male,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-22,Korea
+6002000038,female,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-24,Korea
+6002000039,female,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-24,Korea
+6002000040,female,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-25,Korea
+6002000041,male,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-25,Korea
+6002000042,male,20s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-29,Korea
+6002000043,female,10s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-29,Korea
+6002000044,female,20s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-03-29,Korea
+6002000045,female,70s,Gyeongsangbuk-do,Gyeongju-si,etc,2020-04-04,Korea
+6002000046,female,30s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-04-04,Korea
+6002000047,male,70s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-04-05,Korea
+6002000048,male,40s,Gyeongsangbuk-do,Gyeongju-si,contact with patient,2020-04-06,Korea
+6002000049,male,20s,Gyeongsangbuk-do,Gyeongju-si,overseas inflow,2020-04-16,Korea
+6003000001,male,20s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-02-26,Korea
+6003000002,female,60s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-03-02,Korea
+6003000003,female,20s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-03-02,Korea
+6003000004,female,40s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-03-03,Korea
+6003000006,female,80s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-03-04,Korea
+6003000007,female,80s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-03-11,Korea
+6003000008,female,60s,Gyeongsangbuk-do,Goryeong-gun,etc,2020-03-19,Korea
+6003000009,male,20s,Gyeongsangbuk-do,Goryeong-gun,overseas inflow,2020-04-02,Korea
+6004000001,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-23,Korea
+6004000002,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-24,Korea
+6004000003,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-25,Korea
+6004000004,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-25,Korea
+6004000005,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-27,Korea
+6004000006,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-25,Korea
+6004000007,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-27,Korea
+6004000008,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-27,Korea
+6004000009,female,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-27,Korea
+6004000010,male,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-26,Korea
+6004000011,male,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-28,Korea
+6004000012,female,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000013,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000014,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000015,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000016,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000017,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000018,female,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000019,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000020,female,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-02-29,Korea
+6004000021,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-01,Korea
+6004000022,female,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-01,Korea
+6004000023,male,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-01,Korea
+6004000024,male,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-01,Korea
+6004000025,male,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-01,Korea
+6004000026,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-01,Korea
+6004000027,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000028,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000029,female,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000030,male,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000031,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000032,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000033,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000034,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000035,male,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000036,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000037,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000038,male,20s,Gyeongsangbuk-do,Gumi-si,contact with patient,2020-03-03,Korea
+6004000039,male,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000040,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000041,male,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000042,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000043,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-03,Korea
+6004000044,female,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-04,Korea
+6004000045,female,30s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-04,Korea
+6004000046,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-04,Korea
+6004000047,female,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-04,Korea
+6004000048,male,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-04,Korea
+6004000049,female,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-05,Korea
+6004000050,male,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000051,male,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-06,Korea
+6004000052,male,50s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-02,Korea
+6004000053,male,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-09,Korea
+6004000054,male,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-11,Korea
+6004000055,male,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-11,Korea
+6004000056,female,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-11,Korea
+6004000057,male,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-13,Korea
+6004000058,male,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-16,Korea
+6004000059,female,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-16,Korea
+6004000060,female,40s,Gyeongsangbuk-do,Gumi-si,contact with patient,2020-03-19,Korea
+6004000061,male,30s,Gyeongsangbuk-do,Gumi-si,overseas inflow,2020-03-24,Korea
+6004000062,male,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-25,Korea
+6004000063,male,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-03-27,Korea
+6004000064,male,20s,Gyeongsangbuk-do,Gumi-si,overseas inflow,2020-03-28,Korea
+6004000065,male,40s,Gyeongsangbuk-do,Gumi-si,overseas inflow,2020-04-01,Korea
+6004000066,male,30s,Gyeongsangbuk-do,Gumi-si,overseas inflow,2020-04-01,Korea
+6004000067,female,20s,Gyeongsangbuk-do,Gumi-si,overseas inflow,2020-03-27,Korea
+6004000068,female,60s,Gyeongsangbuk-do,Gumi-si,overseas inflow,2020-04-07,Korea
+6004000069,male,10s,Gyeongsangbuk-do,Gumi-si,etc,2020-05-21,Korea
+6004000070,male,20s,Gyeongsangbuk-do,Gumi-si,contact with patient,2020-05-21,Korea
+6004000071,female,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-05-22,Korea
+6004000072,female,50s,Gyeongsangbuk-do,Gumi-si,contact with patient,2020-05-22,Korea
+6004000073,male,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-05-22,Korea
+6004000074,female,40s,Gyeongsangbuk-do,Gumi-si,etc,2020-05-23,Korea
+6004000075,female,70s,Gyeongsangbuk-do,Gumi-si,contact with patient,2020-05-23,Korea
+6004000076,female,60s,Gyeongsangbuk-do,Gumi-si,etc,2020-05-23,Korea
+6004000077,female,20s,Gyeongsangbuk-do,Gumi-si,etc,2020-05-25,Korea
+6004000078,male,50s,Gyeongsangbuk-do,Gumi-si,contact with patient,2020-06-05,Korea
+6006000001,male,40s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-22,Korea
+6006000002,male,40s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-26,Korea
+6006000003,male,40s,Gyeongsangbuk-do,Gimcheon-si,contact with patient,2020-02-27,Korea
+6006000004,female,20s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-28,Korea
+6006000005,male,60s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-28,Korea
+6006000006,male,60s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-29,Korea
+6006000007,male,30s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-29,Korea
+6006000008,male,60s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-02,Korea
+6006000009,male,20s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-02-29,Korea
+6006000010,male,50s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-02,Korea
+6006000011,male,40s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-02,Korea
+6006000012,male,50s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-02,Korea
+6006000013,male,20s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-03,Korea
+6006000014,female,20s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-03,Korea
+6006000015,male,20s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-03,Korea
+6006000016,female,50s,Gyeongsangbuk-do,Gimcheon-si,Shincheonji Church,2020-03-05,Korea
+6006000017,female,20s,Gyeongsangbuk-do,Gimcheon-si,contact with patient,2020-03-05,Thailand
+6006000018,male,20s,Gyeongsangbuk-do,Gimcheon-si,Shincheonji Church,2020-03-05,Korea
+6006000019,female,50s,Gyeongsangbuk-do,Gimcheon-si,contact with patient,2020-03-06,Korea
+6006000020,female,60s,Gyeongsangbuk-do,Gimcheon-si,contact with patient,2020-03-06,Korea
+6006000021,female,70s,Gyeongsangbuk-do,Gimcheon-si,etc,2020-03-08,Korea
+6006000022,female,20s,Gyeongsangbuk-do,Gimcheon-si,contact with patient,2020-03-18,Korea
+6006000023,female,30s,Gyeongsangbuk-do,Gimcheon-si,overseas inflow,2020-03-30,Korea
+6006000024,female,20s,Gyeongsangbuk-do,Gimcheon-si,overseas inflow,2020-03-30,Korea
+6007000001,male,60s,Gyeongsangbuk-do,Mungyeong-si,contact with patient,2020-02-21,Korea
+6007000002,female,60s,Gyeongsangbuk-do,Mungyeong-si,contact with patient,2020-02-21,Korea
+6007000004,male,20s,Gyeongsangbuk-do,Mungyeong-si,etc,2020-03-06,Korea
+6008000067,female,60s,Gyeongsangbuk-do,Bonghwa-gun,Bonghwa Pureun Nursing Home,2020-03-20,Korea
+6009000001,female,20s,Gyeongsangbuk-do,Sangju-si,etc,2020-02-20,Korea
+6009000002,female,40s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-23,Korea
+6009000003,male,60s,Gyeongsangbuk-do,Sangju-si,Pilgrimage to Israel,2020-02-24,Korea
+6009000004,female,30s,Gyeongsangbuk-do,Sangju-si,etc,2020-04-17,Korea
+6009000005,female,40s,Gyeongsangbuk-do,Sangju-si,etc,2020-02-26,Korea
+6009000006,female,60s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-26,Korea
+6009000007,male,70s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-26,Korea
+6009000008,female,60s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-26,Korea
+6009000009,male,30s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-26,Korea
+6009000010,male,30s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-04-30,Korea
+6009000011,male,0s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-04-16,Korea
+6009000012,male,0s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-04-16,Korea
+6009000013,male,80s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-26,Korea
+6009000014,female,50s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-02-29,Korea
+6009000015,male,50s,Gyeongsangbuk-do,Sangju-si,contact with patient,2020-03-03,Korea
+6010000001,female,10s,Gyeongsangbuk-do,Seongju-gun,etc,2020-02-26,Korea
+6010000002,female,60s,Gyeongsangbuk-do,Seongju-gun,Shincheonji Church,2020-02-26,Korea
+6010000003,female,20s,Gyeongsangbuk-do,Seongju-gun,etc,2020-02-26,Korea
+6010000004,female,20s,Gyeongsangbuk-do,Seongju-gun,Shincheonji Church,2020-02-26,Korea
+6010000005,female,40s,Gyeongsangbuk-do,Seongju-gun,Shincheonji Church,2020-02-27,Korea
+6010000006,female,60s,Gyeongsangbuk-do,Seongju-gun,Shincheonji Church,2020-02-27,Korea
+6010000007,female,70s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-02-28,Korea
+6010000008,male,50s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-02-28,Korea
+6010000009,female,50s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-02-28,Korea
+6010000010,female,20s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-02-28,Korea
+6010000011,female,20s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-02-28,Korea
+6010000012,male,70s,Gyeongsangbuk-do,Seongju-gun,etc,2020-02-29,Korea
+6010000013,male,50s,Gyeongsangbuk-do,Seongju-gun,etc,2020-03-01,Korea
+6010000015,female,70s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-03-04,Korea
+6010000016,female,40s,Gyeongsangbuk-do,Seongju-gun,contact with patient,2020-03-04,Korea
+6010000017,female,20s,Gyeongsangbuk-do,Seongju-gun,etc,2020-03-04,Korea
+6010000018,female,80s,Gyeongsangbuk-do,Seongju-gun,etc,2020-03-05,Korea
+6010000019,male,50s,Gyeongsangbuk-do,Seongju-gun,etc,2020-03-11,Korea
+6010000020,male,60s,Gyeongsangbuk-do,Seongju-gun,etc,2020-03-14,Korea
+6010000021,female,60s,Gyeongsangbuk-do,Seongju-gun,overseas inflow,2020-03-21,Korea
+6010000022,male,20s,Gyeongsangbuk-do,Seongju-gun,overseas inflow,2020-03-22,Korea
+6011000001,female,60s,Gyeongsangbuk-do,Andong-si,etc,2020-02-21,Korea
+6011000002,male,60s,Gyeongsangbuk-do,Andong-si,etc,2020-02-21,Korea
+6011000003,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-20,Korea
+6011000004,male,60s,Gyeongsangbuk-do,Andong-si,etc,2020-02-21,Korea
+6011000005,female,60s,Gyeongsangbuk-do,Andong-si,etc,2020-02-21,Korea
+6011000006,female,60s,Gyeongsangbuk-do,Andong-si,etc,2020-02-22,Korea
+6011000007,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-23,Korea
+6011000008,female,30s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-02-23,Korea
+6011000009,female,20s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-02-23,Korea
+6011000010,female,20s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-02-23,Korea
+6011000011,female,40s,Gyeongsangbuk-do,Andong-si,etc,2020-02-24,Korea
+6011000012,female,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-25,Korea
+6011000013,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-26,Korea
+6011000014,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000015,male,30s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000016,female,10s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000017,male,30s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000018,female,40s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000019,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000020,male,40s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000021,female,40s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000022,female,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000023,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-27,Korea
+6011000024,female,40s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000025,male,30s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000026,female,60s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000027,female,50s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000028,female,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000029,female,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000030,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000031,female,70s,Gyeongsangbuk-do,Andong-si,etc,2020-03-01,Korea
+6011000032,male,50s,Gyeongsangbuk-do,Andong-si,Shincheonji Church,2020-02-28,Korea
+6011000033,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000034,female,20s,Gyeongsangbuk-do,Andong-si,Shincheonji Church,2020-02-29,Korea
+6011000035,female,30s,Gyeongsangbuk-do,Andong-si,etc,2020-02-29,Korea
+6011000036,female,50s,Gyeongsangbuk-do,Andong-si,etc,2020-03-01,Korea
+6011000037,male,20s,Gyeongsangbuk-do,Andong-si,etc,2020-02-28,Korea
+6011000038,male,20s,Gyeongsangbuk-do,Andong-si,Shincheonji Church,2020-03-03,Korea
+6011000039,female,40s,Gyeongsangbuk-do,Andong-si,Shincheonji Church,2020-03-05,Korea
+6011000040,female,60s,Gyeongsangbuk-do,Andong-si,Shincheonji Church,2020-03-05,Korea
+6011000041,female,10s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-06,Korea
+6011000042,male,10s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-06,Korea
+6011000043,male,0s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-06,Korea
+6011000044,male,20s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-06,Korea
+6011000045,male,60s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-07,Korea
+6011000046,male,50s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-07,Korea
+6011000047,male,50s,Gyeongsangbuk-do,Andong-si,contact with patient,2020-03-08,Korea
+6011000048,female,40s,Gyeongsangbuk-do,Andong-si,etc,2020-03-21,Korea
+6011000049,female,50s,Gyeongsangbuk-do,Andong-si,etc,2020-03-24,Korea
+6011000050,male,70s,Gyeongsangbuk-do,Andong-si,etc,2020-04-04,Korea
+6013000001,male,20s,Gyeongsangbuk-do,Yeongyang-gun,etc,2020-02-26,Korea
+6013000002,female,40s,Gyeongsangbuk-do,Yeongyang-gun,overseas inflow,2020-03-30,Korea
+6014000001,female,60s,Gyeongsangbuk-do,Yeongju-si,etc,2020-02-22,Korea
+6014000002,male,20s,Gyeongsangbuk-do,Yeongju-si,etc,2020-02-24,Korea
+6014000003,female,20s,Gyeongsangbuk-do,Yeongju-si,etc,2020-02-27,Korea
+6014000004,male,40s,Gyeongsangbuk-do,Yeongju-si,etc,2020-02-29,Korea
+6014000005,male,60s,Gyeongsangbuk-do,Yeongju-si,etc,2020-03-10,Korea
+6015000001,male,40s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-18,Korea
+6015000002,female,60s,Gyeongsangbuk-do,Yeongcheon-si,Shincheonji Church,2020-02-18,Korea
+6015000003,female,70s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-19,Korea
+6015000004,male,20s,Gyeongsangbuk-do,Yeongcheon-si,Shincheonji Church,2020-02-19,Korea
+6015000005,female,50s,Gyeongsangbuk-do,Yeongcheon-si,Shincheonji Church,2020-02-20,Korea
+6015000008,female,50s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-23,Korea
+6015000009,male,50s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-23,Korea
+6015000010,female,60s,Gyeongsangbuk-do,Yeongcheon-si,Shincheonji Church,2020-02-23,Korea
+6015000011,female,40s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-23,Korea
+6015000012,male,50s,Gyeongsangbuk-do,Yeongcheon-si,Shincheonji Church,2020-02-24,Korea
+6015000013,male,20s,Gyeongsangbuk-do,Yeongcheon-si,Shincheonji Church,2020-02-25,Korea
+6015000014,female,60s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-25,Korea
+6015000015,female,30s,Gyeongsangbuk-do,Yeongcheon-si,contact with patient,2020-02-25,Korea
+6015000016,female,50s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-25,Korea
+6015000017,male,60s,Gyeongsangbuk-do,Yeongcheon-si,contact with patient,2020-02-26,Korea
+6015000018,female,50s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-26,Korea
+6015000019,female,60s,Gyeongsangbuk-do,Yeongcheon-si,contact with patient,2020-02-26,Korea
+6015000020,male,20s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-26,Korea
+6015000021,male,70s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-26,Korea
+6015000023,male,20s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-27,Korea
+6015000024,male,30s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-27,Korea
+6015000025,male,40s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-27,Korea
+6015000026,male,20s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-27,Korea
+6015000027,female,70s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-02-28,Korea
+6015000028,female,60s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-03-01,Korea
+6015000029,female,70s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-03-01,Korea
+6015000032,female,20s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-03-03,Korea
+6015000033,male,80s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-03-05,Korea
+6015000034,female,80s,Gyeongsangbuk-do,Yeongcheon-si,etc,2020-03-05,Korea
+6016000001,female,50s,Gyeongsangbuk-do,Yecheon-gun,Pilgrimage to Israel,2020-02-21,Korea
+6016000002,male,40s,Gyeongsangbuk-do,Yecheon-gun,etc,2020-02-24,Korea
+6016000003,male,20s,Gyeongsangbuk-do,Yecheon-gun,etc,2020-03-01,Korea
+6016000004,female,50s,Gyeongsangbuk-do,Yecheon-gun,etc,2020-03-04,Korea
+6016000005,male,50s,Gyeongsangbuk-do,Yecheon-gun,etc,2020-03-04,Korea
+6016000006,male,60s,Gyeongsangbuk-do,Yecheon-gun,etc,2020-03-06,Korea
+6016000021,female,50s,Gyeongsangbuk-do,Yecheon-gun,contact with patient,2020-04-12,Korea
+6019000041,female,80s,Gyeongsangbuk-do,Uiseong-gun,etc,2020-03-18,Korea
+6020000001,male,50s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-20,Korea
+6020000002,male,40s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-20,Korea
+6020000003,male,60s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-20,Korea
+6020000004,male,40s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-20,Korea
+6020000005,male,50s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-20,Korea
+6020000006,male,60s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-21,Korea
+6020000007,female,40s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-21,Korea
+6020000008,female,20s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-21,Korea
+6020000009,male,60s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-21,Korea
+6020000016,male,60s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-25,Korea
+6020000023,female,30s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-26,Korea
+6020000024,female,30s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-26,Korea
+6020000025,female,60s,Gyeongsangbuk-do,Cheongdo-gun,Cheongdo Daenam Hospital,2020-02-28,Korea
+6022000004,male,50s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-24,Korea
+6022000007,male,30s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000008,male,50s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000009,female,50s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000010,female,50s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000019,female,20s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000021,female,40s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000022,male,30s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000023,male,20s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-02-25,Korea
+6022000044,male,20s,Gyeongsangbuk-do,Chilgok-gun,Milal Shelter,2020-03-03,Korea
+6023000007,female,20s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-02-23,Korea
+6023000010,female,20s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-02-23,Korea
+6023000012,female,50s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-02-24,Korea
+6023000024,male,50s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-02-29,Korea
+6023000025,female,50s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-02-29,Korea
+6023000026,female,20s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-02-29,Korea
+6023000033,female,20s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-05,Korea
+6023000034,female,50s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-05,Korea
+6023000035,female,30s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-05,Korea
+6023000038,female,20s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-06,Korea
+6023000039,male,20s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-06,Korea
+6023000040,female,30s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-06,Korea
+6023000041,female,60s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-06,Korea
+6023000046,female,60s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-09,Korea
+6023000047,female,0s,Gyeongsangbuk-do,Pohang-si,contact with patient,2020-03-09,Korea
+6023000053,male,20s,Gyeongsangbuk-do,Pohang-si,overseas inflow,2020-06-02,Korea
+6100000001,male,20s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-20,Korea
+6100000002,male,70s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-20,Korea
+6100000003,female,10s,Gyeongsangnam-do,Jinju-si,Shincheonji Church,2020-02-20,Korea
+6100000004,male,10s,Gyeongsangnam-do,Jinju-si,Shincheonji Church,2020-02-21,Korea
+6100000005,male,40s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-22,Korea
+6100000006,female,40s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-22,Korea
+6100000007,male,20s,Gyeongsangnam-do,Changwon-si,etc,2020-02-22,Korea
+6100000008,male,70s,Gyeongsangnam-do,Yangsan-si,contact with patient,2020-02-22,Korea
+6100000009,female,30s,Gyeongsangnam-do,Geoje-si,overseas inflow,2020-02-23,Korea
+6100000010,female,20s,Gyeongsangnam-do,Changwon-si,Shincheonji Church,2020-02-23,Korea
+6100000011,male,20s,Gyeongsangnam-do,Hamyang-gun,contact with patient,2020-02-23,Korea
+6100000012,male,40s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-23,Korea
+6100000013,female,70s,Gyeongsangnam-do,Goseong-gun,Shincheonji Church,2020-02-23,Korea
+6100000014,male,30s,Gyeongsangnam-do,Changwon-si,Shincheonji Church,2020-02-23,Korea
+6100000015,female,20s,Gyeongsangnam-do,Gimhae-si,Onchun Church,2020-02-23,Korea
+6100000016,male,30s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-23,Korea
+6100000017,female,20s,Gyeongsangnam-do,Yangsan-si,Shincheonji Church,2020-02-23,Korea
+6100000018,female,30s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-24,Korea
+6100000019,female,20s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-24,Korea
+6100000020,female,60s,Gyeongsangnam-do,Hapcheon-gun,Shincheonji Church,2020-02-24,Korea
+6100000021,male,70s,Gyeongsangnam-do,Hapcheon-gun,contact with patient,2020-02-24,Korea
+6100000022,female,50s,Gyeongsangnam-do,Gimhae-si,contact with patient,2020-02-24,Korea
+6100000023,male,60s,Gyeongsangnam-do,Changwon-si,Shincheonji Church,2020-02-24,Korea
+6100000024,male,30s,Gyeongsangnam-do,Namhae-gun,contact with patient,2020-02-25,Korea
+6100000025,male,40s,Gyeongsangnam-do,Changwon-si,etc,2020-02-25,Korea
+6100000026,male,30s,Gyeongsangnam-do,Changwon-si,etc,2020-02-25,Korea
+6100000027,female,20s,Gyeongsangnam-do,Geoje-si,contact with patient,2020-02-25,Korea
+6100000028,female,20s,Gyeongsangnam-do,Changwon-si,Shincheonji Church,2020-02-25,Korea
+6100000029,male,10s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-26,Korea
+6100000030,male,20s,Gyeongsangnam-do,Changwon-si,Shincheonji Church,2020-02-26,Korea
+6100000034,female,20s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-02-26,Korea
+6100000035,female,40s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-02-26,Korea
+6100000036,female,60s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-02-26,Korea
+6100000037,female,50s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-26,Korea
+6100000038,female,50s,Gyeongsangnam-do,Changnyeong-gun,etc,2020-02-26,Korea
+6100000039,female,60s,Gyeongsangnam-do,Gimhae-si,contact with patient,2020-02-26,Korea
+6100000040,male,50s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-26,Korea
+6100000041,male,30s,Gyeongsangnam-do,Miryang-si,contact with patient,2020-02-26,Korea
+6100000042,male,40s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-26,Korea
+6100000043,male,20s,Gyeongsangnam-do,Gimhae-si,Shincheonji Church,2020-02-26,Korea
+6100000044,female,40s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-27,Korea
+6100000045,female,40s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-02-27,Korea
+6100000046,female,50s,Gyeongsangnam-do,Gimhae-si,contact with patient,2020-02-27,Korea
+6100000047,male,40s,Gyeongsangnam-do,Geochang-gun,Geochang Church,2020-02-27,Korea
+6100000048,female,40s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-02-27,Korea
+6100000049,female,60s,Gyeongsangnam-do,Miryang-si,Shincheonji Church,2020-02-28,Korea
+6100000050,male,0s,Gyeongsangnam-do,Miryang-si,contact with patient,2020-02-28,Korea
+6100000051,female,60s,Gyeongsangnam-do,Changnyeong-gun,Changnyeong Coin Karaoke,2020-02-28,Korea
+6100000052,female,60s,Gyeongsangnam-do,Geochang-gun,Geochang Church,2020-02-28,Korea
+6100000053,male,50s,Gyeongsangnam-do,Geoje-si,contact with patient,2020-02-28,Korea
+6100000054,male,60s,Gyeongsangnam-do,Geochang-gun,Geochang Church,2020-02-28,Korea
+6100000055,female,20s,Gyeongsangnam-do,Miryang-si,Shincheonji Church,2020-02-28,Korea
+6100000056,male,30s,Gyeongsangnam-do,Changnyeong-gun,contact with patient,2020-02-28,Korea
+6100000057,male,60s,Gyeongsangnam-do,Geochang-gun,Geochang Church,2020-02-28,Korea
+6100000058,male,50s,Gyeongsangnam-do,Geochang-gun,Geochang Church,2020-02-28,Korea
+6100000059,female,50s,Gyeongsangnam-do,Geochang-gun,Geochang Church,2020-02-28,Korea
+6100000060,male,50s,Gyeongsangnam-do,Gimhae-si,etc,2020-02-28,Korea
+6100000061,male,30s,Gyeongsangnam-do,Changnyeong-gun,etc,2020-02-29,Korea
+6100000062,female,20s,Gyeongsangnam-do,Changwon-si,Shincheonji Church,2020-03-01,Korea
+6100000063,female,20s,Gyeongsangnam-do,Goseong-gun,Shincheonji Church,2020-03-01,Korea
+6100000064,female,20s,Gyeongsangnam-do,Geochang-gun,Shincheonji Church,2020-03-02,Korea
+6100000065,female,50s,Gyeongsangnam-do,Geoje-si,Shincheonji Church,2020-03-03,Korea
+6100000066,female,60s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-03-03,Korea
+6100000067,male,60s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-03-04,Korea
+6100000068,female,60s,Gyeongsangnam-do,Geochang-gun,etc,2020-03-04,Korea
+6100000069,female,60s,Gyeongsangnam-do,Geochang-gun,etc,2020-03-04,Korea
+6100000070,male,20s,Gyeongsangnam-do,Changnyeong-gun,Changnyeong Coin Karaoke,2020-03-04,Korea
+6100000071,female,10s,Gyeongsangnam-do,Changnyeong-gun,Changnyeong Coin Karaoke,2020-03-04,Korea
+6100000072,female,60s,Gyeongsangnam-do,Changnyeong-gun,etc,2020-03-04,Korea
+6100000073,male,60s,Gyeongsangnam-do,Miryang-si,contact with patient,2020-03-04,Korea
+6100000074,female,30s,Gyeongsangnam-do,Changwon-si,etc,2020-03-04,Korea
+6100000075,male,0s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-03-05,Korea
+6100000076,male,20s,Gyeongsangnam-do,Changnyeong-gun,Changnyeong Coin Karaoke,2020-03-05,Korea
+6100000077,female,70s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-03-05,Korea
+6100000078,female,40s,Gyeongsangnam-do,Changwon-si,contact with patient,2020-03-05,Korea
+6100000079,male,20s,Gyeongsangnam-do,Changnyeong-gun,contact with patient,2020-03-06,Korea
+6100000080,female,50s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-03-06,Korea
+6100000081,female,70s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-03-06,Korea
+6100000082,male,50s,Gyeongsangnam-do,Geochang-gun,contact with patient,2020-03-07,Korea
+6100000083,male,20s,Gyeongsangnam-do,Geoje-si,etc,2020-03-10,Korea
+6100000084,male,40s,Gyeongsangnam-do,Geoje-si,etc,2020-03-11,Korea
+6100000085,male,30s,Gyeongsangnam-do,Changwon-si,overseas inflow,2020-03-16,Korea
+6100000086,male,50s,Gyeongsangnam-do,Changwon-si,etc,2020-03-19,Korea
+6100000087,female,50s,Gyeongsangnam-do,Changwon-si,etc,2020-03-21,Korea
+6100000088,male,20s,Gyeongsangnam-do,Changwon-si,etc,2020-03-22,Korea
+6100000089,male,60s,Gyeongsangnam-do,Haman-gun,etc,2020-03-23,Korea
+6100000090,male,40s,Gyeongsangnam-do,Yangsan-si,overseas inflow,2020-03-26,Korea
+6100000091,female,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,2020-03-28,Korea
+6100000092,male,40s,Gyeongsangnam-do,Changwon-si,overseas inflow,2020-03-28,Korea
+6100000093,female,50s,Gyeongsangnam-do,Jinju-si,etc,2020-03-28,Korea
+6100000094,male,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,2020-03-29,Korea
+6100000095,male,50s,Gyeongsangnam-do,Changwon-si,overseas inflow,2020-03-20,Korea
+6100000096,male,60s,Gyeongsangnam-do,Changwon-si,overseas inflow,2020-03-31,Korea
+6100000097,female,60s,Gyeongsangnam-do,Jinju-si,etc,2020-03-31,Korea
+6100000098,male,60s,Gyeongsangnam-do,Jinju-si,etc,2020-03-31,Korea
+6100000099,male,40s,Gyeongsangnam-do,Jinju-si,etc,2020-03-31,Korea
+6100000100,female,60s,Gyeongsangnam-do,Jinju-si,etc,2020-03-31,Korea
+6100000101,male,40s,Gyeongsangnam-do,Yangsan-si,overseas inflow,2020-03-31,Korea
+6100000102,female,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,2020-03-31,Korea
+6100000103,female,30s,Gyeongsangnam-do,Jinju-si,etc,2020-03-31,Korea
+6100000104,female,70s,Gyeongsangnam-do,Sancheong-gun,etc,2020-03-31,Korea
+6100000105,male,20s,Gyeongsangnam-do,Gimhae-si,overseas inflow,2020-04-01,Korea
+6100000106,male,20s,Gyeongsangnam-do,Sacheon-si,overseas inflow,2020-04-02,Korea
+6100000107,female,50s,Gyeongsangnam-do,Jinju-si,etc,2020-04-03,Korea
+6100000108,male,10s,Gyeongsangnam-do,Sacheon-si,overseas inflow,2020-04-04,Korea
+6100000109,male,30s,Gyeongsangnam-do,Changwon-si,etc,2020-04-05,Korea
+6100000110,male,0s,Gyeongsangnam-do,Changwon-si,etc,2020-04-05,Korea
+6100000111,male,20s,Gyeongsangnam-do,Sacheon-si,contact with patient,2020-04-06,Korea
+6100000112,male,60s,Gyeongsangnam-do,Hapcheon-gun,contact with patient,2020-04-07,Korea
+6100000113,male,30s,Gyeongsangnam-do,Geoje-si,overseas inflow,2020-04-08,Korea
+6100000114,female,0s,Gyeongsangnam-do,Jinju-si,overseas inflow,2020-04-08,Korea
+6100000115,male,20s,Gyeongsangnam-do,Changwon-si,etc,2020-04-16,Korea
+6100000116,male,60s,Gyeongsangnam-do,Changwon-si,etc,2020-04-21,Korea
+6100000117,male,50s,Gyeongsangnam-do,Geoje-si,overseas inflow,2020-05-11,Korea
+6100000118,male,20s,Gyeongsangnam-do,Geoje-si,Itaewon Clubs,2020-05-12,Korea
+6100000119,female,30s,Gyeongsangnam-do,Geoje-si,overseas inflow,2020-05-16,Korea
+6100000120,female,40s,Gyeongsangnam-do,Gimhae-si,overseas inflow,2020-05-16,Korea
+6100000121,male,20s,Gyeongsangnam-do,Jinju-si,Itaewon Clubs,2020-05-21,Korea
+6100000122,male,60s,Gyeongsangnam-do,Jinju-si,etc,2020-05-22,Korea
+6100000123,female,20s,Gyeongsangnam-do,Gimhae-si,etc,2020-06-05,Korea
+6100000124,male,40s,Gyeongsangnam-do,Yangsan-si,etc,2020-06-08,Korea
+6100000127,male,40s,Gyeongsangnam-do,Gimhae-si,etc,2020-06-14,Korea
+6100000128,male,40s,Gyeongsangnam-do,Geoje-si,overseas inflow,2020-06-14,Korea
+7000000001,male,20s,Jeju-do,Jeju-do,etc,2020-02-20,Korea
+7000000002,female,20s,Jeju-do,Jeju-do,etc,2020-02-22,Korea
+7000000003,female,40s,Jeju-do,etc,etc,2020-03-02,Korea
+7000000004,male,40s,Jeju-do,Jeju-do,etc,2020-03-04,Korea
+7000000005,female,20s,Jeju-do,Jeju-do,overseas inflow,2020-03-24,Korea
+7000000006,male,30s,Jeju-do,Jeju-do,overseas inflow,2020-03-24,United States
+7000000007,female,20s,Jeju-do,Jeju-do,overseas inflow,2020-03-25,Korea
+7000000008,female,10s,Jeju-do,Jeju-do,overseas inflow,2020-03-27,Korea
+7000000009,female,20s,Jeju-do,Jeju-do,overseas inflow,2020-03-29,Korea
+7000000010,female,20s,Jeju-do,Jeju-do,overseas inflow,2020-04-03,Korea
+7000000011,male,30s,Jeju-do,Jeju-do,contact with patient,2020-04-03,Korea
+7000000012,female,20s,Jeju-do,Jeju-do,overseas inflow,2020-04-03,Korea
+7000000013,female,10s,Jeju-do,Jeju-do,overseas inflow,2020-04-14,China
+7000000014,female,30s,Jeju-do,Jeju-do,Itaewon Clubs,2020-05-09,Korea
+7000000015,female,30s,Jeju-do,Jeju-do,overseas inflow,2020-05-30,Korea
