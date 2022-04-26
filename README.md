@@ -3,6 +3,8 @@ Repo - Paper "Discovering Editing Rules by Deep Reinforcement Learning"
 
 ## File Structure
 
+* `doc/er.pdf`: Implementation Details of EnuMiner.
+
 * `src/`: Source code of algorithms
 	- `src/enuminer.py`: the Enuminer algorithm.
 	- `src/train.py`: training algorithm of RLMiner.
