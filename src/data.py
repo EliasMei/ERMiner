@@ -10,12 +10,6 @@ LastEditTime: 2022-02-14 13:21:55
 import random
 import pandas as pd
 
-class Table(object):
-    def __init__(self, df:pd.DataFrame) -> None:
-        pass
-        
-
-
 class DirtyDataGenerator(object):
     def __init__(self, data, seed=42) -> None:
         super().__init__()
