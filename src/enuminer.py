@@ -39,7 +39,7 @@ def get_args():
     parser.add_argument('--alpha', type=float, default=0.2)
     return parser.parse_args()
 
-class Baseline(object):
+class EnuMiner(object):
     def __init__(self, input_domains, master_data, y_attr, match, x_disc_attrs, x_cont_attrs, input_data=None, alpha=0.2, supp_threshold=0.01) -> None:
         self.input_domains = input_domains
         self.x_attrs = [col for col in x_disc_attrs+x_cont_attrs if col in input_domains.columns]
@@ -184,7 +184,7 @@ if __name__ == "__main__":
         input_domains[col] = tmp
     match = meta_data[args.dataset]["match"]
     start_time = time.perf_counter()
-    miner = Baseline(input_domains, master_data, y_attr, match=match, x_disc_attrs=x_disc_attrs, x_cont_attrs=x_cont_attrs, input_data=input_data, alpha=args.alpha, supp_threshold=args.supp)
+    miner = EnuMiner(input_domains, master_data, y_attr, match=match, x_disc_attrs=x_disc_attrs, x_cont_attrs=x_cont_attrs, input_data=input_data, alpha=args.alpha, supp_threshold=args.supp)
     miner.mine()
     rules = miner.top_k(args.k)
     logging.info(f"Rule Ranking Done.")
