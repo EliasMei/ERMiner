@@ -194,10 +194,10 @@ if __name__ == "__main__":
         os.makedirs(f"../output/{args.dataset}/")
     if not os.path.exists(f"../tmp/{args.dataset}/"):
         os.makedirs(f"../tmp/{args.dataset}/")
-    with open(f"../tmp/{args.dataset}/baseline-rules.pkl", "wb") as f:
+    with open(f"../tmp/{args.dataset}/EnuMiner-rules.pkl", "wb") as f:
         pickle.dump(rules, f)
     cand_counts = miner.rule_set_query(rules)
-    with open(f"../tmp/{args.dataset}/baseline-cand_counts.pkl", "wb") as f:
+    with open(f"../tmp/{args.dataset}/EnuMiner-cand_counts.pkl", "wb") as f:
         pickle.dump(cand_counts, f)
     logging.info(f"Time: {end_time-start_time}")
 
@@ -209,8 +209,8 @@ if __name__ == "__main__":
         time_dict = dict()
     if str(args.num) not in time_dict:
         time_dict[str(args.num)] = dict()
-    if "baseline" not in time_dict[str(args.num)]:
-        time_dict[str(args.num)]["baseline"] = dict()
-    time_dict[str(args.num)]["baseline"][str(args.seed)] = end_time-start_time
+    if "EnuMiner" not in time_dict[str(args.num)]:
+        time_dict[str(args.num)]["EnuMiner"] = dict()
+    time_dict[str(args.num)]["EnuMiner"][str(args.seed)] = end_time-start_time
     with open(time_logger_path, "w") as f:
         json.dump(time_dict, f)
