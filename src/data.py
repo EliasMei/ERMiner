@@ -4,14 +4,20 @@ version:
 Author: Yinan Mei
 Date: 2022-02-02 15:44:43
 LastEditors: Yinan Mei
-LastEditTime: 2022-02-14 13:21:55
+LastEditTime: 2022-07-26 14:23:20
 '''
 
 import random
 import pandas as pd
 
 class DirtyDataGenerator(object):
-    def __init__(self, data, seed=42) -> None:
+    def __init__(self, data, seed=42) -> None:    
+        """Init Function
+
+        Args:
+            data (pd.DataFrame): inject errors to the data
+            seed (int, optional): random seed for error generation. Defaults to 42.
+        """
         super().__init__()
         random.seed(seed)
         self.cols = data.columns
@@ -20,6 +26,15 @@ class DirtyDataGenerator(object):
             self.domains[col] = list(set(data[col]))
 
     def replace_value(self, value, col):
+        """select a value to replace randomly
+
+        Args:
+            value (to-replace value): to-replace value
+            col (obj): the column name of the value belong to
+
+        Returns:
+            obj: new value
+        """
         # avoid endless loop
         for _ in range(10):
             tmp = random.choice(self.domains[col])
@@ -92,6 +107,16 @@ class DirtyDataGenerator(object):
         return erroneous_text
 
     def add_text_noise(self, value, col, prob=0.1):
+        """add text noise to the value
+
+        Args:
+            value (str): the original text value
+            col (str): the corresponding column name
+            prob (float, optional): Probability of injecting errors. Defaults to 0.1.
+
+        Returns:
+            str: updated value
+        """
         if random.random() > prob:
             return value
         method = random.choice(["replace", "missing", "typo"])
@@ -104,6 +129,16 @@ class DirtyDataGenerator(object):
         return error_value
     
     def add_category_noise(self, value, col, prob=0.1):
+        """add category noise to the value
+
+        Args:
+            value (str): the original categorical value
+            col (str): the corresponding column name
+            prob (float, optional): Probability of injecting errors. Defaults to 0.1.
+
+        Returns:
+            str: updated value
+        """
         if random.random() > prob:
             return value
         method = random.choice(["replace", "missing"])

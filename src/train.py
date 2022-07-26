@@ -4,7 +4,7 @@ version:
 Author: Yinan Mei
 Date: 2022-01-24 12:41:35
 LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:21:30
+LastEditTime: 2022-07-26 16:04:29
 '''
 from email.policy import default
 import time
@@ -74,8 +74,14 @@ def get_args():
     return parser.parse_args()
 
     
-def train_dqn(args=get_args()):
-    env = make_env(args.dataset, num=args.num, seed=args.seed, stop_reward=args.stopreward, k=args.k, maxd=args.maxd, alpha=args.alpha, supp=args.supp, domain_path=args.domain_path)
+def train_rlminer(args=get_args()):
+    """Train RLMiner
+
+    Args:
+        args (Argparse, optional): arguments dict. Defaults to get_args().
+
+    """
+    env = make_env(args.dataset, stop_reward=args.stopreward, k=args.k, maxd=args.maxd, supp=args.supp, domain_path=args.domain_path)
     args.state_shape = env.observation_space.shape or env.observation_space.n
     args.action_shape = env.action_space.shape or env.action_space.n
     print("Observations shape:", args.state_shape)
@@ -83,10 +89,10 @@ def train_dqn(args=get_args()):
     print("Stop Reward:", args.stopreward)
     # make environments
     train_envs = DummyVectorEnv(
-        [lambda: make_env(args.dataset, num=args.num, seed=args.seed, stop_reward=args.stopreward, k=args.k, maxd=args.maxd, alpha=args.alpha, supp=args.supp, domain_path=args.domain_path) for _ in range(args.training_num)]
+        [lambda: make_env(args.dataset, stop_reward=args.stopreward, k=args.k, maxd=args.maxd, supp=args.supp, domain_path=args.domain_path) for _ in range(args.training_num)]
     )
     train_envs.seed(args.seed)
-    # model
+    # init model
     Q_param = {"hidden_sizes": args.dueling_q_hidden_sizes}
     V_param = {"hidden_sizes": args.dueling_v_hidden_sizes}
     if args.algorithm == "dqn":
@@ -181,14 +187,16 @@ if __name__ == '__main__':
         os.makedirs(f"../tmp/{args.dataset}/")
 
     seed_everything(args.seed)
+    # start training 
     start_time = time.perf_counter()
-    train_dqn(args)
+    train_rlminer(args)
     end_time = time.perf_counter()
     print(f"Training Time[{args.seed}]: ", end_time-start_time)
     
     if not os.path.exists(f"../output/{args.dataset}/"):
         os.makedirs(f"../output/{args.dataset}/")
 
+    # save training time cost
     time_logger_path = f"../output/{args.dataset}/time_logger.json"
     if os.path.exists(time_logger_path):
         with open(time_logger_path, "r") as f:

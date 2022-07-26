@@ -4,31 +4,23 @@ version:
 Author: Yinan Mei
 Date: 2022-01-24 12:41:48
 LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:22:10
+LastEditTime: 2022-07-26 14:36:35
 '''
 import time
 import json
 import os
-import pprint
 import argparse
 import pickle
 
 import pandas as pd
-import gym
 import numpy as np
 import torch
-from torch.utils.tensorboard import SummaryWriter
 
-from env import ERMinerEnv, make_env
+from env import  make_env
 from net import Rainbow
-from tianshou.data import Collector, VectorReplayBuffer
-from tianshou.env import DummyVectorEnv, SubprocVectorEnv
-from tianshou.policy import DQNPolicy, C51Policy, RainbowPolicy
-from tianshou.trainer import offpolicy_trainer
-from tianshou.utils import TensorboardLogger
+from tianshou.policy import DQNPolicy, RainbowPolicy
 from tianshou.data import Batch
 from tianshou.utils.net.common import Net
-import random
 
 from utils import seed_everything
 
@@ -38,9 +30,8 @@ def get_args():
     # the parameters are found by Optuna
     parser.add_argument('--dataset', type=str, default='ERMiner')
     parser.add_argument('--seed', type=int, default=0)
-    parser.add_argument('--stopreward', type=float, default=0.1)
-    parser.add_argument('--supp', type=float, default=0.01)
-    parser.add_argument('--alpha', type=float, default=0.5)
+    parser.add_argument('--stopreward', type=float, default=0.01)
+    parser.add_argument('--supp', type=float, default=10)
     parser.add_argument('--maxd', type=int, default=100)
     parser.add_argument('--k', type=int, default=50)
     parser.add_argument('--num', type=int, default=500)
@@ -70,12 +61,20 @@ def get_args():
     parser.add_argument(
         '--device', type=str, default='cuda' if torch.cuda.is_available() else 'cpu'
     )
-    parser.add_argument('--expseed', type=int, default=-1)
     parser.add_argument('--domain_path', type=str, default=None)
     return parser.parse_args()
 
-def test_policy(args):
-    env = make_env(args.dataset, num=args.num, seed=args.seed, stop_reward=args.stopreward, k=args.k, maxd=args.maxd, alpha=args.alpha, supp=args.supp, domain_path=args.domain_path)
+def discover(args):
+    """discover a set of editing rules
+
+    Args:
+        args (Argparse): argument dict
+
+    Raises:
+        NotImplemented: _description_
+    """
+    # init RLMiner environment
+    env = make_env(args.dataset, stop_reward=args.stopreward, k=args.k, maxd=args.maxd, supp=args.supp, domain_path=args.domain_path)
     args.state_shape = env.observation_space.shape or env.observation_space.n
     args.action_shape = env.action_space.shape or env.action_space.n
     print("Observations shape:", args.state_shape)
@@ -118,14 +117,16 @@ def test_policy(args):
         ).to(args.device)
     else:
         raise NotImplemented(f"Algorithm {args.algorithm} is not supported yet.")
+    # load trained value network
     policy.load_state_dict(torch.load(f'./log/{args.dataset}/{args.num}/{args.algorithm}/policy.pth'))
     policy.eval()
     policy.set_eps(0.05)
 
-    obs = env.reset() # added for reference to obs object
+    # reset environment
+    obs = env.reset()
     obs = {k:np.array([v]) for k, v in obs.items()}
     policy.eval()
-    cnt = 0
+    # Start mining
     while True:
         action = policy.forward(Batch(obs=obs, info=None)).act[0]
         obs, reward, done, info = env.step(action)
@@ -133,10 +134,13 @@ def test_policy(args):
         if done or len(env.tree.get_leaves()) > 50:
             break
     cand_counts = env.rule_set_query()
+    # return the discovered valid rules
     rules = env.topk_rules(args.k)
     alg = args.algorithm if args.algorithm != "dqn" else ""
+    # Save discovered
     with open(f"../tmp/{args.dataset}/ERMiner{alg}-rules.pkl", "wb") as f:
         pickle.dump(rules, f)
+    # Save possible repairs
     with open(f"../tmp/{args.dataset}/ERMiner{alg}-cand_counts.pkl", "wb") as f:
         pickle.dump(cand_counts, f)
     print("Rule Num:",len(rules))
@@ -151,10 +155,11 @@ if __name__ == '__main__':
 
     seed_everything(args.seed)
     start_time = time.perf_counter()
-    test_policy(args)
+    discover(args)
     end_time = time.perf_counter()
     print(f"Discovery Time[{args.seed}]: ", end_time-start_time)
 
+    # Save time cost
     time_logger_path = f"../output/{args.dataset}/time_logger.json"
     if os.path.exists(time_logger_path):
         with open(time_logger_path, "r") as f:

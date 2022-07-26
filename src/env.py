@@ -4,7 +4,7 @@ version:
 Author: Yinan Mei
 Date: 2022-01-20 07:38:04
 LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:21:39
+LastEditTime: 2022-07-26 15:28:22
 '''
 from doctest import master
 import keyword
@@ -31,7 +31,20 @@ logger = logging.getLogger("Env")
 with open("../data/meta_data.json", "r") as f:
     meta_data = json.load(f)
 
-def make_env(dataset="HOSP", num=None, seed=None, stop_reward=0.1, k=50, maxd=100, alpha=0.5, supp=0.01, domain_path=None):
+def make_env(dataset="Location", stop_reward=0.01, k=50, maxd=200, supp=10, domain_path=None):
+    """Build RLMiner Environment
+
+    Args:
+        dataset (str, optional): dataset name. Defaults to "Location".
+        stop_reward (float, optional): reward value for the stop action. Defaults to 0.01.
+        k (int, optional): topk rules set by users. Defaults to 50.
+        maxd (int, optional): max domain size limit. Defaults to 200.
+        supp (int, optional): support threshold. Defaults to 10.
+        domain_path (_type_, optional): path of domain data . Defaults to None.
+
+    Returns:
+        _type_: _description_
+    """
     x_disc_attrs = meta_data[dataset]["disc"]
     x_cont_attrs = meta_data[dataset]["cont"]
     y_attr = meta_data[dataset]["y_attr"]
@@ -50,11 +63,26 @@ def make_env(dataset="HOSP", num=None, seed=None, stop_reward=0.1, k=50, maxd=10
         domain = pd.read_csv(domain_path, dtype=type_dict)
     else:
         domain = None
-    env = ERMinerEnv(input_data, master_data, x_disc_attrs, x_cont_attrs, y_attr, match=match, stop_reward=stop_reward, k=k, maxd=maxd, alpha=alpha, supp_threshold=supp,domain=domain)
+    env = ERMinerEnv(input_data, master_data, x_disc_attrs, x_cont_attrs, y_attr, match=match, stop_reward=stop_reward, k=k, maxd=maxd, supp_threshold=supp,domain=domain)
     return env
 
 class ERMinerEnv(gym.Env):
-    def __init__(self, input_data, master_data, x_disc_attrs, x_cont_attrs, y_attr, match, k=50, maxd=100, stop_reward=0.001, alpha=0.5, supp_threshold=0.01, domain=None) -> None:
+    def __init__(self, input_data, master_data, x_disc_attrs, x_cont_attrs, y_attr, match, k=50, maxd=100, stop_reward=0.001, supp_threshold=0.01, domain=None) -> None:
+        """Init Function of RLMiner
+
+        Args:
+            input_data (pd.DataFrame): input data 
+            master_data (pd.DataFrame): master data
+            x_disc_attrs (list): discrete attribute names
+            x_cont_attrs (list): continuous attribute names
+            y_attr (str): target attribute name
+            match (dict): schema match
+            k (int, optional): the number of topk. Defaults to 50.
+            maxd (int, optional): maximum domain size. Defaults to 100.
+            stop_reward (float, optional): reward for the stop action. Defaults to 0.001.
+            supp_threshold (float, optional): support threshold. Defaults to 0.01.
+            domain (pd.DataFrame, optional): data file store domains. Defaults to None.
+        """
         self.input_data = input_data
         self.master_data = master_data
         self.labeled_data = input_data
@@ -65,7 +93,6 @@ class ERMinerEnv(gym.Env):
         self.y_attr = y_attr
         self.match = match
         self.stop_reward = stop_reward
-        self.alpha = alpha
         self.k = k
         self.supp_threshold = supp_threshold
         encoders = dict()
@@ -92,10 +119,13 @@ class ERMinerEnv(gym.Env):
         self.stop_rules = set()
 
         self.steps = 0
-        self.covered_cnt = 0
 
     def reset(self):
-        self.covered_cnt = 0 
+        """reset the environment
+
+        Returns:
+            dict: initialized observation and mask
+        """
         self.state = np.zeros(self.enc_dim, dtype=int)
         self.curr_rule = None
         self.tree = Tree(x_attrs=self.x_attrs, y_attr=self.y_attr, rule_parser=self.parser)
@@ -105,7 +135,16 @@ class ERMinerEnv(gym.Env):
         return {"obs":self.state, "mask":self.mask}
         
     def step(self, action):
+        """update the environment according to the action and return the reward
+
+        Args:
+            action (int): action index
+
+        Returns:
+            dict: observation, mask, reward information and info
+        """
         self.steps += 1
+        # if the action is "stop", then RLMiner will move to the next node.
         if action == self.enc_dim:
             reward = self.stop_reward
             next_node = self.tree.get_next_node()
@@ -113,11 +152,12 @@ class ERMinerEnv(gym.Env):
             encoding = deepcopy(self.state)
             encoding[action] = 1
             rule = self.parser.encoding_to_rule(encoding)
+            # if the rule is explored, the reuse the reward
             if rule in self.reward_dict:
                 reward = self.reward_dict[rule]
                 score = self.score_dict[rule]
                 stop_flag = True if rule in self.stop_rules else False
-                self.covered_cnt += 1
+            # otherwise, evaluate the discovered rule, calculate and store the reward
             else:
                 if self.curr_rule is None:
                     score, input_ixs, master_ixs = self.eval_rule(rule)
@@ -134,12 +174,14 @@ class ERMinerEnv(gym.Env):
                 self.score_dict[rule] = score
                 if stop_flag:
                     self.stop_rules.add(rule)
+            # encourage / penalize the RLMiner if discover rules from the node with low / high utility 
             valid = True if score["support"] >= self.supp_threshold else False
             if valid:
                 if self.curr_rule in self.tree.leaves:
                     reward = reward + (reward-self.reward_dict.get(self.curr_rule,0))
             next_node = self.tree.update(encoding, stop_flag, valid)
-           
+        
+        # check whether the RLMiner ends
         if next_node and len(self.tree.get_leaves()) < self.k and self.steps < 300:
             self.state = next_node.get_state()
             self.curr_rule = self.parser.encoding_to_rule(self.state)
@@ -155,6 +197,14 @@ class ERMinerEnv(gym.Env):
         return {"obs":self.state, "mask":self.mask}, reward, done, {}
 
     def rule_set_query(self):
+        """repair with a set of eRs
+
+        Args:
+            rules (list): a list of editing rules
+
+        Returns:
+            dict: candidate fixes for all tuples
+        """
         all_counts = dict()
         for rule in self.tree.get_leaves():
             rule_counts = self.counter.counts(self.input_data, self.master_data, self.y_attr, rule)
@@ -162,6 +212,14 @@ class ERMinerEnv(gym.Env):
         return all_counts
 
     def topk_rules(self, k):
+        """return the top-k eRs
+
+        Args:
+            k (int): number of k
+
+        Returns:
+            list: top-k rules with the highest utility
+        """
         rule_scores = {rule:self.score_dict[rule] for rule in self.tree.get_leaves()}
         sorted_rules = sorted(rule_scores.items(), key=lambda x:x[1]["utility"], reverse=True)
         topk_rules = []
@@ -179,6 +237,15 @@ class ERMinerEnv(gym.Env):
         return topk_rules
 
     def eval_rule(self, rule, action_ix=None):
+        """Evaluate the measures of the given rule and return the subspace for acceleration
+
+        Args:
+            rule (EditingRule): to-evaluate editing rule
+            action_ix (int, optional): the index of the chosen action
+
+        Returns:
+            dict, pd.Index, pd.Index: measures, input subspace index, master subspace index
+        """
         if sum(self.state) == 0:
             cand_counts = self.counter.counts(self.input_data, self.master_data, self.y_attr, rule, self.supp_threshold)
             input_ixs, master_ixs = self.input_data.index, self.master_data.index
@@ -187,16 +254,32 @@ class ERMinerEnv(gym.Env):
             action, action_type = self.parser.ix_cond_dict[action_ix]
             cand_counts, input_ixs, master_ixs = self.counter.counts_with_sample(self.input_data.loc[ori_input_ixs], self.master_data.loc[ori_master_ixs], self.y_attr, self.curr_rule, action, action_type, self.supp_threshold)
         s_score = self.cal_support(cand_counts)
-        u_score = self.cal_uncertainty(cand_counts)
+        u_score = self.cal_certainty(cand_counts)
         q_score = self.cal_quality(cand_counts)
         utility = math.log(max(s_score,1.1),10)**2*(u_score+q_score)
         score = {"support":s_score,"uncertainty":u_score,"quality":q_score, "utility":utility}
         return score, input_ixs, master_ixs
 
     def cal_support(self, cand_counts):
+        """calculate the support
+
+        Args:
+            cand_counts (dict): candidate fixes 
+
+        Returns:
+            int: support
+        """
         return len(cand_counts)
 
-    def cal_uncertainty(self, cand_counts):
+    def cal_certainty(self, cand_counts):
+        """calculate the certainty
+
+        Args:
+            cand_counts (dict): candidate fixes 
+
+        Returns:
+            _type_: certainty
+        """
         all_ratio = list()
         for ix, cnt_dict in cand_counts.items():
             all_ratio.append(max(cnt_dict.values()))
@@ -205,6 +288,14 @@ class ERMinerEnv(gym.Env):
         return 0
 
     def cal_quality(self, cand_counts):
+        """calculate the quality
+
+        Args:
+            cand_counts (dict): candidate fixes 
+
+        Returns:
+            _type_: quality
+        """
         quality, cnt = 0, 0
         for ix in self.labeled_data.index:
             if ix in cand_counts:
@@ -217,6 +308,14 @@ class ERMinerEnv(gym.Env):
         return quality / cnt
 
     def cal_reward(self, score):
-        if score["support"] == 0:
+        """calculate the reward according to rule measures
+
+        Args:
+            score (dict): rule measures
+
+        Returns:
+            float: reward
+        """
+        if score["support"] < self.supp_threshold:
             return -0.01
         return score["utility"]

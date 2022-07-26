@@ -4,7 +4,7 @@ version:
 Author: Yinan Mei
 Date: 2022-01-20 07:44:13
 LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:16:23
+LastEditTime: 2022-07-26 16:01:53
 '''
 
 import numpy as np
@@ -14,6 +14,16 @@ from rule import EditingRule
 
 class Node(object):
     def __init__(self, rule, state, mask, id_, parent=None, children=[]) -> None:
+        """RuleNode
+
+        Args:
+            rule (EditingRule): the rule contained in the node
+            state (np.array): state encoding
+            mask (np.array): mask vector
+            id_ (int): node id
+            parent (Node, optional): its parent. Defaults to None.
+            children (list, optional): its children. Defaults to [].
+        """
         super().__init__()
         self.rule = rule
         self.state = state.astype(int)
@@ -48,6 +58,13 @@ class Node(object):
 
 class Tree(object):
     def __init__(self, x_attrs, y_attr, rule_parser) -> None:
+        """Rule tree
+
+        Args:
+            x_attrs (list): attributes in X and their types
+            y_attr (str): target attribute
+            rule_parser (RuleParser): the rule parser
+        """
         super().__init__()
         self.y_attr = y_attr
         self.depth = 1
@@ -72,6 +89,16 @@ class Tree(object):
         return self.leaves
     
     def update(self, encoding, stop_flag, valid):
+        """Given the new rule encoding to update the tree
+
+        Args:
+            encoding (np.array): new rule encoding
+            stop_flag (bool): whether stop
+            valid (bool): whether the rule is valid
+
+        Returns:
+            Node: the current node in the tree
+        """
         rule = self.parser.encoding_to_rule(encoding)
         assert len(rule.lhs_attrs) > 0
         local_mask = self.parser.get_mask_from_state(encoding)
@@ -90,6 +117,14 @@ class Tree(object):
         return self.current_node
 
     def get_action_mask(self, node):
+        """Get the mask for the action according to the environment
+
+        Args:
+            node (Node): the current node
+
+        Returns:
+            np.array: mask vector
+        """
         state = node.get_state()
         local_mask = node.get_local_mask()
         mask = deepcopy(local_mask)
@@ -102,7 +137,12 @@ class Tree(object):
         return mask
 
     def get_next_node(self):
-        # BFS - Level Order. Following lattice structure in rule mining.
+        """Traverse to the next node.
+        BFS - Level Order. Following lattice structure in rule mining.
+
+        Returns:
+            Node: the next node
+        """
         if self.current_queue:
             self.current_node = self.current_queue.pop()
         else:

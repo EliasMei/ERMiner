@@ -1,11 +1,4 @@
-'''
-Descripttion: 
-version: 
-Author: Yinan Mei
-Date: 2022-01-24 07:26:16
-LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:15:16
-'''
+"""From tianshou"""
 
 import torch, numpy as np
 from torch import nn

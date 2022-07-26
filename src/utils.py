@@ -4,7 +4,7 @@ version:
 Author: Yinan Mei
 Date: 2022-01-20 07:38:14
 LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:16:37
+LastEditTime: 2022-07-26 16:21:30
 '''
 from collections import Counter
 import numpy as np
@@ -18,31 +18,16 @@ import random
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 logger = logging.getLogger("Utils")
 
-def prefix_by_sep(data, k):
-    data = data.str.replace("-", " ")
-    data = data.str.replace("_", " ")
-    substr_list = []
-    for v in data:
-        sub_strings = str(v).split()
-        for ix, sub_str in enumerate(sub_strings):
-            if ix < len(substr_list):
-                substr_list[ix].append(" ".join(sub_strings[:ix+1]))
-            else:
-                substr_list.append([])
-                substr_list[ix].append(" ".join(sub_strings[:ix+1]))
-    prefix_ix = 0
-    for ix, l in enumerate(substr_list):
-        if len(Counter(l)) < k:
-            prefix_ix = ix
-            continue
-        break
-    def replace_func(v):
-        sub_strings = str(v).split()
-        return " ".join(sub_strings[:prefix_ix+1])
-    data = data.apply(replace_func)
-    return data
-
 def prefix_by_str(data, k):
+    """return prefix data satisfying the domain size limit=k
+
+    Args:
+        data (pd.Series): original data
+        k (int): domain size limi
+
+    Returns:
+        pd.Series: prefix data
+    """
     data = data.astype(str)
     max_len = int(max(data.str.len()))
     prefix_pos = 0
@@ -57,37 +42,23 @@ def prefix_by_str(data, k):
     data = data.apply(replace_func)
     return data
 
-def topk_frequency_encoding(data, k):
-    counts = data.value_counts()
-    topk_classes = counts[:k].index
-    data = data.apply(lambda x:x if x in topk_classes else "Other")
-    return data
 
-def check_specials(data, threshold=0.9):
-    specials = [" ", "-", "_"]
-    flag = False
-    for c in specials:
-        cnt = 0
-        for v in data:
-            cnt += (c in str(v))
-        if (cnt / len(data)) > threshold:
-            flag = True
-            break
-    return flag
+def shrinkage_domain(data:pd.Series, k:int, continuous=False):
+    """compress domain for acceleration
 
-def shrinkage_domain(data:pd.Series, k:int, threshold:float=0.9, continuous=False):
+    Args:
+        data (pd.Series): domain data
+        k (int): target dim
+        continuous (bool, optional): the data is continuous or not. Defaults to False.
+
+    Returns:
+        pd.Series: compressed domain
+    """
     counts = data.value_counts()
     if len(counts) < k:
         return data
-    # if (sum(counts[:k]) / len(data)) >= threshold:
-    #     data = topk_frequency_encoding(data, k)
-    #     prefix_pos = None
     #* For simplicity of querying, string prefix is more suitable
-    # flag = check_specials(data, threshold)
-    # if flag:
-    #     data = prefix_by_sep(data, k)
     else:
-        # data, prefix_pos = prefix_by_str(data, k)
         if continuous:
             data = pd.qcut(data, q=50, duplicates="drop").astype(str)
         else:
@@ -95,6 +66,15 @@ def shrinkage_domain(data:pd.Series, k:int, threshold:float=0.9, continuous=Fals
     return data
 
 def merge_counts(cand_counts, new_cand_counts):
+    """merge candidate fixes
+
+    Args:
+        cand_counts (dict): candidate fixes 1
+        new_cand_counts (dict): candidate fixes 2
+
+    Returns:
+        dict: merged candidate fixes
+    """
     for ix, new_counts in new_cand_counts.items():
         if ix not in cand_counts:
             cand_counts[ix] = new_counts
@@ -109,12 +89,29 @@ def merge_counts(cand_counts, new_cand_counts):
     return cand_counts
 
 class CandidateCounter(object):
+    """ Used to return candidate fixes according the rule """
     def __init__(self, x_disc_attrs, x_cont_attrs) -> None:
+        """Init Func
+
+        Args:
+            x_disc_attrs (list): discrete attributes
+            x_cont_attrs (list): continuous attributes
+        """
         super().__init__()
         self.x_disc_attrs = x_disc_attrs
         self.x_cont_attrs = x_cont_attrs
     
     def count_candidates(self, input_df, master_df, y_attr):
+        """calculate the confidence of the candidate fix
+
+        Args:
+            input_df (pd.DataFrame): input data
+            master_df (pd.DataFrame): master data
+            y_attr (str): target attribute
+
+        Returns:
+            dict: candidate fixes and the confidence values
+        """
         cand_counts = master_df[y_attr].value_counts().to_dict()
         #* transform count to ratio. Helping ID-like attribute dominates 
         cnt_sum = sum([cnt for v, cnt in cand_counts.items()])
@@ -126,6 +123,18 @@ class CandidateCounter(object):
         return count_dict
 
     def enumerate_wildcards(self, input_df, master_df, y_attr, attrs, attrs_m):
+        """Enumerate values for wildcards in the rule (LHS)
+
+        Args:
+            input_df (pd.DataFrame): input data
+            master_df (pd.DataFrame): master data
+            y_attr (str): target attribute
+            attrs (list): input attributes
+            attrs_m (list): master attributes
+
+        Returns:
+            dict: candidate fixes and the confidence values
+        """
         cand_counts = dict()
         cand_conds = input_df[attrs].value_counts().index
         cond_ixs_dict = input_df.groupby(attrs).groups
@@ -151,6 +160,17 @@ class CandidateCounter(object):
         return cand_counts
 
     def query(self, data, attr, value, continuous):
+        """_summary_
+
+        Args:
+            data (pd.DataFrame): query the data
+            attr (str): to-query attribute
+            value (str/float): key value
+            continuous (bool): if the value is continuous
+
+        Returns:
+            pd.Series: whether data[attr] values are the same as value
+        """
         value = str(value)
         if attr is None:
             return None
@@ -166,6 +186,17 @@ class CandidateCounter(object):
         return cond
 
     def counts(self, input_data, master_data, y_attr, rule, supp=1):
+        """return candidate fixes of the given rule
+
+        Args:
+            input_data (pd.DataFrame): input data
+            master_data (pd.DataFrame): master data
+            y_attr (str): target attribute
+            rule (EditingRule): editing rule
+            supp (int, optional): support threshold. Defaults to 1.
+        Returns:
+            dict: candidate fixes
+        """
         input_cond, master_cond = None, None
         for attr, value in rule.pattern.items():
             is_continuous = True if attr in self.x_cont_attrs else False
@@ -183,7 +214,7 @@ class CandidateCounter(object):
                     master_cond = master_new_cond
         covered_input = input_data[input_cond] if input_cond is not None else input_data
         covered_master = master_data[master_cond] if master_cond is not None else master_data
-        if len(covered_input) < supp:
+        if len(covered_input) < supp: #* condition for reward -0.01
             # return {}, covered_input.index, covered_master.index
             return {}
         if rule.wildcard_attrs:
@@ -193,6 +224,19 @@ class CandidateCounter(object):
         return cand_counts
 
     def counts_with_sample(self, input_data, master_data, y_attr, rule, action, action_type="lhs", supp=1):
+        """return candidate fixes of the given rule in the sub space
+
+        Args:
+            input_data (pd.DataFrame): input data
+            master_data (pd.DataFrame): master data
+            y_attr (str): target attribute
+            rule (EditingRule): editing rule
+            action (tuple): attribute (value) pair
+            action_type (str): lhs or pattern
+            supp (int, optional): support threshold. Defaults to 1.
+        Returns:
+            dict: candidate fixes
+        """
         wildcard_attrs = deepcopy(rule.wildcard_attrs)
         if action_type == "lhs":
             covered_input = input_data

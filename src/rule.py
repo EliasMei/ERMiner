@@ -4,13 +4,21 @@ version:
 Author: Yinan Mei
 Date: 2022-02-22 08:40:56
 LastEditors: Yinan Mei
-LastEditTime: 2022-04-26 07:15:43
+LastEditTime: 2022-07-26 15:57:28
 '''
 
 import numpy as np
 
 class EditingRule(object):
+    """Class of Editing Rule"""
     def __init__(self, lhs_attrs: dict, pattern: dict, x_attrs:list) -> None:
+        """Init Function
+
+        Args:
+            lhs_attrs (dict): Left Hand Side attributes
+            pattern (dict): patterns
+            x_attrs (list): input attributes in LHS or patterns
+        """
         self.lhs_attrs = dict()
         self.pattern = dict()
         for attr in x_attrs:
@@ -25,11 +33,24 @@ class EditingRule(object):
         self.enc = self.encode()
 
     def encode(self):
+        """encode the rule into str format
+
+        Returns:
+            str: editing rule str encoding
+        """
         lhs_attr_str = str(self.lhs_attrs)
         pattern_str = str(self.pattern)
         return f"{lhs_attr_str} || {pattern_str}"
 
     def dominate(self, rule):
+        """check whether it dominates the rule
+
+        Args:
+            rule (EditingRule): the to-check rule
+
+        Returns:
+            bool: if dominat the rule, then return True. Else, False
+        """
         attr_contain = self.attr_set.issubset(rule.attr_set)
         pattern_contain = True
         for attr, value in self.pattern.items():
@@ -54,6 +75,13 @@ class EditingRule(object):
 
 class RuleParser(object):
     def __init__(self, encoders, match, x_attrs) -> None:
+        """Parse rule encoding to EditingRule
+
+        Args:
+            encoders (OneHotEncoder): encoders from input data
+            match (dict): schema match
+            x_attrs (list): input attributes in LHS or patterns
+        """
         super().__init__()
         self.encoders = encoders # dict: {col_name:OneHotEncoder}
         self.x_attrs = x_attrs
@@ -85,6 +113,14 @@ class RuleParser(object):
         return self.enc_dim
 
     def encoding_to_rule(self, encoding):
+        """transform the rule (state) encoding to the rule
+
+        Args:
+            encoding (np.array): rule (state) encoding 
+
+        Returns:
+            EditingRule: the transformed rule
+        """
         enc_key = encoding.tobytes()
         if enc_key in self.enc_rule_dict:
             return self.enc_rule_dict[enc_key]
@@ -101,6 +137,14 @@ class RuleParser(object):
         return rule
 
     def get_mask_from_state(self, state):
+        """Get the mask according to the state encoding
+
+        Args:
+            state (np.array): rule (state) encoding 
+
+        Returns:
+            np.array: mask vector
+        """
         # mask: [0,1,1,1,0,0,0,0,0,1]
         # the last dimension identify whether we stop rule refinement.
         # thus, the last dimension is never masked.
@@ -119,49 +163,3 @@ class RuleParser(object):
                     left, right = self.dom_ranges[cond[0]]
                     mask[left:right] = 0
         return mask
-
-class CFDTransform:
-    def __init__(self, match, cfds, y_attr):
-        # the original match is one-to-one. key is the input attr, value is the master attr.
-        self.match = {v:k for k, v in match.items()} 
-        self.cfds = cfds
-        self.y_attr = y_attr
-    
-    def fit(self):
-        rules = []
-        # example cfd: (infection_case, city, province=Seoul, state=released) => country
-        for cfd in self.cfds: 
-            try:
-                lhs, rhs = cfd.split("=>")
-            except:
-                print(cfd)
-                raise ValueError("Debug")
-            if rhs.strip() != self.y_attr:
-                continue
-            # lhs_attrs: dict, pattern: dict, x_attrs:list
-            isvalid, lhs_attrs, pattern, x_attrs = self.parse(lhs)
-            if isvalid:
-                rule = EditingRule(lhs_attrs=lhs_attrs, pattern=pattern, x_attrs=x_attrs)
-                rules.append(rule)
-        return rules
-     
-    def parse(self, lhs):
-        lhs = lhs.strip()[1:-1] # exclude brackets
-        conds = lhs.split(",")
-        lhs_attrs, pattern, x_attrs = dict(), dict(), []
-        isvalid = True
-        for cond in map(lambda x:x.strip(), conds):
-            if "=" in cond: # pattern
-                x_attr, value = cond.split("=")
-                if x_attr not in self.match:
-                    isvalid = False
-                    break
-                pattern[self.match[x_attr]] = value # the key in pattern should be the attr in input data
-            else: # lhs_attrs
-                x_attr = cond
-                if x_attr not in self.match:
-                    isvalid = False
-                    break
-                lhs_attrs[self.match[x_attr]] = x_attr # the key in lhs_attr should be the attr in input data
-            x_attrs.append(x_attr)
-        return isvalid, lhs_attrs, pattern, x_attrs
