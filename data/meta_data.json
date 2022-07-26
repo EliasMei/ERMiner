@@ -73,6 +73,32 @@
             ]
         }
     },
+    "Location": {
+        "disc": [
+            "Province",
+            "City",
+            "area_code",
+            "Ownership Type",
+            "County",
+            "Timezone",
+            "Latitude",
+            "Longitude",
+            "Street Address"
+        ],
+        "cont": [],
+        "y_attr": "Postcode",
+        "match": {
+            "City": [
+                "City"
+            ],
+            "County": [
+                "County"
+            ],
+            "area_code": [
+                "area_code"
+            ]
+        }
+    },
     "Covid": {
         "disc": [
             "patient_id",
