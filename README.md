@@ -34,6 +34,11 @@ Repo - Paper "Discovering Editing Rules by Deep Reinforcement Learning"
 	  - `data/Nursery/master_data.csv`: master data of Nursery
 	  - `data/Nursery/input_data.csv`: input data of Nursery
 	  - `data/Nursery/input_data_clean.csv`: ground truths w.r.t input data of Nursery
+	  
+	- `data/Location`: dataset Location	
+	  - `data/Location/master_data.csv`: master data of Location
+	  - `data/Location/input_data.csv`: input data of Location
+	  - `data/Location/input_data_clean.csv`: ground truths w.r.t input data of Location
 
 ## Requirements
 
@@ -57,3 +62,7 @@ bash adult.sh
 bash nursery.sh
 ```
 
+- Test on Location
+```
+bash location.sh
+```
